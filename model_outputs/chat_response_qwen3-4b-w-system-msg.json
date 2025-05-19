@@ -1,121 +1,121 @@
 [
     {
         "question": "Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?",
-        "answer": "Natalia sold 48/2 = <<48/2=24>>24 clips in May.\nNatalia sold 48+24 = <<48+24=72>>72 clips altogether in April and May.\n#### 72",
+        "original_answer": "Natalia sold 48/2 = <<48/2=24>>24 clips in May.\nNatalia sold 48+24 = <<48+24=72>>72 clips altogether in April and May.\n#### 72",
         "generated_answer": "Natalia sold 48 clips in April. In May, she sold half as many, which is 48 / 2 = 24 clips. So in total, she sold 48 + 24 = 72 clips. The answer is 72.",
         "generated_thinking": ""
     },
     {
         "question": "Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?",
-        "answer": "Weng earns 12/60 = $<<12/60=0.2>>0.2 per minute.\nWorking 50 minutes, she earned 0.2 x 50 = $<<0.2*50=10>>10.\n#### 10",
+        "original_answer": "Weng earns 12/60 = $<<12/60=0.2>>0.2 per minute.\nWorking 50 minutes, she earned 0.2 x 50 = $<<0.2*50=10>>10.\n#### 10",
         "generated_answer": "Weng earns $12 per hour. She babysat for 50 minutes. Since 50 minutes is $ \\frac{50}{60} $ hours, that is $ \\frac{5}{6} $ of an hour. So she earned $ 12 \\times \\frac{5}{6} = 10 $ dollars. The answer is 10.",
         "generated_thinking": ""
     },
     {
         "question": "Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?",
-        "answer": "In the beginning, Betty has only 100 / 2 = $<<100/2=50>>50.\nBetty's grandparents gave her 15 * 2 = $<<15*2=30>>30.\nThis means, Betty needs 100 - 50 - 30 - 15 = $<<100-50-30-15=5>>5 more.\n#### 5",
+        "original_answer": "In the beginning, Betty has only 100 / 2 = $<<100/2=50>>50.\nBetty's grandparents gave her 15 * 2 = $<<15*2=30>>30.\nThis means, Betty needs 100 - 50 - 30 - 15 = $<<100-50-30-15=5>>5 more.\n#### 5",
         "generated_answer": "Betty needs $100 for the wallet. She already has half of that, which is $50. Her parents gave her $15, and her grandparents gave her twice as much as her parents, which is $30. So her total savings are $50 + $15 + $30 = $95. She needs $100, so she still needs $100 - $95 = $5. The answer is 5.",
         "generated_thinking": ""
     },
     {
         "question": "Julie is reading a 120-page book. Yesterday, she was able to read 12 pages and today, she read twice as many pages as yesterday. If she wants to read half of the remaining pages tomorrow, how many pages should she read?",
-        "answer": "Maila read 12 x 2 = <<12*2=24>>24 pages today.\nSo she was able to read a total of 12 + 24 = <<12+24=36>>36 pages since yesterday.\nThere are 120 - 36 = <<120-36=84>>84 pages left to be read.\nSince she wants to read half of the remaining pages tomorrow, then she should read 84/2 = <<84/2=42>>42 pages.\n#### 42",
+        "original_answer": "Maila read 12 x 2 = <<12*2=24>>24 pages today.\nSo she was able to read a total of 12 + 24 = <<12+24=36>>36 pages since yesterday.\nThere are 120 - 36 = <<120-36=84>>84 pages left to be read.\nSince she wants to read half of the remaining pages tomorrow, then she should read 84/2 = <<84/2=42>>42 pages.\n#### 42",
         "generated_answer": "Julie is reading a 120-page book. Yesterday, she read 12 pages. Today, she read twice as many pages as yesterday, which is 12 x 2 = 24 pages. So far, she has read 12 + 24 = 36 pages. The remaining pages are 120 - 36 = 84 pages. If she wants to read half of the remaining pages tomorrow, she should read 84 / 2 = 42 pages. The answer is 42.",
         "generated_thinking": ""
     },
     {
         "question": "James writes a 3-page letter to 2 different friends twice a week.  How many pages does he write a year?",
-        "answer": "He writes each friend 3*2=<<3*2=6>>6 pages a week\nSo he writes 6*2=<<6*2=12>>12 pages every week\nThat means he writes 12*52=<<12*52=624>>624 pages a year\n#### 624",
+        "original_answer": "He writes each friend 3*2=<<3*2=6>>6 pages a week\nSo he writes 6*2=<<6*2=12>>12 pages every week\nThat means he writes 12*52=<<12*52=624>>624 pages a year\n#### 624",
         "generated_answer": "James writes a 3-page letter to 2 friends, which is 3 x 2 = 6 pages per week. He does this twice a week, so 6 x 2 = 12 pages per week. There are 52 weeks in a year, so 12 x 52 = 624 pages. The answer is 624.",
         "generated_thinking": ""
     },
     {
         "question": "Mark has a garden with flowers. He planted plants of three different colors in it. Ten of them are yellow, and there are 80% more of those in purple. There are only 25% as many green flowers as there are yellow and purple flowers. How many flowers does Mark have in his garden?",
-        "answer": "There are 80/100 * 10 = <<80/100*10=8>>8 more purple flowers than yellow flowers.\nSo in Mark's garden, there are 10 + 8 = <<10+8=18>>18 purple flowers.\nPurple and yellow flowers sum up to 10 + 18 = <<10+18=28>>28 flowers.\nThat means in Mark's garden there are 25/100 * 28 = <<25/100*28=7>>7 green flowers.\nSo in total Mark has 28 + 7 = <<28+7=35>>35 plants in his garden.\n#### 35",
+        "original_answer": "There are 80/100 * 10 = <<80/100*10=8>>8 more purple flowers than yellow flowers.\nSo in Mark's garden, there are 10 + 8 = <<10+8=18>>18 purple flowers.\nPurple and yellow flowers sum up to 10 + 18 = <<10+18=28>>28 flowers.\nThat means in Mark's garden there are 25/100 * 28 = <<25/100*28=7>>7 green flowers.\nSo in total Mark has 28 + 7 = <<28+7=35>>35 plants in his garden.\n#### 35",
         "generated_answer": "Mark has 10 yellow flowers. There are 80% more purple flowers than yellow flowers. 80% of 10 is 8, so there are 10 + 8 = 18 purple flowers. There are 25% as many green flowers as there are yellow and purple flowers combined. Yellow and purple flowers total 10 + 18 = 28. 25% of 28 is 7, so there are 7 green flowers. In total, Mark has 10 + 18 + 7 = 35 flowers. The answer is 35.",
         "generated_thinking": ""
     },
     {
         "question": "Albert is wondering how much pizza he can eat in one day. He buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. If he eats it all, how many pieces does he eat that day?",
-        "answer": "He eats 32 from the largest pizzas because 2 x 16 = <<2*16=32>>32\nHe eats 16 from the small pizza because 2 x 8 = <<2*8=16>>16\nHe eats 48 pieces because 32 + 16 = <<32+16=48>>48\n#### 48",
+        "original_answer": "He eats 32 from the largest pizzas because 2 x 16 = <<2*16=32>>32\nHe eats 16 from the small pizza because 2 x 8 = <<2*8=16>>16\nHe eats 48 pieces because 32 + 16 = <<32+16=48>>48\n#### 48",
         "generated_answer": "Albert bought 2 large pizzas and 2 small pizzas. A large pizza has 16 slices, so 2 large pizzas have 2 x 16 = 32 slices. A small pizza has 8 slices, so 2 small pizzas have 2 x 8 = 16 slices. In total, he has 32 + 16 = 48 slices. If he eats all of them, he eats 48 pieces. The answer is 48.",
         "generated_thinking": ""
     },
     {
         "question": "Ken created a care package to send to his brother, who was away at boarding school.  Ken placed a box on a scale, and then he poured into the box enough jelly beans to bring the weight to 2 pounds.  Then, he added enough brownies to cause the weight to triple.  Next, he added another 2 pounds of jelly beans.  And finally, he added enough gummy worms to double the weight once again.  What was the final weight of the box of goodies, in pounds?",
-        "answer": "To the initial 2 pounds of jelly beans, he added enough brownies to cause the weight to triple, bringing the weight to 2*3=<<2*3=6>>6 pounds.\nNext, he added another 2 pounds of jelly beans, bringing the weight to 6+2=<<6+2=8>>8 pounds.\nAnd finally, he added enough gummy worms to double the weight once again, to a final weight of 8*2=<<8*2=16>>16 pounds.\n#### 16",
+        "original_answer": "To the initial 2 pounds of jelly beans, he added enough brownies to cause the weight to triple, bringing the weight to 2*3=<<2*3=6>>6 pounds.\nNext, he added another 2 pounds of jelly beans, bringing the weight to 6+2=<<6+2=8>>8 pounds.\nAnd finally, he added enough gummy worms to double the weight once again, to a final weight of 8*2=<<8*2=16>>16 pounds.\n#### 16",
         "generated_answer": "Ken started with a box that weighed 2 pounds after adding jelly beans. Then he added enough brownies to triple the weight, so the weight became 2 * 3 = 6 pounds. Next, he added another 2 pounds of jelly beans, making the total weight 6 + 2 = 8 pounds. Finally, he added gummy worms to double the weight, so the final weight is 8 * 2 = 16 pounds. The answer is 16.",
         "generated_thinking": ""
     },
     {
         "question": "Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. She went to a department store with a budget of $200 and spent $30 on a button-up shirt, $46 on suit pants, $38 on a suit coat, $11 on socks, and $18 on a belt. She also purchased a pair of shoes, but lost the receipt for them. She has $16 left from her budget. How much did Alexis pay for the shoes?",
-        "answer": "Let S be the amount Alexis paid for the shoes.\nShe spent S + 30 + 46 + 38 + 11 + 18 = S + <<+30+46+38+11+18=143>>143.\nShe used all but $16 of her budget, so S + 143 = 200 - 16 = 184.\nThus, Alexis paid S = 184 - 143 = $<<184-143=41>>41 for the shoes.\n#### 41",
+        "original_answer": "Let S be the amount Alexis paid for the shoes.\nShe spent S + 30 + 46 + 38 + 11 + 18 = S + <<+30+46+38+11+18=143>>143.\nShe used all but $16 of her budget, so S + 143 = 200 - 16 = 184.\nThus, Alexis paid S = 184 - 143 = $<<184-143=41>>41 for the shoes.\n#### 41",
         "generated_answer": "Alexis started with a budget of $200. She spent $30 on a button-up shirt, $46 on suit pants, $38 on a suit coat, $11 on socks, and $18 on a belt. Adding these amounts: 30 + 46 + 38 + 11 + 18 = 143. She also bought shoes, but the cost is unknown. After all purchases, she has $16 left. So the total amount spent is 200 - 16 = 184. The amount spent on shoes is 184 - 143 = 41. The answer is 41.",
         "generated_thinking": ""
     },
     {
         "question": "Tina makes $18.00 an hour.  If she works more than 8 hours per shift, she is eligible for overtime, which is paid by your hourly wage + 1/2 your hourly wage.  If she works 10 hours every day for 5 days, how much money does she make?",
-        "answer": "She works 8 hours a day for $18 per hour so she makes 8*18 = $<<8*18=144.00>>144.00 per 8-hour shift\nShe works 10 hours a day and anything over 8 hours is eligible for overtime, so she gets 10-8 = <<10-8=2>>2 hours of overtime\nOvertime is calculated as time and a half so and she makes $18/hour so her overtime pay is 18*.5 = $<<18*.5=9.00>>9.00\nHer overtime pay is 18+9 = $<<18+9=27.00>>27.00\nHer base pay is $144.00 per 8-hour shift and she works 5 days and makes 5 * $144 = $<<144*5=720.00>>720.00\nHer overtime pay is $27.00 per hour and she works 2 hours of overtime per day and makes 27*2 = $<<27*2=54.00>>54.00 in overtime pay\n2 hours of overtime pay for 5 days means she makes 54*5 = $270.00\nIn 5 days her base pay is $720.00 and she makes $270.00 in overtime pay so she makes $720 + $270 = $<<720+270=990.00>>990.00\n#### 990",
+        "original_answer": "She works 8 hours a day for $18 per hour so she makes 8*18 = $<<8*18=144.00>>144.00 per 8-hour shift\nShe works 10 hours a day and anything over 8 hours is eligible for overtime, so she gets 10-8 = <<10-8=2>>2 hours of overtime\nOvertime is calculated as time and a half so and she makes $18/hour so her overtime pay is 18*.5 = $<<18*.5=9.00>>9.00\nHer overtime pay is 18+9 = $<<18+9=27.00>>27.00\nHer base pay is $144.00 per 8-hour shift and she works 5 days and makes 5 * $144 = $<<144*5=720.00>>720.00\nHer overtime pay is $27.00 per hour and she works 2 hours of overtime per day and makes 27*2 = $<<27*2=54.00>>54.00 in overtime pay\n2 hours of overtime pay for 5 days means she makes 54*5 = $270.00\nIn 5 days her base pay is $720.00 and she makes $270.00 in overtime pay so she makes $720 + $270 = $<<720+270=990.00>>990.00\n#### 990",
         "generated_answer": "Tina's regular hourly wage is $18.00. For overtime, she earns $18.00 + ($18.00 \u00d7 1/2) = $18.00 + $9.00 = $27.00 per hour.  \n\nShe works 10 hours each day for 5 days. Out of those 10 hours, the first 8 hours are regular pay, and the remaining 2 hours are overtime.  \n\nFor each day:  \n- Regular pay: 8 hours \u00d7 $18.00 = $144.00  \n- Overtime pay: 2 hours \u00d7 $27.00 = $54.00  \n\nTotal per day: $144.00 + $54.00 = $198.00  \n\nFor 5 days: 5 \u00d7 $198.00 = $990.00  \n\nThe answer is 990.",
         "generated_thinking": ""
     },
     {
         "question": "A deep-sea monster rises from the waters once every hundred years to feast on a ship and sate its hunger. Over three hundred years, it has consumed 847 people. Ships have been built larger over time, so each new ship has twice as many people as the last ship. How many people were on the ship the monster ate in the first hundred years?",
-        "answer": "Let S be the number of people on the first hundred years\u2019 ship.\nThe second hundred years\u2019 ship had twice as many as the first, so it had 2S people.\nThe third hundred years\u2019 ship had twice as many as the second, so it had 2 * 2S = <<2*2=4>>4S people.\nAll the ships had S + 2S + 4S = 7S = 847 people.\nThus, the ship that the monster ate in the first hundred years had S = 847 / 7 = <<847/7=121>>121 people on it.\n#### 121",
+        "original_answer": "Let S be the number of people on the first hundred years\u2019 ship.\nThe second hundred years\u2019 ship had twice as many as the first, so it had 2S people.\nThe third hundred years\u2019 ship had twice as many as the second, so it had 2 * 2S = <<2*2=4>>4S people.\nAll the ships had S + 2S + 4S = 7S = 847 people.\nThus, the ship that the monster ate in the first hundred years had S = 847 / 7 = <<847/7=121>>121 people on it.\n#### 121",
         "generated_answer": "The monster has consumed 847 people over 300 years. It rises once every 100 years, so there are 3 feasts. Let the number of people on the first ship be $ x $. The second ship had $ 2x $ people, and the third ship had $ 4x $ people. The total number of people is:\n\n$$\nx + 2x + 4x = 7x\n$$\n\nWe know that $ 7x = 847 $. Solving for $ x $:\n\n$$\nx = \\frac{847}{7} = 121\n$$\n\nThe answer is 121.",
         "generated_thinking": ""
     },
     {
         "question": "Tobias is buying a new pair of shoes that costs $95. He has been saving up his money each month for the past three months. He gets a $5 allowance a month. He also mows lawns and shovels driveways. He charges $15 to mow a lawn and $7 to shovel. After buying the shoes, he has $15 in change. If he mows 4 lawns, how many driveways did he shovel?",
-        "answer": "He saved up $110 total because 95 + 15 = <<95+15=110>>110\nHe saved $15 from his allowance because 3 x 5 = <<3*5=15>>15\nHe earned $60 mowing lawns because 4 x 15 = <<4*15=60>>60\nHe earned $35 shoveling driveways because 110 - 60 - 15 = <<110-60-15=35>>35\nHe shoveled 5 driveways because 35 / 7 = <<35/7=5>>5\n#### 5",
+        "original_answer": "He saved up $110 total because 95 + 15 = <<95+15=110>>110\nHe saved $15 from his allowance because 3 x 5 = <<3*5=15>>15\nHe earned $60 mowing lawns because 4 x 15 = <<4*15=60>>60\nHe earned $35 shoveling driveways because 110 - 60 - 15 = <<110-60-15=35>>35\nHe shoveled 5 driveways because 35 / 7 = <<35/7=5>>5\n#### 5",
         "generated_answer": "Tobias spent $95 on shoes and had $15 left, so he saved a total of $95 + $15 = $110.  \n\nHe saved $5 per month for 3 months, so that's 3 \u00d7 $5 = $15.  \n\nHe also mowed 4 lawns at $15 each, so that's 4 \u00d7 $15 = $60.  \n\nLet the number of driveways he shoveled be $ x $. Each driveway costs $7, so that's $7x$.  \n\nTotal savings: $15 (allowance) + $60 (lawns) + $7x (driveways) = $110.  \n\nSo:  \n$15 + $60 + $7x = $110  \n$75 + $7x = $110  \n$7x = $35  \nx = 5  \n\nThe answer is 5.",
         "generated_thinking": ""
     },
     {
         "question": "Randy has 60 mango trees on his farm. He also has 5 less than half as many coconut trees as mango trees. How many trees does Randy have in all on his farm?",
-        "answer": "Half of the number of Randy's mango trees is 60/2 = <<60/2=30>>30 trees.\nSo Randy has 30 - 5 = <<30-5=25>>25 coconut trees.\nTherefore, Randy has 60 + 25 = <<60+25=85>>85 treeson his farm.\n#### 85",
+        "original_answer": "Half of the number of Randy's mango trees is 60/2 = <<60/2=30>>30 trees.\nSo Randy has 30 - 5 = <<30-5=25>>25 coconut trees.\nTherefore, Randy has 60 + 25 = <<60+25=85>>85 treeson his farm.\n#### 85",
         "generated_answer": "Randy has 60 mango trees. For the coconut trees, half of the mango trees is 60 / 2 = 30. Then, 5 less than that is 30 - 5 = 25. So Randy has 60 + 25 = 85 trees in total. The answer is 85.",
         "generated_thinking": ""
     },
     {
         "question": "Jasper will serve charcuterie at his dinner party. He buys 2 pounds of cheddar cheese for $10, a pound of cream cheese that cost half the price of the cheddar cheese, and a pack of cold cuts that cost twice the price of the cheddar cheese. How much does he spend on the ingredients?",
-        "answer": "A pound of cream cheese cost $10 / 2 = $<<10/2=5>>5.\nA pack of cold cuts cost $10 x 2 = $<<10*2=20>>20.\nJasper spent $10 + $5 + $20 = $<<10+5+20=35>>35 on the ingredients.\n#### 35",
+        "original_answer": "A pound of cream cheese cost $10 / 2 = $<<10/2=5>>5.\nA pack of cold cuts cost $10 x 2 = $<<10*2=20>>20.\nJasper spent $10 + $5 + $20 = $<<10+5+20=35>>35 on the ingredients.\n#### 35",
         "generated_answer": "Jasper buys 2 pounds of cheddar cheese for $10. The cream cheese costs half the price of the cheddar cheese, so it costs $10 / 2 = $5. The cold cuts cost twice the price of the cheddar cheese, so they cost $10 * 2 = $20. Adding these together: $10 + $5 + $20 = $35. The answer is 35.",
         "generated_thinking": ""
     },
     {
         "question": "Joy can read 8 pages of a book in 20 minutes. How many hours will it take her to read 120 pages?",
-        "answer": "In one hour, there are 3 sets of 20 minutes.\nSo, Joy can read 8 x 3 = <<8*3=24>>24 pages in an hour.\nIt will take her 120/24 = <<120/24=5>>5 hours to read 120 pages.\n#### 5",
+        "original_answer": "In one hour, there are 3 sets of 20 minutes.\nSo, Joy can read 8 x 3 = <<8*3=24>>24 pages in an hour.\nIt will take her 120/24 = <<120/24=5>>5 hours to read 120 pages.\n#### 5",
         "generated_answer": "Joy can read 8 pages in 20 minutes. To read 120 pages, we first find how many sets of 8 pages are in 120 pages: 120 \u00f7 8 = 15. Each set of 8 pages takes 20 minutes, so 15 sets will take 15 \u00d7 20 = 300 minutes. To convert minutes to hours, we divide by 60: 300 \u00f7 60 = 5. The answer is 5.",
         "generated_thinking": ""
     },
     {
         "question": "James creates a media empire.  He creates a movie for $2000.  Each DVD cost $6 to make.  He sells it for 2.5 times that much.  He sells 500 movies a day for 5 days a week.  How much profit does he make in 20 weeks?",
-        "answer": "He sold each DVD for 6*2.5=$<<6*2.5=15>>15\nSo he makes a profit of 15-6=$<<15-6=9>>9\nSo each day he makes a profit of 9*500=$<<9*500=4500>>4500\nSo he makes 4500*5=$<<4500*5=22500>>22,500\nHe makes 22,500*20=$<<22500*20=450000>>450,000\nThen after the cost of creating the movie he has a profit of 450,000-2000=$<<450000-2000=448000>>448,000\n#### 448000",
+        "original_answer": "He sold each DVD for 6*2.5=$<<6*2.5=15>>15\nSo he makes a profit of 15-6=$<<15-6=9>>9\nSo each day he makes a profit of 9*500=$<<9*500=4500>>4500\nSo he makes 4500*5=$<<4500*5=22500>>22,500\nHe makes 22,500*20=$<<22500*20=450000>>450,000\nThen after the cost of creating the movie he has a profit of 450,000-2000=$<<450000-2000=448000>>448,000\n#### 448000",
         "generated_answer": "James creates a movie for $2000. Each DVD costs $6 to make and is sold for 2.5 times that amount, which is 2.5 * 6 = $15. The profit per DVD is 15 - 6 = $9. He sells 500 movies a day for 5 days a week, so he sells 500 * 5 = 2500 movies per week. Over 20 weeks, he sells 2500 * 20 = 50,000 movies. His total profit is 50,000 * 9 = $450,000. The answer is 450000.",
         "generated_thinking": ""
     },
     {
         "question": "The profit from a business transaction is shared among 2 business partners, Mike and Johnson in the ratio 2:5 respectively. If Johnson got $2500, how much will Mike have after spending some of his share on a shirt that costs $200?",
-        "answer": "According to the ratio, for every 5 parts that Johnson gets, Mike gets 2 parts\nSince Johnson got $2500, each part is therefore $2500/5 = $<<2500/5=500>>500\nMike will get 2*$500 = $<<2*500=1000>>1000\nAfter buying the shirt he will have $1000-$200 = $<<1000-200=800>>800 left\n#### 800",
+        "original_answer": "According to the ratio, for every 5 parts that Johnson gets, Mike gets 2 parts\nSince Johnson got $2500, each part is therefore $2500/5 = $<<2500/5=500>>500\nMike will get 2*$500 = $<<2*500=1000>>1000\nAfter buying the shirt he will have $1000-$200 = $<<1000-200=800>>800 left\n#### 800",
         "generated_answer": "The profit is shared in the ratio 2:5 between Mike and Johnson. Johnson's share is $2500, which corresponds to 5 parts. Each part is $2500 \u00f7 5 = $500. Mike's share is 2 parts, so 2 \u00d7 $500 = $1000. After spending $200 on a shirt, Mike has $1000 - $200 = $800 left. The answer is 800.",
         "generated_thinking": ""
     },
     {
         "question": "In a truck, there are 26 pink hard hats, 15 green hard hats, and 24 yellow hard hats.  If Carl takes away 4 pink hard hats, and John takes away 6 pink hard hats and twice as many green hard hats as the number of pink hard hats that he removed, then calculate the total number of hard hats that remained in the truck.",
-        "answer": "If there were 26 pink hard hats and Carl took away 4 pink hard hats, the number of pink hard hats that remained is 26-4 = <<26-4=22>>22\nJohn also took away 6 pink hard hats, leaving 22-6 = <<22-6=16>>16 pink hard hats in the truck.\nIf John also took twice as many green hard hats as pink hard hats, he took 2*6 = <<6*2=12>>12 green hard hats.\nThe total number of green hard hats that remained in the truck is 15-12 = <<15-12=3>>3\nIn the truck, after some are taken, there were 3 green hard hats + 16 pink hard hats = <<3+16=19>>19 hard hats in the truck.\nAltogether, 19 green and pink hard hats + 24 yellow hards hats = <<19+24=43>>43 hard hats remained in the truck\n#### 43",
+        "original_answer": "If there were 26 pink hard hats and Carl took away 4 pink hard hats, the number of pink hard hats that remained is 26-4 = <<26-4=22>>22\nJohn also took away 6 pink hard hats, leaving 22-6 = <<22-6=16>>16 pink hard hats in the truck.\nIf John also took twice as many green hard hats as pink hard hats, he took 2*6 = <<6*2=12>>12 green hard hats.\nThe total number of green hard hats that remained in the truck is 15-12 = <<15-12=3>>3\nIn the truck, after some are taken, there were 3 green hard hats + 16 pink hard hats = <<3+16=19>>19 hard hats in the truck.\nAltogether, 19 green and pink hard hats + 24 yellow hards hats = <<19+24=43>>43 hard hats remained in the truck\n#### 43",
         "generated_answer": "Initially, there are 26 pink hard hats, 15 green hard hats, and 24 yellow hard hats. The total number of hard hats is 26 + 15 + 24 = 65.  \n\nCarl takes away 4 pink hard hats, leaving 26 - 4 = 22 pink hard hats.  \n\nJohn takes away 6 pink hard hats and twice as many green hard hats as the number of pink hard hats he removed. So John takes away 6 pink hard hats and 2 * 6 = 12 green hard hats. This leaves 22 - 6 = 16 pink hard hats and 15 - 12 = 3 green hard hats.  \n\nThe total number of hard hats remaining in the truck is 16 (pink) + 3 (green) + 24 (yellow) = 43.  \n\nThe answer is 43.",
         "generated_thinking": ""
     },
     {
         "question": "It takes Roque two hours to walk to work and one hour to ride his bike to work. Roque walks to and from work three times a week and rides his bike to and from work twice a week. How many hours in total does he take to get to and from work a week with walking and biking?",
-        "answer": "Roque takes 2*3 = <<2*3=6>>6 hours a week to walk to work.\nRoque takes 6*2 = <<6*2=12>>12 hours a week to walk to and from work.\nRoque takes 1*2 = <<1*2=2>>2 hours a week to bike to work.\nRoque takes 2*2 = <<2*2=4>>4 hours a week to bike to and from work.\nIn total, Roque takes 12+4 = <<12+4=16>>16 hour a week to go to and from work.\n#### 16",
+        "original_answer": "Roque takes 2*3 = <<2*3=6>>6 hours a week to walk to work.\nRoque takes 6*2 = <<6*2=12>>12 hours a week to walk to and from work.\nRoque takes 1*2 = <<1*2=2>>2 hours a week to bike to work.\nRoque takes 2*2 = <<2*2=4>>4 hours a week to bike to and from work.\nIn total, Roque takes 12+4 = <<12+4=16>>16 hour a week to go to and from work.\n#### 16",
         "generated_answer": "Roque walks to and from work three times a week, which is 3 round trips. Each round trip walking takes 2 hours to walk and 2 hours to walk back, for a total of 4 hours per round trip. So, for walking, he takes $3 \\times 4 = 12$ hours per week.  \n\nRoque rides his bike to and from work twice a week, which is 2 round trips. Each round trip biking takes 1 hour to ride and 1 hour to ride back, for a total of 2 hours per round trip. So, for biking, he takes $2 \\times 2 = 4$ hours per week.  \n\nIn total, Roque takes $12 + 4 = 16$ hours per week to get to and from work with walking and biking. The answer is 16.",
         "generated_thinking": ""
     },
     {
         "question": "Tim rides his bike back and forth to work for each of his 5 workdays.  His work is 20 miles away.  He also goes for a weekend bike ride of 200 miles.    If he can bike at 25 mph how much time does he spend biking a week?",
-        "answer": "He bikes 20*2=<<20*2=40>>40 miles each day for work\nSo he bikes 40*5=<<40*5=200>>200 miles for work\nThat means he bikes a total of 200+200=<<200+200=400>>400 miles for work\nSo he bikes a total of 400/25=<<400/25=16>>16 hours\n#### 16",
+        "original_answer": "He bikes 20*2=<<20*2=40>>40 miles each day for work\nSo he bikes 40*5=<<40*5=200>>200 miles for work\nThat means he bikes a total of 200+200=<<200+200=400>>400 miles for work\nSo he bikes a total of 400/25=<<400/25=16>>16 hours\n#### 16",
         "generated_answer": "Tim rides his bike back and forth to work for 5 workdays. Since his work is 20 miles away, one round trip is 40 miles. For 5 workdays, he rides 40 miles/day \u00d7 5 days = 200 miles. He also goes for a weekend bike ride of 200 miles. In total, he bikes 200 + 200 = 400 miles in a week. \n\nAt a speed of 25 mph, the time spent biking is 400 miles \u00f7 25 mph = 16 hours. The answer is 16.",
         "generated_thinking": ""
     }

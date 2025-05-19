@@ -40,7 +40,7 @@ def evaluate_answers(file_path):
 
     for i, item in enumerate(data):
         question = item.get("question")
-        original_answer_str = item.get("answer")
+        original_answer_str = item.get("original_answer")
         answer_text_str = item.get("generated_answer")
 
         if not question or not original_answer_str or not answer_text_str:
