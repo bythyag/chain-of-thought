@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Mark had 2 Doll. Roland proffered him some more. Now Mark has 161 Doll. How many did Roland proffer him?",
+        "original_answer": "159",
+        "answer_text": "To find out how many dollars Roland proffered to Mark, we can set up the equation based on the information given.\n\nLet \\( x \\) be the amount of dollars Roland proffered to Mark. \n\nInitially, Mark had 2 dollars, and after receiving \\( x \\) dollars from Roland, he has a total of 161 dollars. We can write the equation as:\n\n\\[\n2 + x = 161\n\\]\n\nTo find \\( x \\), we can subtract 2 from both sides:\n\n\\[\nx = 161 - 2\n\\]\n\\[\nx = 159\n\\]\n\nSo, Roland proffered Mark **159 dollars**."
+    },
+    {
+        "question": "Gloria had some raspberry. Margaret gave him 7 more. Now Gloria has 33 raspberry. How many raspberry did Gloria have in the first?",
+        "original_answer": "26",
+        "answer_text": "Let \\( x \\) be the number of raspberries Gloria had initially. According to the problem, after Margaret gave Gloria 7 more raspberries, Gloria had a total of 33 raspberries. We can set up the equation:\n\n\\[\nx + 7 = 33\n\\]\n\nTo find \\( x \\), we can subtract 7 from both sides:\n\n\\[\nx = 33 - 7\n\\]\n\n\\[\nx = 26\n\\]\n\nSo, Gloria initially had **26 raspberries**."
+    },
+    {
+        "question": "Tina had 7 raspberry . He hash each raspberry into 10 slices . How many raspberry slices did Tina make?",
+        "original_answer": "70",
+        "answer_text": "To find out how many raspberry slices Tina made, you can multiply the number of raspberries by the number of slices each raspberry is cut into.\n\nTina has 7 raspberries, and each raspberry is cut into 10 slices:\n\n\\[\n7 \\text{ raspberries} \\times 10 \\text{ slices per raspberry} = 70 \\text{ slices}\n\\]\n\nSo, Tina made 70 raspberry slices."
+    },
+    {
+        "question": "Ernesto had some pear. Jimmie gave him 8 more. Now Ernesto has 35 pear. How many pear did Ernesto have primitively?",
+        "original_answer": "27",
+        "answer_text": "Let \\( x \\) be the number of pears Ernesto had originally. According to the problem, Jimmie gave him 8 more pears, and now Ernesto has 35 pears. We can set up the equation:\n\n\\[\nx + 8 = 35\n\\]\n\nTo find \\( x \\), we can subtract 8 from both sides:\n\n\\[\nx = 35 - 8\n\\]\n\n\\[\nx = 27\n\\]\n\nSo, Ernesto originally had **27 pears**."
+    },
+    {
+        "question": "Elizabeth had some cherry. Don took 74 from him. Now Elizabeth has 74 cherry. How many cherry Elizabeth had in the beginning?",
+        "original_answer": "148",
+        "answer_text": "Let's denote the number of cherries Elizabeth had initially as \\( x \\).\n\nAccording to the problem, Don took 74 cherries from Elizabeth, and after that, Elizabeth had 74 cherries left. We can set up the equation:\n\n\\[\nx - 74 = 74\n\\]\n\nTo find \\( x \\), we can add 74 to both sides of the equation:\n\n\\[\nx = 74 + 74\n\\]\n\n\\[\nx = 148\n\\]\n\nSo, Elizabeth initially had **148 cherries**."
+    },
+    {
+        "question": "Joseph had 93 fig. Howard took 90 from him. Now How many fig Joseph have minus?",
+        "original_answer": "3",
+        "answer_text": "If Joseph had 93 figs and Howard took 90 from him, we can calculate how many figs Joseph has left:\n\n93 - 90 = 3\n\nSo, Joseph has 3 figs left. \n\nIf you are asking how many figs he has minus (in a negative sense), it would be 0 minus 3, which is -3. However, in terms of actual figs, Joseph has 3 figs remaining."
+    },
+    {
+        "question": "Nichole had some plum. David took 25 from him. Now Nichole has 31 plum. How many plum Nichole had earlier?",
+        "original_answer": "56",
+        "answer_text": "Let's denote the number of plums Nichole had earlier as \\( x \\).\n\nAccording to the problem, David took 25 plums from Nichole, and after that, Nichole had 31 plums. We can set up the equation:\n\n\\[\nx - 25 = 31\n\\]\n\nTo find \\( x \\), we can add 25 to both sides of the equation:\n\n\\[\nx = 31 + 25\n\\]\n\n\\[\nx = 56\n\\]\n\nSo, Nichole had 56 plums earlier."
+    },
+    {
+        "question": "Joseph had 1 blueberry. Jessica contributeed him some more. Now Joseph has 132 blueberry. How many did Jessica contribute him?",
+        "original_answer": "131",
+        "answer_text": "To find out how many blueberries Jessica contributed to Joseph, we can set up the equation based on the information given.\n\nLet \\( x \\) be the number of blueberries Jessica contributed. \n\nInitially, Joseph had 1 blueberry, and after Jessica's contribution, he has 132 blueberries. We can express this as:\n\n\\[\n1 + x = 132\n\\]\n\nTo find \\( x \\), we can subtract 1 from both sides:\n\n\\[\nx = 132 - 1\n\\]\n\\[\nx = 131\n\\]\n\nSo, Jessica contributed **131 blueberries** to Joseph."
+    },
+    {
+        "question": "Billy has 62 crayons. 52 are eaten by a hippopotamus. How many crayons will Billy have?",
+        "original_answer": "10",
+        "answer_text": "To find out how many crayons Billy has left after the hippopotamus eats some, you subtract the number of crayons eaten from the total number of crayons Billy originally had.\n\nBilly originally has 62 crayons, and 52 are eaten:\n\n\\[ \n62 - 52 = 10 \n\\]\n\nSo, Billy will have 10 crayons left."
+    },
+    {
+        "question": "Cindy had some Banana. Mary gave him 3 more. Now Cindy has 11 Banana. How many Banana did Cindy have incipiently?",
+        "original_answer": "8",
+        "answer_text": "Let's denote the number of bananas Cindy had initially as \\( x \\).\n\nAccording to the problem, after Mary gave Cindy 3 more bananas, Cindy had a total of 11 bananas. We can set up the equation:\n\n\\[\nx + 3 = 11\n\\]\n\nTo find \\( x \\), we can subtract 3 from both sides:\n\n\\[\nx = 11 - 3\n\\]\n\\[\nx = 8\n\\]\n\nSo, Cindy initially had **8 bananas**."
+    },
+    {
+        "question": "Stephanie had 13 Biscuit. Polly accorded him some more. Now Stephanie has 164 Biscuit. How many did Polly accord him?",
+        "original_answer": "151",
+        "answer_text": "To find out how many biscuits Polly accorded Stephanie, we can set up the equation based on the information given.\n\nLet \\( x \\) be the number of biscuits Polly accorded Stephanie.\n\nInitially, Stephanie had 13 biscuits. After receiving \\( x \\) biscuits from Polly, he has a total of 164 biscuits. We can write the equation as:\n\n\\[\n13 + x = 164\n\\]\n\nTo find \\( x \\), we can subtract 13 from both sides:\n\n\\[\nx = 164 - 13\n\\]\n\nCalculating the right side:\n\n\\[\nx = 151\n\\]\n\nSo, Polly accorded Stephanie **151 biscuits**."
+    },
+    {
+        "question": "Willie had 12 peach. Marvin gifted him some more. Now Willie has 167 peach. How many did Marvin gift him?",
+        "original_answer": "155",
+        "answer_text": "To find out how many peaches Marvin gifted Willie, we can set up the equation:\n\nLet \\( x \\) be the number of peaches Marvin gifted.\n\nInitially, Willie had 12 peaches, and after receiving the gift, he has 167 peaches. Therefore, we can write the equation:\n\n\\[\n12 + x = 167\n\\]\n\nTo solve for \\( x \\), subtract 12 from both sides:\n\n\\[\nx = 167 - 12\n\\]\n\nCalculating the right side:\n\n\\[\nx = 155\n\\]\n\nSo, Marvin gifted Willie **155 peaches**."
+    },
+    {
+        "question": "Winnie had some Biscuit. Anna took 19 from him. Now Winnie has 24 Biscuit. How many Biscuit Winnie had earlier?",
+        "original_answer": "43",
+        "answer_text": "Let \\( x \\) be the number of biscuits Winnie had earlier. According to the problem, Anna took 19 biscuits from Winnie, and after that, Winnie had 24 biscuits left. \n\nWe can set up the equation:\n\n\\[\nx - 19 = 24\n\\]\n\nTo find \\( x \\), we can add 19 to both sides of the equation:\n\n\\[\nx = 24 + 19\n\\]\n\nCalculating the right side:\n\n\\[\nx = 43\n\\]\n\nSo, Winnie had 43 biscuits earlier."
+    },
+    {
+        "question": "Justin had some apricot. Jose gave him 7 more. Now Justin has 26 apricot. How many apricot did Justin have at first?",
+        "original_answer": "19",
+        "answer_text": "Let \\( x \\) be the number of apricots Justin had at first. According to the problem, after Jose gave him 7 more apricots, Justin had a total of 26 apricots. We can set up the equation:\n\n\\[\nx + 7 = 26\n\\]\n\nTo find \\( x \\), we can subtract 7 from both sides:\n\n\\[\nx = 26 - 7\n\\]\n\n\\[\nx = 19\n\\]\n\nSo, Justin had 19 apricots at first."
+    },
+    {
+        "question": "Cecelia had 187 blackcurrant. Wm took 71 from him. Now How many blackcurrant does Cecelia have now?",
+        "original_answer": "116",
+        "answer_text": "To find out how many blackcurrants Cecelia has now, you subtract the number of blackcurrants Wm took from the original amount Cecelia had.\n\nCecelia originally had 187 blackcurrants, and Wm took 71.\n\nSo, the calculation is:\n\n\\[ 187 - 71 = 116 \\]\n\nCecelia now has 116 blackcurrants."
+    },
+    {
+        "question": "Valerie had some lychee. Richard gave him 2 more. Now Valerie has 39 lychee. How many lychee did Valerie have initially?",
+        "original_answer": "37",
+        "answer_text": "Let \\( x \\) be the number of lychee Valerie had initially. According to the problem, Richard gave Valerie 2 more lychee, so we can write the equation:\n\n\\[\nx + 2 = 39\n\\]\n\nTo find \\( x \\), we subtract 2 from both sides:\n\n\\[\nx = 39 - 2\n\\]\n\n\\[\nx = 37\n\\]\n\nThus, Valerie initially had **37 lychee**."
+    },
+    {
+        "question": "Teresa had 147 Biscuit. David clasped some Biscuit. Now Teresa has 11  Biscuit. How many did David claspeds?",
+        "original_answer": "136",
+        "answer_text": "To find out how many biscuits David clasped, we can subtract the number of biscuits Teresa has now from the number she originally had.\n\nTeresa originally had 147 biscuits, and now she has 11 biscuits.\n\nSo, the number of biscuits David clasped is:\n\n\\[ \n147 - 11 = 136 \n\\]\n\nDavid clasped 136 biscuits."
+    },
+    {
+        "question": "Rudy had some blackcurrant. Robert gave him 3 more. Now Rudy has 39 blackcurrant. How many blackcurrant did Rudy have incipiently?",
+        "original_answer": "36",
+        "answer_text": "Let \\( x \\) be the number of blackcurrants Rudy had initially. According to the problem, after Robert gave him 3 more blackcurrants, Rudy had a total of 39 blackcurrants. We can set up the equation:\n\n\\[\nx + 3 = 39\n\\]\n\nTo find \\( x \\), we subtract 3 from both sides:\n\n\\[\nx = 39 - 3\n\\]\n\\[\nx = 36\n\\]\n\nSo, Rudy initially had **36 blackcurrants**."
+    },
+    {
+        "question": "Paul had 110 blueberry. Cristal took 90 from him. Now How many blueberry Paul have left over?",
+        "original_answer": "20",
+        "answer_text": "To find out how many blueberries Paul has left, you subtract the number of blueberries Cristal took from the number Paul originally had.\n\nPaul originally had 110 blueberries, and Cristal took 90.\n\nSo, the calculation is:\n\n\\[ 110 - 90 = 20 \\]\n\nPaul has 20 blueberries left."
+    },
+    {
+        "question": "Desiree had 10 lime. David confered him some more. Now Desiree has 194 lime. How many did David confer him?",
+        "original_answer": "184",
+        "answer_text": "To find out how many limes David conferred to Desiree, we can set up the equation based on the information given.\n\nLet \\( x \\) be the number of limes David conferred to Desiree. \n\nInitially, Desiree had 10 limes, and after receiving \\( x \\) limes from David, she has a total of 194 limes. We can write the equation:\n\n\\[\n10 + x = 194\n\\]\n\nNow, we can solve for \\( x \\):\n\n\\[\nx = 194 - 10\n\\]\n\\[\nx = 184\n\\]\n\nSo, David conferred 184 limes to Desiree."
+    }
+]

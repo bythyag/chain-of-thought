@@ -1,0 +1,102 @@
+[
+    {
+        "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+        "original_answer": "145",
+        "answer_text": "There are 290 bananas in total. If the bananas are organized into 2 groups, then each group will have 290 \u00f7 2 = 145 bananas. The answer is 145."
+    },
+    {
+        "question": "Marco and his dad went strawberry picking. Marco's dad's strawberries weighed 11 pounds. If together their strawberries weighed 30 pounds. How much did Marco's strawberries weigh?",
+        "original_answer": "19",
+        "answer_text": "Marco's dad's strawberries weighed 11 pounds. Together, their strawberries weighed 30 pounds. To find out how much Marco's strawberries weighed, we subtract the weight of his dad's strawberries from the total weight: 30 - 11 = 19. The answer is 19."
+    },
+    {
+        "question": "Edward spent $ 6 to buy 2 books each book costing him the same amount of money. Now he has $ 12. How much did each book cost?",
+        "original_answer": "3",
+        "answer_text": "Edward spent $6 to buy 2 books. To find the cost of each book, we divide the total amount spent by the number of books: $6 \u00f7 2 = $3. Therefore, each book cost $3. The answer is $3."
+    },
+    {
+        "question": "Frank was reading through his favorite book. The book had 3 chapters, each with the same number of pages. It has a total of 594 pages. It took Frank 607 days to finish the book. How many pages are in each chapter?",
+        "original_answer": "198",
+        "answer_text": "The book has a total of 594 pages and is divided into 3 chapters. To find out how many pages are in each chapter, we divide the total number of pages by the number of chapters. \n\nSo, 594 pages \u00f7 3 chapters = 198 pages per chapter. \n\nThe answer is 198."
+    },
+    {
+        "question": "There were 78 dollars in Olivia's wallet. She spent 15 dollars at a supermarket. How much money does she have left?",
+        "original_answer": "63",
+        "answer_text": "Olivia started with 78 dollars. After spending 15 dollars at the supermarket, she has 78 - 15 = 63 dollars left. The answer is 63."
+    },
+    {
+        "question": "Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons. How many more crayons did he lose than those he gave to his friends?",
+        "original_answer": "322",
+        "answer_text": "Paul received 110 crayons for his birthday. He gave away 90 crayons to his friends and lost 412 crayons. To find out how many more crayons he lost than he gave away, we subtract the number of crayons he gave away from the number he lost: \n\n412 - 90 = 322. \n\nThe answer is 322."
+    },
+    {
+        "question": "Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower. How many more blocks did he use to build the tower than he did to build the house?",
+        "original_answer": "30",
+        "answer_text": "Randy started with 95 blocks. He used 20 blocks to build a house and 50 blocks to build a tower. To find out how many more blocks he used for the tower than for the house, we subtract the number of blocks used for the house from the number used for the tower: 50 - 20 = 30. The answer is 30."
+    },
+    {
+        "question": "After Jessie started to go jogging everyday she lost 126 kilograms. She currently weighs 66 kilograms. How much did she weigh before starting to jog?",
+        "original_answer": "192",
+        "answer_text": "Jessie currently weighs 66 kilograms. If she lost 126 kilograms, we can find her weight before she started jogging by adding the weight she lost to her current weight. So, 66 + 126 = 192. The answer is 192."
+    },
+    {
+        "question": "At the arcade Dave had won some tickets. He used 12 tickets to buy some toys. If he still has 14 tickets left How many tickets did Dave win at the arcade?",
+        "original_answer": "26",
+        "answer_text": "Dave used 12 tickets to buy some toys and still has 14 tickets left. To find out how many tickets he won, we can add the tickets he used to the tickets he has left. So, 12 + 14 = 26. The answer is 26."
+    },
+    {
+        "question": "Bryan took a look at his books as well. If he has 34 books distributed equally in 2 bookshelves How many books are there in each bookshelf?",
+        "original_answer": "17",
+        "answer_text": "Bryan has 34 books in total. If he distributes them equally across 2 bookshelves, we divide 34 by 2. So, 34 \u00f7 2 = 17. The answer is 17."
+    },
+    {
+        "question": "Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left. How many more apps did he delete than he added?",
+        "original_answer": "1",
+        "answer_text": "Dave started with 15 apps. He added 71 new apps, so he had 15 + 71 = 86 apps. After deleting some, he had 14 apps left. To find out how many apps he deleted, we calculate 86 - 14 = 72 apps deleted. Now, to find out how many more apps he deleted than he added, we compare the number of deleted apps (72) to the number of added apps (71). So, 72 - 71 = 1. The answer is 1."
+    },
+    {
+        "question": "Adam has 4 more apples than Jackie. Together Adam and Jackie have 14 apples. Bob has 6 apples more than Adam and Jackie together do. How many apples does Bob have?",
+        "original_answer": "20",
+        "answer_text": "Adam has 4 more apples than Jackie. Let's say Jackie has \\( x \\) apples. Then Adam has \\( x + 4 \\) apples. Together, they have:\n\n\\[\nx + (x + 4) = 14\n\\]\n\nThis simplifies to:\n\n\\[\n2x + 4 = 14\n\\]\n\nSubtracting 4 from both sides gives:\n\n\\[\n2x = 10\n\\]\n\nDividing by 2 results in:\n\n\\[\nx = 5\n\\]\n\nSo, Jackie has 5 apples, and Adam has:\n\n\\[\n5 + 4 = 9\n\\]\n\nTogether, Adam and Jackie have:\n\n\\[\n5 + 9 = 14\n\\]\n\nBob has 6 apples more than Adam and Jackie together, which is:\n\n\\[\n14 + 6 = 20\n\\]\n\nThe answer is 20."
+    },
+    {
+        "question": "You have 104 dollars. How many packs of dvds can you buy if each pack costs 26 dollars?",
+        "original_answer": "4",
+        "answer_text": "You have 104 dollars. Each pack of DVDs costs 26 dollars. To find out how many packs you can buy, you divide 104 by 26. \n\n104 \u00f7 26 = 4. \n\nThe answer is 4."
+    },
+    {
+        "question": "Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf. How many more books than action figures were on his shelf?",
+        "original_answer": "2",
+        "answer_text": "Jerry originally had 7 books and 3 action figures. After adding 2 more action figures, he now has 3 + 2 = 5 action figures. To find out how many more books than action figures he has, we calculate 7 - 5 = 2. The answer is 2."
+    },
+    {
+        "question": "Melissa scored a total of 91 points in 13 games scoring the same for each game. How many points did she score in each game?",
+        "original_answer": "7",
+        "answer_text": "Melissa scored a total of 91 points over 13 games. To find out how many points she scored in each game, we divide the total points by the number of games: 91 \u00f7 13 = 7. The answer is 7."
+    },
+    {
+        "question": "Faye had 35 packs of pencils each one having 4 pencils. She was placing her pencils into rows with 2 pencils in each row. How many rows could she make?",
+        "original_answer": "70",
+        "answer_text": "Faye had 35 packs of pencils, and each pack has 4 pencils. So, the total number of pencils is 35 x 4 = 140 pencils. If she is placing her pencils into rows with 2 pencils in each row, then the number of rows she could make is 140 \u00f7 2 = 70. The answer is 70."
+    },
+    {
+        "question": "Each basket of peaches has 19 red peaches and 4 green peaches. If there are 15 such baskets How many peaches are in the baskets altogether?",
+        "original_answer": "345",
+        "answer_text": "Each basket has 19 red peaches and 4 green peaches. So, the total number of peaches in one basket is 19 + 4 = 23 peaches. If there are 15 baskets, then the total number of peaches is 15 x 23 = 345. The answer is 345."
+    },
+    {
+        "question": "Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left. How many more baseball cards than Ace cards does Nell have?",
+        "original_answer": "266",
+        "answer_text": "Nell originally had 309 baseball cards and 356 Ace cards. In total, she had 309 + 356 = 665 cards. After giving some to Jeff, she has 415 cards left. So, she gave away 665 - 415 = 250 cards. \n\nNow, she has 415 cards left, which includes both baseball and Ace cards. To find out how many more baseball cards than Ace cards she has, we need to determine how many of each type she has left. \n\nLet\u2019s denote the number of baseball cards left as \\( b \\) and Ace cards as \\( a \\). We know that \\( b + a = 415 \\). \n\nSince she originally had 309 baseball cards and gave away some, we can express the number of baseball cards left as \\( b = 309 - x \\), where \\( x \\) is the number of baseball cards given away. \n\nSimilarly, for Ace cards, \\( a = 356 - y \\), where \\( y \\) is the number of Ace cards given away. \n\nWe also know that \\( b + a = 415 \\). \n\nTo find how many more baseball cards than Ace cards she has, we can express it as \\( b - a \\). \n\nSubstituting \\( b \\) and \\( a \\) gives us:\n\n\\[\n(309 - x) - (356 - y) = b - a\n\\]\n\nThis simplifies to:\n\n\\[\n309 - x - 356 + y = b - a\n\\]\n\n\\[\ny - x - 47 = b - a\n\\]\n\nHowever, we need more information about how many cards of each type she gave away to find the exact difference. \n\nBut we can also find the difference in the original counts: \n\nOriginally, she had 309 baseball cards and 356 Ace cards. The difference was \\( 309 - 356 = -47 \\). \n\nSince she has 415 cards left, we can assume she has fewer Ace cards now. \n\nTo find the difference in the current counts, we can assume she has \\( b \\) baseball cards and \\( a \\) Ace cards such that \\( b + a = 415 \\). \n\nIf we assume she gave away more Ace cards than baseball cards, we can conclude that she has more baseball cards than Ace cards now. \n\nThus, the difference \\( b - a \\) will be positive. \n\nWithout specific numbers of cards given away, we cannot determine the exact count, but we can conclude that she has more baseball cards than Ace cards. \n\nThe answer is that Nell has more baseball cards than Ace cards, but the exact number cannot be determined without additional information."
+    },
+    {
+        "question": "There are 270 students in a school. If the school has 5 students in each grades and each grade has the same number of students How many grades are there in total?",
+        "original_answer": "54",
+        "answer_text": "There are 270 students in total. If each grade has 5 students, we can find the number of grades by dividing the total number of students by the number of students per grade. So, 270 \u00f7 5 = 54. The answer is 54."
+    },
+    {
+        "question": "In a school there are 34 girls and 841 boys. How many more boys than girls does the school have?",
+        "original_answer": "807",
+        "answer_text": "In the school, there are 34 girls and 841 boys. To find out how many more boys than girls there are, we subtract the number of girls from the number of boys: 841 - 34 = 807. The answer is 807."
+    }
+]
