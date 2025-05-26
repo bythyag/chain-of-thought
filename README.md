@@ -1,6 +1,6 @@
 # replication experiment on chain-of-thought reasoning
 
-paper link: [chain-of-thought prompting elicits reasoning in large language models](https://arxiv.org/pdf/2201.11903)
+main paper link: [chain-of-thought prompting elicits reasoning in large language models](https://arxiv.org/pdf/2201.11903)
 
 ## paper summary
 
@@ -45,5 +45,13 @@ they bought 6 more: 3 + 6 = 9
 the answer is 9.
 ```
 
+## contribution
 
-in collaboration with [@telt](https://github.com/teltam)
+in collaboration with [@twofifteenam](https://github.com/teltam)
+
+## citation
+
+if you incorporate our results or code in your experiment, please cite our work as follows.
+
+
+
