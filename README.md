@@ -53,5 +53,19 @@ in collaboration with [@twofifteenam](https://github.com/teltam)
 
 if you incorporate our results or code in your experiment, please cite our work as follows.
 
+```bibtex
+@software{raj2025cot,
+  author       = {raj, thyag and twofifteenam, teltam},
+  title        = {replication experiment on chain-of-thought reasoning},
+  month        = may,
+  year         = 2025,
+  publisher    = {github},
+  version      = {1.0.0},
+  url          = {https://github.com/bythyag/chain-of-thought},
+  abstract     = {replication study of chain-of-thought prompting techniques for improving reasoning capabilities in large language models.}
+}
+```
 
+you can also cite this work using the following format:
 
+raj, t., & twofifteenam, t. (2025). replication experiment on chain-of-thought reasoning (version 1.0.0) [software]. https://github.com/bythyag/chain-of-thought

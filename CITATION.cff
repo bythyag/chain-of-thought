@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "if you use these results and code in your research, please cite it as below."
+authors:
+  - family-names: "raj"
+    given-names: "thyag"
+  - family-names: "twofifteenam"
+    given-names: "teltam"
+title: "replication experiment on chain-of-thought reasoning"
+version: "1.0.0"
+date-released: "2025-05-27"
+url: "https://github.com/bythyag/chain-of-thought"
+repository-code: "https://github.com/bythyag/chain-of-thought"
+type: "software"
+abstract: "replication study of chain-of-thought prompting techniques for improving reasoning capabilities in large language models."
+keywords:
+  - "chain-of-thought"
+  - "language models"
+  - "reasoning"
+  - "prompt engineering"
+license: "mit"
+references:
+  - authors:
+      - family-names: "wei"
+        given-names: "jason"
+    title: "chain-of-thought prompting elicits reasoning in large language models"
+    type: "article"
+    year: 2022
+    url: "https://arxiv.org/pdf/2201.11903"
