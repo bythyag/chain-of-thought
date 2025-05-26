@@ -1,0 +1,202 @@
+[
+    {
+        "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+        "original_answer": "145",
+        "answer_text": "There are 290 bananas and they are organized into 2 groups. So each group has 290 / 2 = 145 bananas. The answer is 145.\n"
+    },
+    {
+        "question": "Marco and his dad went strawberry picking. Marco's dad's strawberries weighed 11 pounds. If together their strawberries weighed 30 pounds. How much did Marco's strawberries weigh?",
+        "original_answer": "19",
+        "answer_text": "Marco's dad's strawberries weighed 11 pounds. Together, their strawberries weighed 30 pounds.  So Marco's strawberries weighed 30 - 11 = 19 pounds. The answer is 19.\n"
+    },
+    {
+        "question": "Edward spent $ 6 to buy 2 books each book costing him the same amount of money. Now he has $ 12. How much did each book cost?",
+        "original_answer": "3",
+        "answer_text": "Edward spent $6 to buy 2 books.  To find the cost of each book, we divide the total cost by the number of books: $6 / 2 = $3.  The answer is $3.\n"
+    },
+    {
+        "question": "Frank was reading through his favorite book. The book had 3 chapters, each with the same number of pages. It has a total of 594 pages. It took Frank 607 days to finish the book. How many pages are in each chapter?",
+        "original_answer": "198",
+        "answer_text": "The book has 594 pages total and 3 chapters. So each chapter has 594 / 3 = 198 pages. The answer is 198.\n"
+    },
+    {
+        "question": "There were 78 dollars in Olivia's wallet. She spent 15 dollars at a supermarket. How much money does she have left?",
+        "original_answer": "63",
+        "answer_text": "A: Olivia started with 78 dollars. She spent 15 dollars. So she has 78 - 15 = 63 dollars left. The answer is 63.\n"
+    },
+    {
+        "question": "Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons. How many more crayons did he lose than those he gave to his friends?",
+        "original_answer": "322",
+        "answer_text": "Paul lost 412 crayons and gave 90 to his friends.  To find out how many more he lost than he gave away, subtract the number he gave away from the number he lost: 412 - 90 = 322. The answer is 322.\n"
+    },
+    {
+        "question": "Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower. How many more blocks did he use to build the tower than he did to build the house?",
+        "original_answer": "30",
+        "answer_text": "Randy used 50 blocks to build a tower and 20 blocks to build a house. So he used 50 - 20 = 30 more blocks to build the tower than the house. The answer is 30.\n"
+    },
+    {
+        "question": "After Jessie started to go jogging everyday she lost 126 kilograms. She currently weighs 66 kilograms. How much did she weigh before starting to jog?",
+        "original_answer": "192",
+        "answer_text": "A: Jessie currently weighs 66 kilograms. She lost 126 kilograms.  Therefore, before she started jogging, she weighed 66 + 126 = 192 kilograms. The answer is 192.\n"
+    },
+    {
+        "question": "At the arcade Dave had won some tickets. He used 12 tickets to buy some toys. If he still has 14 tickets left How many tickets did Dave win at the arcade?",
+        "original_answer": "26",
+        "answer_text": "A: Dave has 14 tickets left after using 12.  Therefore, he won 14 + 12 = 26 tickets at the arcade. The answer is 26.\n"
+    },
+    {
+        "question": "Bryan took a look at his books as well. If he has 34 books distributed equally in 2 bookshelves How many books are there in each bookshelf?",
+        "original_answer": "17",
+        "answer_text": "Bryan has 34 books in total, and they are distributed equally in 2 bookshelves. To find out how many books are in each bookshelf, we divide the total number of books by the number of bookshelves: 34 / 2 = 17.  The answer is 17.\n"
+    },
+    {
+        "question": "Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left. How many more apps did he delete than he added?",
+        "original_answer": "1",
+        "answer_text": "Dave started with 15 apps. He added 71, so he had 15 + 71 = 86 apps.  After deleting some, he had 14 left.  He deleted 86 - 14 = 72 apps. He added 71 and deleted 72, so he deleted 72 - 71 = 1 more app than he added. The answer is 1.\n"
+    },
+    {
+        "question": "Adam has 4 more apples than Jackie. Together Adam and Jackie have 14 apples. Bob has 6 apples more than Adam and Jackie together do. How many apples does Bob have?",
+        "original_answer": "20",
+        "answer_text": "Let's say Jackie has x apples. Adam has x + 4 apples. Together they have x + (x + 4) = 14 apples. This simplifies to 2x + 4 = 14. Subtracting 4 from both sides gives 2x = 10. Dividing both sides by 2 gives x = 5. So Jackie has 5 apples and Adam has 5 + 4 = 9 apples.  Together they have 14 apples. Bob has 6 more than them, so Bob has 14 + 6 = 20 apples. The answer is 20.\n"
+    },
+    {
+        "question": "You have 104 dollars. How many packs of dvds can you buy if each pack costs 26 dollars?",
+        "original_answer": "4",
+        "answer_text": "You have 104 dollars and each pack of dvds costs 26 dollars.  104 / 26 = 4.  The answer is 4.\n"
+    },
+    {
+        "question": "Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf. How many more books than action figures were on his shelf?",
+        "original_answer": "2",
+        "answer_text": "Jerry had 7 books. He had 3 action figures, and added 2 more, for a total of 3 + 2 = 5 action figures.  He had 7 - 5 = 2 more books than action figures. The answer is 2.\n"
+    },
+    {
+        "question": "Melissa scored a total of 91 points in 13 games scoring the same for each game. How many points did she score in each game?",
+        "original_answer": "7",
+        "answer_text": "Melissa scored a total of 91 points in 13 games, scoring the same amount in each game. To find out how many points she scored in each game, we divide the total points by the number of games: 91 / 13 = 7.  The answer is 7.\n"
+    },
+    {
+        "question": "Faye had 35 packs of pencils each one having 4 pencils. She was placing her pencils into rows with 2 pencils in each row. How many rows could she make?",
+        "original_answer": "70",
+        "answer_text": "Faye had 35 packs of pencils with 4 pencils in each pack. So she has 35 * 4 = 140 pencils.  She places them in rows of 2, so she can make 140 / 2 = 70 rows. The answer is 70.\n"
+    },
+    {
+        "question": "Each basket of peaches has 19 red peaches and 4 green peaches. If there are 15 such baskets How many peaches are in the baskets altogether?",
+        "original_answer": "345",
+        "answer_text": "Each basket has 19 + 4 = 23 peaches.  There are 15 baskets, so there are 23 * 15 = 345 peaches altogether. The answer is 345.\n"
+    },
+    {
+        "question": "Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left. How many more baseball cards than Ace cards does Nell have?",
+        "original_answer": "266",
+        "answer_text": "A: Nell had 309 + 356 = 665 cards in total. After giving some to Jeff, she has 415 cards left. So she gave away 665 - 415 = 250 cards.  The question asks how many MORE baseball cards than Ace cards she has.  We don't know how many of each type of card she gave away, so we can only look at what she has left. She has 415 cards left. We don't know how many are baseball and how many are Ace cards, so we cannot answer this question.\n"
+    },
+    {
+        "question": "There are 270 students in a school. If the school has 5 students in each grades and each grade has the same number of students How many grades are there in total?",
+        "original_answer": "54",
+        "answer_text": "There are 270 students in total. Each grade has 5 students. So there are 270 / 5 = 54 grades. The answer is 54.\n"
+    },
+    {
+        "question": "In a school there are 34 girls and 841 boys. How many more boys than girls does the school have?",
+        "original_answer": "807",
+        "answer_text": "There are 841 boys and 34 girls. To find how many more boys than girls, we subtract the number of girls from the number of boys: 841 - 34 = 807. The answer is 807.\n"
+    },
+    {
+        "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+        "original_answer": "145",
+        "answer_text": "There are 290 bananas in total. They are organized into 2 groups. 290 / 2 = 145. The answer is 145."
+    },
+    {
+        "question": "Marco and his dad went strawberry picking. Marco's dad's strawberries weighed 11 pounds. If together their strawberries weighed 30 pounds. How much did Marco's strawberries weigh?",
+        "original_answer": "19",
+        "answer_text": "Together Marco and his dad had 30 pounds of strawberries. His dad had 11 pounds. So Marco must have had 30 - 11 pounds. 30 - 11 is 19. The answer is 19.\n"
+    },
+    {
+        "question": "Edward spent $ 6 to buy 2 books each book costing him the same amount of money. Now he has $ 12. How much did each book cost?",
+        "original_answer": "3",
+        "answer_text": "He bought 2 books for $6, so each book cost $6 / 2 = $3. The answer is 3.\n"
+    },
+    {
+        "question": "Frank was reading through his favorite book. The book had 3 chapters, each with the same number of pages. It has a total of 594 pages. It took Frank 607 days to finish the book. How many pages are in each chapter?",
+        "original_answer": "198",
+        "answer_text": "There are 594 pages in total. There are 3 chapters in the book, so each chapter has 594 / 3 pages. 594 / 3 = 198. The answer is 198.\n"
+    },
+    {
+        "question": "There were 78 dollars in Olivia's wallet. She spent 15 dollars at a supermarket. How much money does she have left?",
+        "original_answer": "63",
+        "answer_text": "Olivia had 78 dollars. After spending 15 at the supermarket, she had 78 - 15 dollars left. 78 - 15 is 63. The answer is 63.\n"
+    },
+    {
+        "question": "Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons. How many more crayons did he lose than those he gave to his friends?",
+        "original_answer": "322",
+        "answer_text": "Paul gave 90 crayons to his friends. Paul lost 412 crayons. So the difference is 412 - 90 = 322. The answer is 322.\n"
+    },
+    {
+        "question": "Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower. How many more blocks did he use to build the tower than he did to build the house?",
+        "original_answer": "30",
+        "answer_text": "Randy used 20 blocks to build a house and 50 blocks to build a tower. So he used 50 - 20 = 30 more blocks for the tower. The answer is 30.\n"
+    },
+    {
+        "question": "After Jessie started to go jogging everyday she lost 126 kilograms. She currently weighs 66 kilograms. How much did she weigh before starting to jog?",
+        "original_answer": "192",
+        "answer_text": "Jessie lost 126 kilograms. She currently weighs 66 kilograms. So before she started to jog, she weighed 126 + 66 kilograms. 126 + 66 is 192. The answer is 192.\n"
+    },
+    {
+        "question": "At the arcade Dave had won some tickets. He used 12 tickets to buy some toys. If he still has 14 tickets left How many tickets did Dave win at the arcade?",
+        "original_answer": "26",
+        "answer_text": "Dave has 14 tickets left after using 12 tickets. So originally he must have had 14 + 12 tickets. 14 + 12 = 26. The answer is 26.\n"
+    },
+    {
+        "question": "Bryan took a look at his books as well. If he has 34 books distributed equally in 2 bookshelves How many books are there in each bookshelf?",
+        "original_answer": "17",
+        "answer_text": "Bryan has 34 books in total. If these are equally distributed between the 2 bookshelves then each bookshelf has 34 / 2 = 17 books. The answer is 17.\n"
+    },
+    {
+        "question": "Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left. How many more apps did he delete than he added?",
+        "original_answer": "1",
+        "answer_text": "Dave had 15 apps. He added 71 so he had 15 + 71 = 86 apps. After deleting some he had 14 left. So he deleted 86 - 14 = 72 apps. He added 71 and deleted 72. So he deleted 72 - 71 = 1 more app than he added. The answer is 1.\n"
+    },
+    {
+        "question": "Adam has 4 more apples than Jackie. Together Adam and Jackie have 14 apples. Bob has 6 apples more than Adam and Jackie together do. How many apples does Bob have?",
+        "original_answer": "20",
+        "answer_text": "Adam and Jackie have 14 apples together. Bob has 6 apples more than them. So Bob has 14 + 6 apples. 14 + 6 is 20. The answer is 20.\n"
+    },
+    {
+        "question": "You have 104 dollars. How many packs of dvds can you buy if each pack costs 26 dollars?",
+        "original_answer": "4",
+        "answer_text": "You have 104 dollars. Each pack of DVDs costs 26 dollars. 104 / 26 = 4. The answer is 4."
+    },
+    {
+        "question": "Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf. How many more books than action figures were on his shelf?",
+        "original_answer": "2",
+        "answer_text": "Jerry had 7 books. He had 3 action figures, and then he added 2 more, so he has 5 action figures. The difference between the number of books and action figures is 7 - 5 = 2. The answer is 2.\n"
+    },
+    {
+        "question": "Melissa scored a total of 91 points in 13 games scoring the same for each game. How many points did she score in each game?",
+        "original_answer": "7",
+        "answer_text": "Melissa scored a total of 91 points. She played 13 games. Therefore, she scored 91 / 13 points each game. 91 / 13 = 7. The answer is 7.\n"
+    },
+    {
+        "question": "Faye had 35 packs of pencils each one having 4 pencils. She was placing her pencils into rows with 2 pencils in each row. How many rows could she make?",
+        "original_answer": "70",
+        "answer_text": "Faye has 35 packs of pencils, with 4 pencils in each pack, so she has 35 x 4 = 140 pencils. If she places the pencils in rows with 2 in each row then she will have 140 / 2 = 70 rows. The answer is 70.\n"
+    },
+    {
+        "question": "Each basket of peaches has 19 red peaches and 4 green peaches. If there are 15 such baskets How many peaches are in the baskets altogether?",
+        "original_answer": "345",
+        "answer_text": "Each basket has 19 + 4 = 23 peaches. With 15 baskets, there are 23 * 15 peaches. 23 * 15 = 345. The answer is 345.\n"
+    },
+    {
+        "question": "Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left. How many more baseball cards than Ace cards does Nell have?",
+        "original_answer": "266",
+        "answer_text": "Nell started with 309 baseball cards and 356 Ace cards, so she had 309 + 356 = 665 cards. After giving some cards to Jeff, she had 415 cards left. This means Jeff has 309 + 356 - 415 = 250 cards. Nell has 415 baseball cards and Ace cards left. We are asked how many more baseball cards than Ace cards Nell has, but are not given enough information to answer this question. The answer cannot be determined.\n"
+    },
+    {
+        "question": "There are 270 students in a school. If the school has 5 students in each grades and each grade has the same number of students How many grades are there in total?",
+        "original_answer": "54",
+        "answer_text": "There are 270 students in total. There are 5 students in each grade. So the number of grades is 270 / 5 = 54. The answer is 54.\n"
+    },
+    {
+        "question": "In a school there are 34 girls and 841 boys. How many more boys than girls does the school have?",
+        "original_answer": "807",
+        "answer_text": "There are 34 girls. There are 841 boys. So there are 841 - 34 more boys than girls. 841 - 34 = 807. The answer is 807.\n"
+    }
+]
