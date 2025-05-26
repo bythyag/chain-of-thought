@@ -45,6 +45,18 @@ they bought 6 more: 3 + 6 = 9
 the answer is 9.
 ```
 
+## experiment results
+
+_work in progress_
+
+## key insights
+
+_work in progress_
+
+## references
+
+_work in progress_
+
 ## contribution
 
 in collaboration with [@twofifteenam](https://github.com/teltam)
