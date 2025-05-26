@@ -20,7 +20,7 @@ cot prompting enables the model to decompose multi-step problems into intermedia
 
 ## example prompt
 
-prompt:
+user message:
 ```python
 question 1:
 roger has 5 tennis balls. he buys 2 more cans of tennis balls. each can has 3 tennis balls.
