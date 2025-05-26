@@ -20,31 +20,29 @@ cot prompting enables the model to decompose multi-step problems into intermedia
 
 ## example prompt
 
+prompt:
+```python
+question 1:
+roger has 5 tennis balls. he buys 2 more cans of tennis balls. each can has 3 tennis balls.
+how many tennis balls does he have now?
+
+answer:
+roger started with 5 balls.
+2 cans × 3 tennis balls = 6 balls.
+5 + 6 = 11
+the answer is 11.
+
+question 2:
+the cafeteria had 23 apples. they used 20 to make lunch and bought 6 more.
+how many apples do they have now?
 ```
-+ prompt:
 
-+ question 1:
-+ roger has 5 tennis balls. he buys 2 more cans of tennis balls. each can has 3 tennis balls.  
-+ how many tennis balls does he have now?
-
-+ answer:
-+ roger started with 5 balls.  
-+ 2 cans × 3 tennis balls = 6 balls.  
-+ 5 + 6 = 11  
-+ the answer is 11.
-
-+ question 2:  
-+ the cafeteria had 23 apples. they used 20 to make lunch and bought 6 more.  
-+ how many apples do they have now?
-
----
-
-- llm response:
-- the cafeteria had 23 apples originally.  
-- they used 20: 23 − 20 = 3 apples left.  
-- they bought 6 more: 3 + 6 = 9  
-- the answer is 9.
-
+llm response:
+```bash
+the cafeteria had 23 apples originally.
+they used 20: 23 − 20 = 3 apples left.
+they bought 6 more: 3 + 6 = 9
+the answer is 9.
 ```
 
 
