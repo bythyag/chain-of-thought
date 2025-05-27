@@ -13,10 +13,7 @@ to address this, the paper proposes solving these problems using prompting metho
 - using few-shot examples that include reasoning steps to guide the model,
 - formatting prompts as triples of `<input, chain of thought, output>` for reference.
 
-cot prompting demonstrates significant performance improvements across arithmetic, commonsense, and symbolic reasoning tasks.
-
-### why does it work?
-cot prompting enables the model to decompose multi-step problems into intermediate steps. it also provides an interpretable reasoning path, which is useful for understanding the model’s logic and debugging incorrect answers.
+cot prompting demonstrates significant performance improvements across arithmetic, commonsense, and symbolic reasoning tasks. it has enabled the model to decompose multi-step problems into intermediate steps. it also provides an interpretable reasoning path, which is useful for understanding the model’s logic and debugging incorrect answers.
 
 ### example prompt.
 user message:
