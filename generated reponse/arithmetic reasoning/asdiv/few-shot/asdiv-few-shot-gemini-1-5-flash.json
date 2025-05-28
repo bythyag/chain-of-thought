@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Seven red apples and two green apples are in the basket. How many apples are in the basket?",
+        "original_answer": "9 (apples)",
+        "answer_text": "There are 7 red apples and 2 green apples.  7 + 2 = 9. There are 9 apples in the basket. The answer is 9.\n"
+    },
+    {
+        "question": "Ellen has six more balls than Marin. Marin has nine balls. How many balls does Ellen have?",
+        "original_answer": "15 (balls)",
+        "answer_text": "Marin has 9 balls. Ellen has 6 more than Marin, so Ellen has 9 + 6 = 15 balls. The answer is 15.\n"
+    },
+    {
+        "question": "Janet has nine oranges and Sharon has seven oranges. How many oranges do Janet and Sharon have together? ",
+        "original_answer": "16 (oranges)",
+        "answer_text": "Janet has 9 oranges and Sharon has 7 oranges. Together they have 9 + 7 = 16 oranges. The answer is 16.\n"
+    },
+    {
+        "question": "Allan brought two balloons and Jake brought four balloons to the park. How many balloons did Allan and Jake have in the park?",
+        "original_answer": "6 (balloons)",
+        "answer_text": "Allan brought 2 balloons and Jake brought 4 balloons.  Together they had 2 + 4 = 6 balloons. The answer is 6.\n"
+    },
+    {
+        "question": "Adam has five more apples than Jackie. Jackie has nine apples. How many apples does Adam have?",
+        "original_answer": "14 (apples)",
+        "answer_text": "Jackie has 9 apples. Adam has 5 more than Jackie.  Therefore, Adam has 9 + 5 = 14 apples. The answer is 14.\n"
+    },
+    {
+        "question": "Brian has four more plums than Paul. Paul has seven plums. How many plums does Brian have?",
+        "original_answer": "11 (plums)",
+        "answer_text": "Paul has 7 plums. Brian has 4 more than Paul, so Brian has 7 + 4 = 11 plums. The answer is 11.\n"
+    },
+    {
+        "question": "Sandra took six cups of coffee and Marcie took two cups of coffee. How many cups of coffee did Sandra and Marcie take in total?",
+        "original_answer": "8 (cups)",
+        "answer_text": "Sandra took 6 cups and Marcie took 2 cups.  Together they took 6 + 2 = 8 cups of coffee. The answer is 8.\n"
+    },
+    {
+        "question": "17 plums were in the basket. More plums were added to the basket. Now there are 21 plums. How many plums were added to the basket?",
+        "original_answer": "4 (plums)",
+        "answer_text": "There were 17 plums, and now there are 21.  The number of plums added is 21 - 17 = 4. The answer is 4.\n"
+    },
+    {
+        "question": "14 red plums and four green plums are in the basket. How many plums are in the basket? ",
+        "original_answer": "18 (plums)",
+        "answer_text": "There are 14 red plums and 4 green plums.  14 + 4 = 18 plums. The answer is 18.\n"
+    },
+    {
+        "question": "Marin has nine apples and Donald has two apples. How many apples do Marin and Donald have together?",
+        "original_answer": "11 (apples)",
+        "answer_text": "Marin has 9 apples and Donald has 2 apples. Together they have 9 + 2 = 11 apples.  The answer is 11.\n"
+    },
+    {
+        "question": "46 apples were in the basket. 22 are red and the rest are green. How many apples are green?",
+        "original_answer": "24 (apples)",
+        "answer_text": "There are 46 apples total, and 22 are red.  Therefore, there are 46 - 22 = 24 green apples. The answer is 24.\n"
+    },
+    {
+        "question": "Five red peaches and 14 green peaches are in the basket. How many peaches are in the basket? ",
+        "original_answer": "19 (peaches)",
+        "answer_text": "There are 5 red peaches and 14 green peaches.  5 + 14 = 19 peaches in total. The answer is 19.\n"
+    },
+    {
+        "question": "20 peaches are in the basket. 25 more peaches are put in the basket. How many peaches are in the basket now?",
+        "original_answer": "45 (peaches)",
+        "answer_text": "There are 20 peaches originally. 25 more are added. 20 + 25 = 45. The answer is 45.\n"
+    },
+    {
+        "question": "Two marbles are in the basket. Two marbles are taken out of the basket. How many marbles are in the basket now?",
+        "original_answer": "0 (marbles)",
+        "answer_text": "There were 2 marbles in the basket. 2 marbles were taken out.  2 - 2 = 0. The answer is 0.\n"
+    },
+    {
+        "question": "Eight balls were in the basket. Some of the balls were removed from the basket. Now there are six balls. How many balls were removed from the basket? ",
+        "original_answer": "2 (balls)",
+        "answer_text": "There were 8 balls, and now there are 6.  8 - 6 = 2 balls were removed. The answer is 2.\n"
+    },
+    {
+        "question": "Some oranges were in the basket. Five oranges were taken from the basket. Now there are three oranges. How many oranges were in the basket before some of the oranges were taken?",
+        "original_answer": "8 (oranges)",
+        "answer_text": "There are now 3 oranges. 5 were taken, so there were originally 3 + 5 = 8 oranges. The answer is 8.\n"
+    },
+    {
+        "question": "Jake has six fewer peaches than Steven. Steven has 13 peaches. How many peaches does Jake have? ",
+        "original_answer": "7 (peaches)",
+        "answer_text": "Steven has 13 peaches. Jake has 6 fewer peaches than Steven.  Therefore, Jake has 13 - 6 = 7 peaches. The answer is 7.\n"
+    },
+    {
+        "question": "David has zero fewer apples than Marin. Marin has three apples. How many apples does David have?",
+        "original_answer": "3 (apples)",
+        "answer_text": "David has zero fewer apples than Marin, meaning he has the same number.  Marin has three apples, so David also has $\\boxed{3}$ apples.\n"
+    },
+    {
+        "question": "Jake has 34 fewer balls than Audrey. Audrey has 41 balls. How many balls does Jake have?",
+        "original_answer": "7 (balls)",
+        "answer_text": "Audrey has 41 balls. Jake has 34 fewer balls than Audrey.  Therefore, Jake has 41 - 34 = 7 balls. The answer is 7.\n"
+    },
+    {
+        "question": "Brian has zero fewer oranges than Marcie. Marcie has 12 oranges. How many oranges does Brian have? ",
+        "original_answer": "12 (oranges)",
+        "answer_text": "Brian has zero fewer oranges than Marcie, meaning he has the same number.  Since Marcie has 12 oranges, Brian also has $\\boxed{12}$ oranges.\n"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Mark had 2 Doll. Roland proffered him some more. Now Mark has 161 Doll. How many did Roland proffer him?",
+        "original_answer": "159",
+        "answer_text": "Mark started with 2 Doll. After Roland gave him some, Mark had 161 Doll. So Roland gave him 161 - 2 = 159 Doll. The answer is 159.\n"
+    },
+    {
+        "question": "Gloria had some raspberry. Margaret gave him 7 more. Now Gloria has 33 raspberry. How many raspberry did Gloria have in the first?",
+        "original_answer": "26",
+        "answer_text": "Gloria had some raspberry. After Margaret gave him 7 more, Gloria had 33 raspberry. So Gloria originally had 33 - 7 = 26 raspberry. The answer is 26.\n"
+    },
+    {
+        "question": "Tina had 7 raspberry . He hash each raspberry into 10 slices . How many raspberry slices did Tina make?",
+        "original_answer": "70",
+        "answer_text": "Tina had 7 raspberries. She cut each raspberry into 10 slices. So she made 7 * 10 = 70 slices. The answer is 70.\n"
+    },
+    {
+        "question": "Ernesto had some pear. Jimmie gave him 8 more. Now Ernesto has 35 pear. How many pear did Ernesto have primitively?",
+        "original_answer": "27",
+        "answer_text": "Ernesto had some pears. After Jimmie gave him 8, he had 35. So he originally had 35 - 8 = 27 pears. The answer is 27.\n"
+    },
+    {
+        "question": "Elizabeth had some cherry. Don took 74 from him. Now Elizabeth has 74 cherry. How many cherry Elizabeth had in the beginning?",
+        "original_answer": "148",
+        "answer_text": "Elizabeth has 74 cherry after Don took 74 from her. So she originally had 74 + 74 = 148 cherry. The answer is 148.\n"
+    },
+    {
+        "question": "Joseph had 93 fig. Howard took 90 from him. Now How many fig Joseph have minus?",
+        "original_answer": "3",
+        "answer_text": "Joseph had 93 figs. Howard took 90 from him. Joseph now has 93 - 90 = 3 figs. The question asks how many figs Joseph has *minus*, which is a bit unclear, but likely means how many fewer figs does he have now compared to what he started with. That would be 90.\n\nThe answer is 90.\n"
+    },
+    {
+        "question": "Nichole had some plum. David took 25 from him. Now Nichole has 31 plum. How many plum Nichole had earlier?",
+        "original_answer": "56",
+        "answer_text": "Nichole has 31 plum now. David took 25 from her. So originally, Nichole must have had 31 + 25 = 56 plum.\nThe answer is 56.\n"
+    },
+    {
+        "question": "Joseph had 1 blueberry. Jessica contributeed him some more. Now Joseph has 132 blueberry. How many did Jessica contribute him?",
+        "original_answer": "131",
+        "answer_text": "Joseph started with 1 blueberry. He ended up with 132 blueberries. So Jessica contributed 132 - 1 = 131 blueberries. The answer is 131.\n"
+    },
+    {
+        "question": "Billy has 62 crayons. 52 are eaten by a hippopotamus. How many crayons will Billy have?",
+        "original_answer": "10",
+        "answer_text": "Billy started with 62 crayons. After 52 were eaten, he has 62 - 52 = 10 crayons. The answer is 10.\n"
+    },
+    {
+        "question": "Cindy had some Banana. Mary gave him 3 more. Now Cindy has 11 Banana. How many Banana did Cindy have incipiently?",
+        "original_answer": "8",
+        "answer_text": "Cindy has 11 bananas now. Mary gave her 3, so before that Cindy had 11 - 3 = 8 bananas. The answer is 8.\n"
+    },
+    {
+        "question": "Stephanie had 13 Biscuit. Polly accorded him some more. Now Stephanie has 164 Biscuit. How many did Polly accord him?",
+        "original_answer": "151",
+        "answer_text": "Stephanie started with 13 biscuits. Then she had 164 after Polly gave her some. So Polly gave her 164 - 13 = 151. The answer is 151.\n"
+    },
+    {
+        "question": "Willie had 12 peach. Marvin gifted him some more. Now Willie has 167 peach. How many did Marvin gift him?",
+        "original_answer": "155",
+        "answer_text": "Willie started with 12 peaches. After Marvin gifted him some, he had 167. So Marvin gifted him 167 - 12 = 155.\nThe answer is 155.\n"
+    },
+    {
+        "question": "Winnie had some Biscuit. Anna took 19 from him. Now Winnie has 24 Biscuit. How many Biscuit Winnie had earlier?",
+        "original_answer": "43",
+        "answer_text": "Winnie has 24 biscuits now. Anna took 19 biscuits from him. So Winnie originally had 24 + 19 biscuits. 24 + 19 = 43. The answer is 43.\n"
+    },
+    {
+        "question": "Justin had some apricot. Jose gave him 7 more. Now Justin has 26 apricot. How many apricot did Justin have at first?",
+        "original_answer": "19",
+        "answer_text": "Justin had some apricot. After Jose gave him 7 more, he had 26. So he must have had 26 - 7 = 19 apricot at first. The answer is 19.\n"
+    },
+    {
+        "question": "Cecelia had 187 blackcurrant. Wm took 71 from him. Now How many blackcurrant does Cecelia have now?",
+        "original_answer": "116",
+        "answer_text": "Cecelia started with 187 blackcurrants. Wm took 71 from her. So Cecelia has 187 - 71 blackcurrants left. 187 - 71 = 116. The answer is 116.\n"
+    },
+    {
+        "question": "Valerie had some lychee. Richard gave him 2 more. Now Valerie has 39 lychee. How many lychee did Valerie have initially?",
+        "original_answer": "37",
+        "answer_text": "Valerie had some lychee. After receiving 2 more, she had 39. So she originally had 39 - 2 = 37. The answer is 37.\n"
+    },
+    {
+        "question": "Teresa had 147 Biscuit. David clasped some Biscuit. Now Teresa has 11  Biscuit. How many did David claspeds?",
+        "original_answer": "136",
+        "answer_text": "Teresa started with 147 biscuits. Then she had 11 after David clasped some. So David clasped 147 - 11 = 136.\nThe answer is 136.\n"
+    },
+    {
+        "question": "Rudy had some blackcurrant. Robert gave him 3 more. Now Rudy has 39 blackcurrant. How many blackcurrant did Rudy have incipiently?",
+        "original_answer": "36",
+        "answer_text": "Rudy had some blackcurrant. After getting 3 more, he had 39. So he must have started with 39 - 3 = 36. The answer is 36.\n"
+    },
+    {
+        "question": "Paul had 110 blueberry. Cristal took 90 from him. Now How many blueberry Paul have left over?",
+        "original_answer": "20",
+        "answer_text": "Paul started with 110 blueberries. Cristal took 90 from him. So Paul has 110 - 90 blueberries left. 110 - 90 = 20. The answer is 20.\n"
+    },
+    {
+        "question": "Desiree had 10 lime. David confered him some more. Now Desiree has 194 lime. How many did David confer him?",
+        "original_answer": "184",
+        "answer_text": "Desiree started with 10 limes. After David gave her some, she had 194. So David gave her 194 - 10 = 184 limes.\nThe answer is 184.\n"
+    }
+]
