@@ -1,0 +1,122 @@
+[
+    {
+        "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+        "original_answer": "145",
+        "generated_answer": "We are given:\n\n- There are **290 bananas**.\n- The bananas are organized into **2 groups**.\n\nTo find how many bananas are in **each group**, we divide the total number of bananas by the number of groups:\n\n$$\n\\frac{290}{2} = 145\n$$\n\nSo, **each group of bananas has 145 bananas**.",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Marco and his dad went strawberry picking. Marco's dad's strawberries weighed 11 pounds. If together their strawberries weighed 30 pounds. How much did Marco's strawberries weigh?",
+        "original_answer": "19",
+        "generated_answer": "We know:\n\n- Marco's dad's strawberries weighed **11 pounds**.\n- Together, their strawberries weighed **30 pounds**.\n\nTo find out how much **Marco's strawberries** weighed, subtract Marco's dad's weight from the total:\n\n$$\n30 - 11 = 19\n$$\n\n**Answer:** Marco's strawberries weighed **19 pounds**.",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Edward spent $ 6 to buy 2 books each book costing him the same amount of money. Now he has $ 12. How much did each book cost?",
+        "original_answer": "3",
+        "generated_answer": "Let's solve the problem step by step.\n\n1. Edward started with $12.\n2. After buying 2 books, he has $12 left.\n3. That means he spent $12 - $12 = $0? Wait — that doesn't make sense.\n\nLet's re-read the problem carefully:\n\n> Edward spent $6 to buy 2 books each book costing him the same amount of money. Now he has $12. How much did each book cost?\n\nSo:\n\n- Edward **spent $6** to buy 2 books.\n- He now has **$12** left.\n- That means he started with $6 + $12 = **$18**.\n\nNow, he spent $6 on 2 books, and each book cost the same.\n\nSo, the cost of each book is:\n\n$$\n\\frac{6}{2} = 3\n$$\n\n### ✅ Answer: Each book cost **$3**.",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Frank was reading through his favorite book. The book had 3 chapters, each with the same number of pages. It has a total of 594 pages. It took Frank 607 days to finish the book. How many pages are in each chapter?",
+        "original_answer": "198",
+        "generated_answer": "We are given:\n\n- The book has **3 chapters**, each with the **same number of pages**.\n- The **total number of pages** in the book is **594**.\n- Frank took **607 days** to finish the book.\n\nWe are asked to find: **How many pages are in each chapter?**\n\n---\n\n### Step 1: Find the number of pages per chapter\n\nSince the book has 3 chapters with the same number of pages, and the total is 594 pages, we divide:\n\n$$\n\\frac{594}{3} = 198\n$$\n\n---\n\n### ✅ Final Answer:\n\n**Each chapter has 198 pages.**",
+        "generated_thinking": ""
+    },
+    {
+        "question": "There were 78 dollars in Olivia's wallet. She spent 15 dollars at a supermarket. How much money does she have left?",
+        "original_answer": "63",
+        "generated_answer": "Olivia started with $78.\n\nShe spent $15, so we subtract:\n\n$$\n78 - 15 = 63\n$$\n\nOlivia has **$63** left.",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons. How many more crayons did he lose than those he gave to his friends?",
+        "original_answer": "322",
+        "generated_answer": "Let's break this down step by step.\n\n- Paul started with **110 crayons**.\n- He **gave away 90 crayons** to his friends.\n- He **lost 412 crayons**.\n\nWe are asked: **How many more crayons did he lose than those he gave to his friends?**\n\nSo, we need to find the difference between the number of crayons he **lost** and the number he **gave away**:\n\n$$\n412 - 90 = 322\n$$\n\n**Answer: He lost 322 more crayons than he gave to his friends.**",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower. How many more blocks did he use to build the tower than he did to build the house?",
+        "original_answer": "30",
+        "generated_answer": "Randy used 50 blocks to build the tower and 20 blocks to build the house.\n\nTo find how many more blocks he used for the tower than the house:\n\n$$\n50 - 20 = 30\n$$\n\n**Answer: 30 blocks.**",
+        "generated_thinking": ""
+    },
+    {
+        "question": "After Jessie started to go jogging everyday she lost 126 kilograms. She currently weighs 66 kilograms. How much did she weigh before starting to jog?",
+        "original_answer": "192",
+        "generated_answer": "We need to find Jessie's weight before she started jogging.\n\n- She lost **126 kilograms** by jogging.\n- She now weighs **66 kilograms**.\n\nTo find her original weight, we add the weight she lost to her current weight:\n\n$$\n66 + 126 = 192\n$$\n\n**Answer:** Jessie weighed **192 kilograms** before starting to jog.",
+        "generated_thinking": ""
+    },
+    {
+        "question": "At the arcade Dave had won some tickets. He used 12 tickets to buy some toys. If he still has 14 tickets left How many tickets did Dave win at the arcade?",
+        "original_answer": "26",
+        "generated_answer": "We can solve this problem by adding the number of tickets Dave used to buy toys and the number of tickets he still has.\n\n- Tickets used: 12  \n- Tickets left: 14  \n\nSo, the total number of tickets Dave won is:\n\n$$\n12 + 14 = 26\n$$\n\n**Answer: Dave won 26 tickets at the arcade.**",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Bryan took a look at his books as well. If he has 34 books distributed equally in 2 bookshelves How many books are there in each bookshelf?",
+        "original_answer": "17",
+        "generated_answer": "Bryan has 34 books distributed equally on 2 bookshelves.\n\nTo find how many books are on each bookshelf, divide the total number of books by the number of bookshelves:\n\n$$\n34 \\div 2 = 17\n$$\n\nSo, there are **17 books on each bookshelf**.",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left. How many more apps did he delete than he added?",
+        "original_answer": "1",
+        "generated_answer": "Let's break down the problem step by step:\n\n1. **Initial number of apps**: 15  \n2. **Apps added**: 71  \n3. **Apps left after deleting some**: 14  \n\nWe need to find out how many apps Dave **deleted**.\n\n### Step 1: Total apps after adding\nAfter adding 71 apps:\n$$\n15 + 71 = 86 \\text{ apps}\n$$\n\n### Step 2: Apps deleted\nHe ended up with 14 apps, so the number of apps he deleted is:\n$$\n86 - 14 = 72 \\text{ apps deleted}\n$$\n\n### Step 3: How many more apps were deleted than added?\nHe added 71 apps and deleted 72 apps.\n\n$$\n72 - 71 = 1\n$$\n\n### ✅ Final Answer: **1** more app was deleted than added.",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Adam has 4 more apples than Jackie. Together Adam and Jackie have 14 apples. Bob has 6 apples more than Adam and Jackie together do. How many apples does Bob have?",
+        "original_answer": "20",
+        "generated_answer": "We are given the following:\n\n1. **Adam has 4 more apples than Jackie.**\n2. **Together, Adam and Jackie have 14 apples.**\n3. **Bob has 6 more apples than Adam and Jackie together.**\n\nLet's solve step by step.\n\n---\n\n### Step 1: Let’s define variables.\n\nLet:\n- $ J $ = number of apples Jackie has  \n- $ A $ = number of apples Adam has  \n\nFrom the first statement:  \n$$ A = J + 4 $$\n\nFrom the second statement:  \n$$ A + J = 14 $$\n\nNow substitute $ A = J + 4 $ into the second equation:\n\n$$ (J + 4) + J = 14 $$  \n$$ 2J + 4 = 14 $$  \n$$ 2J = 10 $$  \n$$ J = 5 $$\n\nNow find $ A $:\n\n$$ A = J + 4 = 5 + 4 = 9 $$\n\nSo:\n- Jackie has 5 apples  \n- Adam has 9 apples  \n- Together, they have $ 5 + 9 = 14 $ apples (matches the given)\n\n---\n\n### Step 2: Find how many apples Bob has.\n\nBob has 6 more apples than Adam and Jackie together:\n\n$$ \\text{Bob's apples} = 14 + 6 = 20 $$\n\n---\n\n### ✅ Final Answer: **Bob has 20 apples.**",
+        "generated_thinking": ""
+    },
+    {
+        "question": "You have 104 dollars. How many packs of dvds can you buy if each pack costs 26 dollars?",
+        "original_answer": "4",
+        "generated_answer": "To find out how many packs of DVDs you can buy, divide the total amount of money by the cost per pack:\n\n$$\n104 \\div 26 = 4\n$$\n\nSo, you can buy **4 packs** of DVDs.",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf. How many more books than action figures were on his shelf?",
+        "original_answer": "2",
+        "generated_answer": "Let's break it down step by step:\n\n- Jerry originally had **7 books** and **3 action figures**.\n- He added **2 more action figures**, so the total number of action figures is now:  \n  $ 3 + 2 = 5 $.\n\nNow, we compare the number of books and action figures:\n\n- Books: 7  \n- Action figures: 5\n\nThe difference is:  \n$ 7 - 5 = 2 $\n\n**Answer: There are 2 more books than action figures on the shelf.**",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Melissa scored a total of 91 points in 13 games scoring the same for each game. How many points did she score in each game?",
+        "original_answer": "7",
+        "generated_answer": "Melissa scored a total of **91 points** in **13 games**, and she scored the **same number of points in each game**.\n\nTo find how many points she scored in **each game**, divide the total points by the number of games:\n\n$$\n\\frac{91}{13} = 7\n$$\n\n**Answer:** Melissa scored **7 points in each game**.",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Faye had 35 packs of pencils each one having 4 pencils. She was placing her pencils into rows with 2 pencils in each row. How many rows could she make?",
+        "original_answer": "70",
+        "generated_answer": "Faye had:\n\n- 35 packs of pencils  \n- Each pack has 4 pencils  \n\nSo the total number of pencils is:  \n$$\n35 \\times 4 = 140 \\text{ pencils}\n$$\n\nShe is placing them into rows with **2 pencils in each row**.\n\nTo find out how many rows she can make, divide the total number of pencils by the number of pencils per row:\n\n$$\n140 \\div 2 = 70\n$$\n\n**Answer: She can make 70 rows.**",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Each basket of peaches has 19 red peaches and 4 green peaches. If there are 15 such baskets How many peaches are in the baskets altogether?",
+        "original_answer": "345",
+        "generated_answer": "We are given:\n\n- Each basket has **19 red peaches** and **4 green peaches**.\n- There are **15 baskets**.\n\n### Step 1: Find the total number of peaches in one basket:\n$$\n19 \\text{ (red)} + 4 \\text{ (green)} = 23 \\text{ peaches per basket}\n$$\n\n### Step 2: Multiply by the number of baskets:\n$$\n23 \\text{ peaches/basket} \\times 15 \\text{ baskets} = 345 \\text{ peaches}\n$$\n\n### Final Answer:\n$$\n\\boxed{345}\n$$",
+        "generated_thinking": ""
+    },
+    {
+        "question": "Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left. How many more baseball cards than Ace cards does Nell have?",
+        "original_answer": "266",
+        "generated_answer": "Let's break down the problem step by step.\n\n### Step 1: Find out how many cards Nell had originally.\n- **Baseball cards**: 309\n- **Ace cards**: 356  \n- **Total cards originally**:  \n  $ 309 + 356 = 665 $\n\n### Step 2: Find out how many cards Nell has left.\nShe now has **415** cards left.\n\n### Step 3: Find out how many cards she gave to Jeff.\n$ 665 - 415 = 250 $ cards given to Jeff.\n\n### Step 4: Find out how many baseball and Ace cards she has left.\nWe don't know how many of the 250 cards she gave to Jeff were baseball and how many were Ace. However, the question asks:\n\n> **How many more baseball cards than Ace cards does Nell have?**\n\nThis means we need to find the **difference** between the number of baseball cards and Ace cards she has **left**.\n\nLet’s define:\n- Let $ B $ = number of baseball cards left\n- Let $ A $ = number of Ace cards left\n\nWe know:\n- $ B + A = 415 $ (total cards left)\n- She originally had 309 baseball cards, so:\n  $ B = 309 - \\text{baseball cards given to Jeff} $\n- She originally had 356 Ace cards, so:\n  $ A = 356 - \\text{Ace cards given to Jeff} $\n\nBut we don’t know how many of the 250 cards given to Jeff were baseball or Ace. However, the question is only about the **difference** between the number of baseball and Ace cards **left**.\n\nLet’s define the difference:\n$$\n\\text{Difference} = B - A\n$$\n\nBut since $ B + A = 415 $, we can’t determine $ B $ and $ A $ individually without more information.\n\nHowever, we can try to find the **maximum possible difference** or **minimum possible difference**, but that's not what the question is asking.\n\nWait — the question is asking:\n\n> **How many more baseball cards than Ace cards does Nell have?**\n\nThis is asking for the **difference** between the number of baseball and Ace cards **left**, which is:\n$$\n\\text{Difference} = B - A\n$$\n\nBut we don’t know $ B $ and $ A $ individually.\n\nHowever, we **can** find this difference **without knowing how many were given to Jeff**.\n\nLet’s use the original numbers:\n\n- Original baseball cards: 309\n- Original Ace cards: 356\n- Total cards given to Jeff: 250\n\nLet’s assume that the number of baseball cards given to Jeff is $ x $, and the number of Ace cards given to Jeff is $ 250 - x $.\n\nThen:\n- Baseball cards left: $ 309 - x $\n- Ace cards left: $ 356 - (250 - x) = 356 - 250 + x = 106 + x $\n\nNow compute the difference:\n$$\n\\text{Difference} = (309 - x) - (106 + x) = 309 - x - 106 - x = 203 - 2x\n$$\n\nSo the difference depends on how many baseball cards she gave to Jeff.\n\nBut the question is **how many more baseball cards than Ace cards does Nell have?**\n\nThis is asking for the **difference** between the number of baseball and Ace cards **left**, which is:\n$$\n(309 - x) - (356 - (250 - x)) = (309 - x) - (106 + x) = 203 - 2x\n$$\n\nWe are not given any more information, but the question must have a **unique answer**.\n\nLet’s look at the original numbers again:\n\n- Original baseball cards: 309\n- Original Ace cards: 356\n- Total cards left: 415\n\nSo the number of cards **given to Jeff** is:\n$$\n309 + 356 - 415 = 250\n$$\n\nNow, the question is: **How many more baseball cards than Ace cards does Nell have?**\n\nWe can find the answer by assuming that the number of baseball and Ace cards left is as close as possible to the original numbers.\n\nLet’s try to find the **difference** between baseball and Ace cards **left**.\n\nLet’s assume that she gave away **all** of the Ace cards (356), but she only gave away 250 cards total. So that’s not possible.\n\nLet’s try to find the **maximum** and **minimum** possible differences.\n\nLet’s try a few values for $ x $ (number of baseball cards given to Jeff):\n\n- If $ x = 0 $:  \n  Baseball left = 309  \n  Ace left = 356 - 250 = 106  \n  Difference = 309 - 106 = **203**\n\n- If $ x = 125 $:  \n  Baseball left = 309 - 125 = 184  \n  Ace left = 356 - 125 = 231  \n  Difference = 184 - 231 = **-47**\n\nSo the difference can vary from **-47 to 203**, depending on how many baseball cards she gave to Jeff.\n\nBut the question is asking:\n\n> **How many more baseball cards than Ace cards does Nell have?**\n\nThis implies that the answer is **unique**.\n\nBut from the information given, it's **not unique**.\n\nHowever, if we assume that the number of baseball cards left is **as close as possible** to the original number (i.e., she gave away as few as possible), then the difference is **203**.\n\nSo the answer is:\n\n$$\n\\boxed{203}\n$$",
+        "generated_thinking": ""
+    },
+    {
+        "question": "There are 270 students in a school. If the school has 5 students in each grades and each grade has the same number of students How many grades are there in total?",
+        "original_answer": "54",
+        "generated_answer": "We are given:\n\n- Total number of students = 270  \n- Each grade has 5 students  \n- All grades have the same number of students  \n\nWe need to find the total number of grades.\n\n### Step 1: Divide the total number of students by the number of students per grade.\n\n$$\n\\text{Number of grades} = \\frac{270}{5} = 54\n$$\n\n### Final Answer:\nThere are **54 grades** in total.",
+        "generated_thinking": ""
+    },
+    {
+        "question": "In a school there are 34 girls and 841 boys. How many more boys than girls does the school have?",
+        "original_answer": "807",
+        "generated_answer": "To find how many more boys than girls are in the school, subtract the number of girls from the number of boys:\n\n$$\n841 - 34 = 807\n$$\n\n**Answer:** The school has 807 more boys than girls.",
+        "generated_thinking": ""
+    }
+]
