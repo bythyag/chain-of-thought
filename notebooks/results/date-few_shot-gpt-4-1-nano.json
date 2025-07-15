@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Yesterday was April 30, 2021. What is the date today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/01/2021",
+        "answer_text": "If yesterday was 04/30/2021, then today is one day after that. Therefore, today is 05/01/2021. So the answer is 05/01/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date tomorrow in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/02/2021",
+        "answer_text": "Yesterday was 04/30/2021. Therefore, tomorrow will be one day after yesterday, which is 05/02/2021. So the answer is 05/02/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date yesterday in MM/DD/YYYY?",
+        "original_answer": "The answer is 04/30/2021",
+        "answer_text": "Yesterday was April 30, 2021. Therefore, the date yesterday in MM/DD/YYYY is 04/30/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date 10 days ago in MM/DD/YYYY?",
+        "original_answer": "The answer is 04/21/2021",
+        "answer_text": "Yesterday was April 30, 2021, which is 04/30/2021.  \n10 days before April 30, 2021, is April 20, 2021.  \n\nSo, the date 10 days ago is 04/20/2021.  \n\n**Answer: 04/20/2021**"
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date a month ago in MM/DD/YYYY?",
+        "original_answer": "The answer is 04/01/2021",
+        "answer_text": "If yesterday was 04/30/2021, then today is 05/01/2021. One month before 05/01/2021 is 04/01/2021. So, the date a month ago was 04/01/2021. So the answer is 04/01/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date one year ago from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/01/2020",
+        "answer_text": "Yesterday was April 30, 2021. One year before April 30, 2021, is April 30, 2020. Therefore, the date one year ago from yesterday is 04/30/2020. So the answer is 04/30/2020."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date one week ago from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 04/24/2021",
+        "answer_text": "If yesterday was 04/30/2021, then today is 05/01/2021. One week ago from today is 7 days before 05/01/2021, which is 04/24/2021. So the answer is 04/24/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date one week from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/08/2021",
+        "answer_text": "If yesterday was 04/30/2021, then today is 05/01/2021. One week from today is 7 days after 05/01/2021, which is 05/08/2021. So the answer is 05/08/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date 24 hours later in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/02/2021",
+        "answer_text": "Today is April 30, 2021. Adding 24 hours (which is one day) to this date results in May 1, 2021. So, the answer is 05/01/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/30/2021",
+        "answer_text": "If June 1, 2021, is 2 days away from today, then today is 2 days before June 1, 2021. Counting back two days from 06/01/2021:\n\n- One day before is 05/31/2021.\n- Two days before is 05/30/2021.\n\nSo, today is 05/30/2021. The answer is 05/30/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/31/2021",
+        "answer_text": "If June 1, 2021, is 2 days away from now, then today is 05/30/2021. Tomorrow, which is one day after today, will be 05/31/2021. So the answer is 05/31/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date yesterday in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/29/2021",
+        "answer_text": "If June 1, 2021, is 2 days away from now, then today is 05/30/2021. Yesterday would be one day before today, which is 05/29/2021. So the answer is 05/29/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 10 days ago in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/20/2021",
+        "answer_text": "If June 1, 2021, is 2 days away from now, then today is 05/30/2021.  \nTen days before today is 05/20/2021.  \nSo, the answer is 05/20/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date a month ago in MM/DD/YYYY?",
+        "original_answer": "The answer is 04/30/2021",
+        "answer_text": "If June 1, 2021, is 2 days away from now, then today is 05/30/2021.  \nOne month before 05/30/2021 is 04/30/2021.  \nSo, the date a month ago is 04/30/2021.  \n**So the answer is 04/30/2021.**"
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one year ago from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/30/2020",
+        "answer_text": "If June 1, 2021, is 2 days away from now, then today is 05/30/2021. One year before today would be 05/30/2020. So, the answer is 05/30/2020."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week ago from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/23/2021",
+        "answer_text": "If June 1, 2021, is 2 days away from now, then today is 05/30/2021. One week before today is 7 days earlier, which is 05/23/2021. So the answer is 05/23/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 06/06/2021",
+        "answer_text": "If June 1, 2021, is 2 days away from now, then today is May 30, 2021. One week from today would be 7 days after May 30, 2021, which is June 6, 2021. So, the answer is 06/06/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 24 hours later in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/31/2021",
+        "answer_text": "If June 1, 2021, is 2 days away from now, then today is May 30, 2021. 24 hours later, which is one day after today, will be May 31, 2021. So the answer is 05/31/2021."
+    },
+    {
+        "question": "Tomorrow is 11/12/2019. What is the date today in MM/DD/YYYY?",
+        "original_answer": "The answer is 11/11/2019",
+        "answer_text": "If tomorrow is 11/12/2019, then today is one day before that, which is 11/11/2019. So the answer is 11/11/2019."
+    },
+    {
+        "question": "Tomorrow is 11/12/2019. What is the date tomorrow in MM/DD/YYYY?",
+        "original_answer": "The answer is 11/12/2019",
+        "answer_text": "If tomorrow is 11/12/2019, then today is 11/11/2019. Therefore, tomorrow's date is 11/12/2019. So the answer is 11/12/2019."
+    }
+]

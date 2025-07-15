@@ -1,0 +1,102 @@
+[
+    {
+        "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+        "original_answer": "The answer is (a)",
+        "answer_text": "The sentence describes sanctions as a \"punishing blow,\" implying a negative consequence.  The sanctions are contrasted with the school's efforts to change, suggesting the sanctions undermined or disregarded those efforts.  Of the choices provided, \"ignore\" best fits this description.  The sanctions essentially disregarded or overlooked the school's attempts at improvement.\n\nThe other options don't fit the context:\n\n* **(b) enforce:** Sanctions are a form of enforcement, but the sentence implies the sanctions *contradicted* the school's efforts, not reinforced them.\n* **(c) authoritarian:** This describes a style of governance, not the effect of the sanctions.\n* **(d) yell at:** This is too literal and doesn't capture the systemic nature of sanctions.\n* **(e) avoid:** This implies the sanctions were unsuccessful in addressing the issue, not that they disregarded the school's efforts.\n\nTherefore, \"ignore\" is the most accurate word to describe how the sanctions seemed to relate to the school's efforts.\n\nThe answer is ignore.\n"
+    },
+    {
+        "question": "Sammy wanted to go to where the people were.  Where might he go? Answer Choices: (a) race track (b) populated areas (c) the desert (d) apartment (e) roadblock",
+        "original_answer": "The answer is (b)",
+        "answer_text": "Sammy wants to go where the people are.  Let's analyze the options:\n\n(a) **Race track:** Race tracks have people, but the density depends on the event.  It's not always guaranteed to be crowded.\n\n(b) **Populated areas:** This is the most direct and likely answer. Populated areas, by definition, have a high concentration of people.\n\n(c) **The desert:** Deserts are sparsely populated.\n\n(d) **Apartment:** An apartment building might have people, but it's limited to the residents of that specific building.\n\n(e) **Roadblock:** A roadblock might have a few people (police officers, etc.), but it's not a place known for a large gathering of people.\n\nTherefore, the best answer is (b) populated areas.  This is the most reliable place to find a large number of people.\n\n\nThe answer is {b}\n"
+    },
+    {
+        "question": "To locate a choker not located in a jewelry box or boutique where would you go? Answer Choices: (a) jewelry store (b) neck (c) jewlery box (d) jewelry box (e) boutique",
+        "original_answer": "The answer is (a)",
+        "answer_text": "The question asks where to find a choker that is *not* located in a jewelry box or boutique.  The only other logical place to find a choker on a person would be around their neck. Therefore, the correct answer is (b).\n\nThe answer is (b)\n"
+    },
+    {
+        "question": "Google Maps and other highway and street GPS services have replaced what? Answer Choices: (a) united states (b) mexico (c) countryside (d) atlas (e) oceans",
+        "original_answer": "The answer is (d)",
+        "answer_text": "GPS services like Google Maps have largely replaced the use of traditional atlases for navigation, especially for highway and street travel.  Atlases are physical books containing maps of various geographical areas. Before the widespread adoption of GPS technology, people relied heavily on atlases to plan routes and find their way.  GPS provides real-time navigation, traffic updates, and other features that make it far superior to an atlas for this purpose.\n\nThe other options are not relevant. GPS services haven't replaced countries, the countryside, or oceans.\n\nThe answer is (d)"
+    },
+    {
+        "question": "The fox walked from the city into the forest, what was it looking for? Answer Choices: (a) pretty flowers. (b) hen house (c) natural habitat (d) storybook (e) dense forest",
+        "original_answer": "The answer is (c)",
+        "answer_text": "The question implies the fox is seeking a place belonging to it naturally.  Options (a), (d), and (e) are incorrect because they don't align with a fox's natural instincts or habitat. Option (b), while representing a potential food source, doesn't fully capture the essence of a fox leaving the city and going into a forest.  Option (c), \"natural habitat,\" best describes the fox's likely motivation:  to return to its natural environment for shelter, hunting, and overall survival.\n\nThe answer is (c)"
+    },
+    {
+        "question": "What home entertainment equipment requires cable? Answer Choices: (a) radio shack (b) substation (c) cabinet (d) television (e) desk",
+        "original_answer": "The answer is (d)",
+        "answer_text": "Of the options provided, only a television typically requires a cable connection to receive programming from cable providers.  A radio shack might use a cable for power or antenna connection but is not defined by cable usage. Substations, cabinets, and desks have no inherent connection to cable technology.\n\nThe answer is (d)\n"
+    },
+    {
+        "question": "The only baggage the woman checked was a drawstring bag, where was she heading with it? Answer Choices: (a) garbage can (b) military (c) jewelry store (d) safe (e) airport",
+        "original_answer": "The answer is (e)",
+        "answer_text": "The question implies that the woman is traveling and the drawstring bag is her only checked baggage.  Options (a), (c), and (d) are locations where one might dispose of, display, or secure something but aren't destinations for travel with baggage. Option (b) is possible but unlikely.  The most logical destination associated with checked baggage is an airport.\n\nThe answer is (e)\n"
+    },
+    {
+        "question": "The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what? Answer Choices: (a) carpet (b) refrigerator (c) breadbox (d) fridge (e) coach",
+        "original_answer": "The answer is (b)",
+        "answer_text": "The question states that the leftovers were found in the back of something.  Options (a) carpet, (b) breadbox, and (e) coach are unlikely places to store leftovers that would develop mold. Option (d) fridge is a synonym for refrigerator, making (b) and (d) essentially the same answer.  Leftovers are most commonly stored in a refrigerator to prevent spoilage. Therefore, the most likely place to find moldy leftovers is in the refrigerator.\n\nThe answer is (b) refrigerator\n"
+    },
+    {
+        "question": "What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b) calligrapher's hand (c) inkwell (d) desk drawer (e) blotter",
+        "original_answer": "The answer is (e)",
+        "answer_text": "A blotter is a sheet of absorbent paper specifically designed to absorb excess ink from a fountain pen or other writing instruments.  Shirt pockets, calligrapher's hands, inkwells, and desk drawers are not designed for this purpose and would likely smudge or damage the writing.\n\nThe answer is (e) blotter\n"
+    },
+    {
+        "question": "Where is a business restaurant likely to be located? Answer Choices: (a) town (b) at hotel (c) mall (d) business sector (e) yellow pages",
+        "original_answer": "The answer is (d)",
+        "answer_text": "A business restaurant is most likely to be located in a business sector, where professionals work and need convenient lunch or dinner options. While they could be located in towns, hotels, or malls, these are less focused on the business clientele.  The yellow pages are a directory, not a location.\n\nThe answer is (d)"
+    },
+    {
+        "question": "Where do you put your grapes just before checking out? Answer Choices: (a) mouth (b) grocery cart (c) super market (d) fruit basket (e) fruit market",
+        "original_answer": "The answer is (b)",
+        "answer_text": "Before checking out at a supermarket, you would place your grapes in your grocery cart.  The other options are incorrect because: (a) eating the grapes before purchase is theft; (c) and (e) refer to the location of the store, not a specific place to put the grapes; and (d) a fruit basket is typically used at home, not in the store.\n\nThe answer is (b)\n"
+    },
+    {
+        "question": "Before getting a divorce, what did the wife feel who was doing all the work? Answer Choices: (a) harder (b) anguish (c) bitterness (d) tears (e) sadness",
+        "original_answer": "The answer is (c)",
+        "answer_text": "The question asks about the emotional state of a wife who did all the work before a divorce. While options (d) tears and (e) sadness are possible emotional responses, they are not as encompassing as the other options. Option (a) harder describes a physical and mental feeling, but doesn't capture the emotional depth of the situation. Option (c) bitterness speaks to resentment and anger that would likely develop from feeling unappreciated and overburdened. Option (b) anguish is a strong word that describes intense emotional suffering and fits well with the context of feeling exploited and facing a divorce.  Therefore, \"anguish\" most accurately captures the complex emotions likely experienced by a wife in this situation.  The wife may have felt sadness, tears, and a harder workload, but anguish encompasses all of these and more, reflecting the intense emotional pain associated with the situation.\n\nThe answer is anguish\n"
+    },
+    {
+        "question": "Johnny sat on a bench and relaxed after doing a lot of work on his hobby.  Where is he? Answer Choices: (a) state park (b) bus depot (c) garden (d) gym (e) rest area",
+        "original_answer": "The answer is (c)",
+        "answer_text": "The question describes Johnny relaxing on a bench after working on a hobby. Let's analyze the answer choices:\n\n* **(a) state park:** State parks often have benches for visitors to rest and enjoy the scenery.  This is a plausible location.\n* **(b) bus depot:** Bus depots are primarily for transportation and waiting, not typically for relaxing and pursuing hobbies.\n* **(c) garden:** Gardens can have benches, and people might work on gardening as a hobby, but the phrasing suggests the work was done *before* relaxing on the bench.\n* **(d) gym:** Gyms are for exercise; benches are present, but the context doesn't suggest a hobby related to a gym.\n* **(e) rest area:** Rest areas, similar to state parks, often have benches for travelers to take a break. This is also a plausible location.\n\nBoth (a) and (e) are plausible, but the phrasing \"a lot of work on his hobby\" suggests a more secluded and potentially less transient location than a rest area, which are primarily for short breaks during travel. A state park offers more space and opportunity for a hobby that requires more time and effort.\n\nThe answer is (a)\n"
+    },
+    {
+        "question": "James was cooling off two quickly.  He would die if he didn't find some way to stop what? Answer Choices: (a) loss of heat (b) revenge (c) expansion (d) relaxation (e) calm down",
+        "original_answer": "The answer is (a)",
+        "answer_text": "The sentence indicates James is cooling off too quickly, implying a dangerous drop in body temperature (hypothermia).  The question asks what he needs to stop.  The only answer choice that addresses this is (a) loss of heat.  Options (b), (c), (d), and (e) are unrelated to the core issue of James's rapidly decreasing body temperature.\n\nThe answer is (a) loss of heat\n"
+    },
+    {
+        "question": "Of all the rooms in a house it was his favorite, the aromas always drew him to the what? Answer Choices: (a) yard (b) basement (c) kitchen (d) living room (e) garden",
+        "original_answer": "The answer is (c)",
+        "answer_text": "The question describes a room with appealing aromas that attract the person.  Of the choices provided, the kitchen is the most likely place to have a variety of enticing smells from cooking. Yards, basements, living rooms, and gardens may have some smells, but they are not typically associated with consistently pleasant and attractive aromas like a kitchen.\n\nThe answer is (c) kitchen\n"
+    },
+    {
+        "question": "Bill is stuck in marsh when a man comes up to him peaking Cajun, where is he? Answer Choices: (a) low lands (b) new york (c) forest (d) louisiana (e) everglades",
+        "original_answer": "The answer is (d)",
+        "answer_text": "The question states that a man speaking Cajun French approaches Bill. Cajun French is a dialect primarily spoken in Louisiana, specifically in the Cajun region of south Louisiana.  Therefore, Bill is most likely in Louisiana. While the Everglades in Florida also have swampy areas, Cajun French is not spoken there. Lowlands are a general term and could be anywhere. New York and forests are not associated with Cajun French speakers.\n\nThe answer is (d) louisiana\n"
+    },
+    {
+        "question": "What is it called when you slowly cook using a grill? Answer Choices: (a) backyard (b) restaurant (c) crockpot (d) neighbor's house (e) barbeque",
+        "original_answer": "The answer is (e)",
+        "answer_text": "The process of slowly cooking food using a grill is called barbeque.  Barbeque involves cooking meat (typically pork, beef, or chicken) low and slow over indirect heat for an extended period, resulting in tender, flavorful results.  The other options are incorrect; a backyard, restaurant, or neighbor's house are locations, and a crockpot is an appliance used for slow cooking, but not specifically on a grill.\n\nThe answer is barbeque\n"
+    },
+    {
+        "question": "What type of person typically contracts illness? Answer Choices: (a) hospital (b) head (c) sick person (d) elderly person (e) doctor's office",
+        "original_answer": "The answer is (d)",
+        "answer_text": "The question asks what *type of person* typically contracts illness.  The other answer choices are locations or professions, not types of people.  A \"sick person\" is, by definition, a person who has contracted an illness.\n\nThe answer is (c) sick person.\n\nThe answer is (c)\n"
+    },
+    {
+        "question": "Where would you expect to find a pizzeria while shopping? Answer Choices: (a) chicago (b) street (c) little italy (d) food court (e) capital cities",
+        "original_answer": "The answer is (d)",
+        "answer_text": "The most likely place to find a pizzeria while shopping would be in a food court.  Food courts are designed to offer a variety of quick and easy dining options within a larger shopping complex. While you might find pizzerias in other locations (like Little Italy or even on a street near a shopping area), a food court is the most consistent and expected location within a shopping center itself.  Chicago and capital cities are too broad – while pizzerias *could* exist there, they wouldn't be specifically *within* a shopping mall in any predictable way.\n\n\nThe answer is (d) food court\n"
+    },
+    {
+        "question": "When eating everything on the tasting menu, what does one tend to feel? Answer Choices: (a) full stomach (b) getting full (c) gaining weight (d) sick (e) satisfaction",
+        "original_answer": "The answer is (b)",
+        "answer_text": "A tasting menu is designed to offer a variety of small dishes, showcasing the chef's skills and creativity. While the portions are smaller than a regular meal, the cumulative effect of several courses can lead to a feeling of fullness.  Option (a) \"full stomach\" accurately reflects this experience. Although one might experience (b) \"getting full\" during the progression of the meal, (a) better captures the overall feeling once the entire menu is consumed. Option (c) \"gaining weight\" is unlikely to be a direct, immediate feeling from a single tasting menu. Option (d) \"sick\" is also not typical, unless one has a food intolerance or allergy. While (e) \"satisfaction\" is certainly a potential outcome, \"full stomach\" is a more direct and immediate physiological experience.\n\n\nThe answer is (a)"
+    }
+]

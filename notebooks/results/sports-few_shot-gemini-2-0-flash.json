@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Is the following sentence plausible? \"Jamal Murray was perfect from the line\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Jamal Murray is a basketball player. Being perfect from the line is part of basketball. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Jonas Valanciunas beat the buzzer\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Jonas Valanciunas is a basketball player. Beating the buzzer is part of basketball. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Malcolm Brogdon banked the shot in\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Malcolm Brogdon is a basketball player. Banking the shot in is part of basketball. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Joao Moutinho caught the screen pass in the NFC championship\"",
+        "original_answer": "The answer is no",
+        "answer_text": "Joao Moutinho is a soccer player. The NFC championship is part of American football, not soccer. So the answer is no.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Sam Darnold passed the puck\"",
+        "original_answer": "The answer is no",
+        "answer_text": "Sam Darnold is an American football player. Passing the puck is part of hockey, not American football. So the answer is no.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Carson Wentz set the pick and roll\"",
+        "original_answer": "The answer is no",
+        "answer_text": "Carson Wentz is a football player. Pick and roll is part of basketball, not football. So the answer is no."
+    },
+    {
+        "question": "Is the following sentence plausible? \"Kyle Palmieri was called for slashing\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Kyle Palmieri is a hockey player. Being called for slashing is part of hockey. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Liam Hendricks hit a double in the World Series\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Liam Hendricks is a baseball player. Hitting a double is part of baseball. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Draymond Green threw a touchdown\"",
+        "original_answer": "The answer is no",
+        "answer_text": "Draymond Green is a basketball player. Throwing a touchdown is part of football, not basketball. So the answer is no.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Sonny Gray was out at second\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Sonny Gray is a baseball player. Being out at second is part of baseball. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Luke Voit was out at first\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Luke Voit is a baseball player. Being out at first is part of baseball. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Wayne Rooney shot from outside the eighteen\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Wayne Rooney is a soccer player. Shooting from outside the eighteen is part of soccer. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Samir Nasri did a double stepover in the World Cup\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Samir Nasri is a soccer player. Doing a double stepover is part of soccer, and the World Cup is part of soccer. So the answer is yes."
+    },
+    {
+        "question": "Is the following sentence plausible? \"Jorge Soler entered the attacking zone\"",
+        "original_answer": "The answer is no",
+        "answer_text": "Jorge Soler is a baseball player. Entering the attacking zone is part of hockey, not baseball. So the answer is no."
+    },
+    {
+        "question": "Is the following sentence plausible? \"Juan Soto shot from beyond the arc\"",
+        "original_answer": "The answer is no",
+        "answer_text": "Juan Soto is a baseball player. Shooting from beyond the arc is part of basketball, not baseball. So the answer is no.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Fernando Tatis Jr. walked on ball four\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Fernando Tatis Jr. is a baseball player. Walking on ball four is part of baseball. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Mike Williams got into the endzone\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Mike Williams is a football player. Getting into the endzone is part of football. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Juan Mata caught the screen pass\"",
+        "original_answer": "The answer is no",
+        "answer_text": "Juan Mata is a soccer player. Catching the screen pass is part of American football, not soccer. So the answer is no."
+    },
+    {
+        "question": "Is the following sentence plausible? \"Alex Pietrangelo was called for slashing in the Stanley Cup\"",
+        "original_answer": "The answer is yes",
+        "answer_text": "Alex Pietrangelo is a hockey player. Being called for slashing is part of hockey. So the answer is yes.\n"
+    },
+    {
+        "question": "Is the following sentence plausible? \"Gareth Bale launched the half court shot\"",
+        "original_answer": "The answer is no",
+        "answer_text": "Gareth Bale is a soccer player. Launching the half court shot is part of basketball, not soccer. So the answer is no.\n"
+    }
+]

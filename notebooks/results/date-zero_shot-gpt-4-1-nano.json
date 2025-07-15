@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Yesterday was April 30, 2021. What is the date today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/01/2021",
+        "answer_text": "If yesterday was April 30, 2021, then today is the day after April 30, 2021. Therefore, today is May 1, 2021.\n\nThe date today in MM/DD/YYYY format is 05/01/2021.\n\nThe answer is 05/01/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date tomorrow in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/02/2021",
+        "answer_text": "If yesterday was April 30, 2021, then today is May 1, 2021. Therefore, tomorrow will be May 2, 2021. In the MM/DD/YYYY format, that date is 05/02/2021.\n\nThe answer is 05/02/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date yesterday in MM/DD/YYYY?",
+        "original_answer": "The answer is 04/30/2021",
+        "answer_text": "Since yesterday was April 30, 2021, the date in MM/DD/YYYY format is 04/30/2021.\n\nThe answer is 04/30/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date 10 days ago in MM/DD/YYYY?",
+        "original_answer": "The answer is 04/21/2021",
+        "answer_text": "To find the date 10 days before April 30, 2021, we subtract 10 days from that date.\n\nApril 30, 2021 minus 10 days:\n\n- April has 30 days, so subtracting 10 days from April 30th:\n\nApril 30 - 10 days = April 20, 2021.\n\nTherefore, the date 10 days ago was April 20, 2021.\n\nThe date in MM/DD/YYYY format is 04/20/2021.\n\nThe answer is 04/20/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date a month ago in MM/DD/YYYY?",
+        "original_answer": "The answer is 04/01/2021",
+        "answer_text": "To find the date a month before April 30, 2021, we need to subtract one month from this date. Since April 30, 2021, is at the end of April, subtracting one month would take us to the end of the previous month, March 2021. \n\nIn most cases, when subtracting a month from a date like April 30, the resulting date is March 30, 2021, because March has 31 days, and the day remains the same if possible. \n\nTherefore, a month before April 30, 2021, is March 30, 2021.\n\nFinal answer: 03/30/2021\n\nThe answer is 03/30/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date one year ago from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/01/2020",
+        "answer_text": "Since yesterday was April 30, 2021, today is May 1, 2021. To find the date one year ago from today, we subtract one year from May 1, 2021, which results in May 1, 2020. \n\nFinal answer: 05/01/2020"
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date one week ago from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 04/24/2021",
+        "answer_text": "Since yesterday was April 30, 2021, today is May 1, 2021. To find the date one week ago from today, we subtract 7 days from May 1, 2021. \n\nSubtracting 7 days from May 1, 2021, brings us to April 24, 2021.\n\nThe date one week ago from today (May 1, 2021) is 04/24/2021.\n\nThe answer is 04/24/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date one week from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/08/2021",
+        "answer_text": "Since yesterday was April 30, 2021, today is May 1, 2021. One week from today would be exactly 7 days later, which is May 8, 2021. \n\nFinal answer: The date one week from today is 05/08/2021."
+    },
+    {
+        "question": "Yesterday was April 30, 2021. What is the date 24 hours later in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/02/2021",
+        "answer_text": "If yesterday was April 30, 2021, then the date yesterday was 04/30/2021. Adding 24 hours (which is exactly one day) to April 30, 2021, results in May 1, 2021. Therefore, the date 24 hours later is 05/01/2021.\n\nThe answer is 05/01/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/30/2021",
+        "answer_text": "If the deadline is June 1, 2021, and it is 2 days away from now, then today must be 2 days before June 1, 2021. Counting back two days from June 1, 2021, we get May 30, 2021. Therefore, today's date is May 30, 2021.\n\nThe answer is 05/30/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/31/2021",
+        "answer_text": "If the deadline is June 1, 2021, and it is 2 days away from now, then today must be May 30, 2021. Therefore, tomorrow will be May 31, 2021. In MM/DD/YYYY format, that is 05/31/2021.\n\nThe answer is 05/31/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date yesterday in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/29/2021",
+        "answer_text": "If the deadline is June 1, 2021, and it is 2 days away from now, then \"now\" is June 3, 2021. \n\nTo find yesterday's date, subtract one day from June 3, 2021, which gives June 2, 2021.\n\nIn MM/DD/YYYY format, June 2, 2021, is written as 06/02/2021.\n\nThe answer is 06/02/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 10 days ago in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/20/2021",
+        "answer_text": "If the deadline is June 1, 2021, and it is 2 days away from now, then \"now\" is June 1, 2021, minus 2 days, which is May 30, 2021. \n\nTo find the date 10 days ago from May 30, 2021, subtract 10 days: \n\nMay 30, 2021 minus 10 days is May 20, 2021.\n\nIn MM/DD/YYYY format, that date is 05/20/2021.\n\nThe answer is 05/20/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date a month ago in MM/DD/YYYY?",
+        "original_answer": "The answer is 04/30/2021",
+        "answer_text": "Given that the deadline is June 1, 2021, and it is 2 days away from now, the current date is June 1, 2021. To find the date a month ago from June 1, 2021, we need to subtract one month.\n\nSubtracting one month from June 1, 2021, brings us to May 1, 2021.\n\nFinal answer: 05/01/2021\n\nThe answer is 05/01/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one year ago from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/30/2020",
+        "answer_text": "If the deadline is June 1, 2021, and it is 2 days away from now, then today's date is June 3, 2021. To find the date one year ago from today, we subtract one year from June 3, 2021, which results in June 3, 2020. \n\nFinal answer: 06/03/2020"
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week ago from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/23/2021",
+        "answer_text": "Given that the deadline is June 1, 2021, and it is 2 days away from now, we can determine today's date by adding 2 days to June 1, 2021. \n\nJune 1, 2021 + 2 days = June 3, 2021. \n\nTherefore, today is June 3, 2021. \n\nTo find the date one week ago from today, subtract 7 days from June 3, 2021:\n\nJune 3, 2021 - 7 days = May 27, 2021.\n\nIn MM/DD/YYYY format, that is 05/27/2021.\n\nThe answer is 05/27/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week from today in MM/DD/YYYY?",
+        "original_answer": "The answer is 06/06/2021",
+        "answer_text": "If the deadline is June 1, 2021, and it is 2 days away from now, then today must be May 30, 2021. To find the date one week from today, we add 7 days to May 30, 2021, which results in June 6, 2021. \n\nThe date one week from today in MM/DD/YYYY format is 06/06/2021.\n\nThe answer is 06/06/2021."
+    },
+    {
+        "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 24 hours later in MM/DD/YYYY?",
+        "original_answer": "The answer is 05/31/2021",
+        "answer_text": "If the deadline is June 1, 2021, and it is 2 days away from now, then today must be May 30, 2021. Adding 24 hours (1 day) to May 30, 2021, results in May 31, 2021. \n\nIn MM/DD/YYYY format, that date is 05/31/2021.\n\nThe answer is 05/31/2021."
+    },
+    {
+        "question": "Tomorrow is 11/12/2019. What is the date today in MM/DD/YYYY?",
+        "original_answer": "The answer is 11/11/2019",
+        "answer_text": "If tomorrow is 11/12/2019, then today must be one day earlier, which is 11/11/2019.\n\nThe answer is 11/11/2019."
+    },
+    {
+        "question": "Tomorrow is 11/12/2019. What is the date tomorrow in MM/DD/YYYY?",
+        "original_answer": "The answer is 11/12/2019",
+        "answer_text": "If tomorrow is 11/12/2019, then the date tomorrow in MM/DD/YYYY format is 11/13/2019.\n\nThe answer is 11/13/2019."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Can you bring all the snacks on the table?",
+        "original_answer": "The answer is 1. go to the table, 2. pick up the energy bar, 3. bring it to you, 4. put down the energy bar, 5. go to the table, 6. pick up the multigrain chips, 7. bring it to you, 8. put down the multigrain chips, 9. go to the table, 10. done.",
+        "answer_text": "I'm sorry, but I can't physically bring the snacks on the table. However, I can help you identify or organize the snacks if you provide a picture or description. \n\nThe answer is not applicable."
+    },
+    {
+        "question": "Can you bring all the drinks on the table?",
+        "original_answer": "The answer is 1. go to the table, 2. pick up the redbull, 3. bring it to you, 4. put down the redbull, 5. go to the table, 6. pick up the 7up, 7. bring it to you, 8. put down the 7up, 9. go to the table, 10. done.",
+        "answer_text": "I'm sorry, but I can't physically bring the drinks on the table. However, I can help you identify or organize them if you provide more details or a picture of the table. \n\nThe answer is I cannot physically bring the drinks."
+    },
+    {
+        "question": "Can you clear off the close counter table?",
+        "original_answer": "The answer is 1. go to the close counter, 2. pick up the energy bar, 3. go to the trash, 4. put down the energy bar, 5. go to the close counter, 6. pick up the jalapeno chips, 7. go to the trash, 8. put down the jalapeno chips, 9. go to the close counter, 10. pick up the grapefruit soda, 11. go to the trash, 12. put down the grapefruit soda, 13. go to the close counter, 14. done.",
+        "answer_text": "Certainly! To clear off the close counter table, you would typically need to remove all items, dishes, or utensils that are currently on the table. This can be done by gathering all items and placing them in the appropriate storage or disposal areas. If you are referring to a specific context, such as a restaurant or a particular setting, please provide more details so I can give more precise instructions. \n\nFinal answer: The answer is to remove all items from the close counter table and clean the surface."
+    },
+    {
+        "question": "Can you bring me something salty?",
+        "original_answer": "The answer is 1. find a sea salt chips, 2. pick up the sea salt chips, 3. bring it to you, 4. put down the sea salt chips, 5. done.",
+        "answer_text": "I can't physically bring you something salty, but I can suggest some salty snacks you might enjoy! Some popular options include potato chips, pretzels, salted nuts, popcorn with salt, or cheese. If you're at home, you could grab some of these from your pantry or fridge. Would you like a specific recipe or snack idea?"
+    },
+    {
+        "question": "Can you bring me a salty snack?",
+        "original_answer": "The answer is 1. find a sea salt chips, 2. pick up the sea salt chips, 3. bring it to you, 4. put down the sea salt chips, 5. done.",
+        "answer_text": "I'm sorry, but I can't physically bring you a snack. However, I can suggest some salty snacks you might enjoy, such as potato chips, pretzels, salted nuts, popcorn, or cheese crackers. Would you like a recipe or more suggestions?\n\nThe answer is I cannot bring you a snack, but I can suggest some salty snacks you might enjoy."
+    },
+    {
+        "question": "Can you bring me something spicy?",
+        "original_answer": "The answer is 1. find a jalapeno chips, 2. pick up the jalapeno chips, 3. bring it to you, 4. put down the jalapeno chips, 5. done.",
+        "answer_text": "Sure! If you're looking for something spicy, I recommend trying a dish like spicy buffalo wings, spicy Thai curry, or a jalapeño pepper-stuffed dish. If you're at a restaurant or grocery store, you might ask for their spiciest item or look for products labeled \"hot\" or \"extra spicy.\" If you'd like a specific recipe or recommendation, let me know your preferences!\n\nThe answer is spicy buffalo wings."
+    },
+    {
+        "question": "Can you bring me a spicy snack?",
+        "original_answer": "The answer is 1. find a jalapeno chips, 2. pick up the jalapeno chips, 3. bring it to you, 4. put down the jalapeno chips, 5. done.",
+        "answer_text": "I'm sorry, but I can't physically bring you a snack. However, I can suggest some spicy snack options you might enjoy, such as spicy jalapeño chips, hot buffalo wings, spicy trail mix, or wasabi-flavored snacks. Would you like a recipe or specific product recommendations?\n\nThe answer is I cannot bring you a snack, but I can suggest some spicy snack options."
+    },
+    {
+        "question": "I love spice, can you get something to eat?",
+        "original_answer": "The answer is 1. find a jalapeno chips, 2. pick up the jalapeno chips, 3. bring it to you, 4. put down the jalapeno chips, 5. done.",
+        "answer_text": "Sure! If you love spice, I recommend trying some spicy dishes like spicy buffalo wings, spicy Thai curry, Indian vindaloo, Mexican jalapeño poppers, or a fiery Szechuan stir-fry. You could also pick up some hot sauce or spicy snacks to add flavor to your favorite foods. Would you like a specific recipe or restaurant recommendation?\n\nThe answer is {Yes, I can suggest some spicy dishes or snacks for you}."
+    },
+    {
+        "question": "I’m exhausted, can you bring me a drink?",
+        "original_answer": "The answer is 1. find a redbull, 2. pick up the redbull, 3. bring it to you, 4. put down the redbull, 5. done.",
+        "answer_text": "I'm sorry, but I can't physically bring you a drink. However, I can suggest some refreshing options or help you find a way to get one. Would you like a recipe for a quick drink or some ideas on how to get someone to bring you one?"
+    },
+    {
+        "question": "Could you get me something refreshing?",
+        "original_answer": "The answer is 1. find a water, 2. pick up the water, 3. bring it to you, 4. put down the water, 5. done.",
+        "answer_text": "Certainly! If you're looking for something refreshing, here are a few options:\n\n1. A cold glass of lemonade or citrus-infused water with slices of lemon, lime, or cucumber.\n2. A chilled fruit smoothie made with fresh berries, pineapple, or watermelon.\n3. An iced herbal tea, such as mint or chamomile, served over ice.\n4. A sparkling water with a splash of fruit juice or fresh fruit pieces.\n5. A refreshing salad with crisp greens, cucumbers, and a light vinaigrette.\n\nWould you like a specific recipe or recommendation based on your preferences?\n\nThe answer is a chilled fruit smoothie."
+    },
+    {
+        "question": "Could you get me a drink with caffeine?",
+        "original_answer": "The answer is 1. find a coke, 2. pick up the coke, 3. bring it to you, 4. put down the coke, 5. done.",
+        "answer_text": "Sure! Here are some popular caffeinated drink options you might consider:\n\n1. Coffee (black, latte, cappuccino, etc.)\n2. Tea (black, green, white, or oolong)\n3. Energy drinks (like Red Bull, Monster, or Rockstar)\n4. Iced coffee or iced tea\n5. Cold brew coffee\n6. Matcha latte\n7. Soda with caffeine (such as cola or certain root beers)\n\nPlease specify if you have a preference or if you'd like a particular type or flavor, and I can help you choose or suggest a recipe!"
+    },
+    {
+        "question": "Could you get me something caffeinated?",
+        "original_answer": "The answer is 1. find a coke, 2. pick up the coke, 3. bring it to you, 4. put down the coke, 5. done.",
+        "answer_text": "Sure! If you're looking for something caffeinated, you might consider options like coffee, tea, energy drinks, or certain sodas. If you're at a café or a store, you could order a brewed coffee, an espresso, a latte, or a black or green tea. For a quick energy boost, an energy drink like Red Bull or Monster could work. If you prefer soda, options like Coca-Cola or Pepsi contain caffeine as well. Let me know if you'd like a specific recommendation or a recipe for a caffeinated beverage!\n\nThe answer is a coffee, tea, energy drink, or caffeinated soda."
+    },
+    {
+        "question": "Could you get me something caffeinated?",
+        "original_answer": "The answer is 1. find a redbull, 2. pick up the redbull, 3. bring it to you, 4. put down the redbull, 5. done.",
+        "answer_text": "Sure! If you're looking for something caffeinated, you might consider options like coffee, tea, energy drinks, or certain sodas. If you're at a café or a store, you could order a brewed coffee, an espresso, a latte, or a black or green tea. For a quick energy boost, an energy drink like Red Bull or Monster could work. If you prefer something cold, a caffeinated soda like cola or iced coffee might be suitable. Please specify your preference or location if you'd like a more tailored recommendation!\n\nThe answer is a coffee or tea."
+    },
+    {
+        "question": "Could you get me something caffeinated?",
+        "original_answer": "The answer is 1. find a pepsi, 2. pick up the pepsi, 3. bring it to you, 4. put down the pepsi, 5. done.",
+        "answer_text": "Sure! If you're looking for something caffeinated, you might consider options like coffee, tea, energy drinks, or certain sodas. If you prefer a hot beverage, a classic brewed coffee or an espresso would be great choices. For a cold option, an iced coffee or an energy drink like Red Bull or Monster could work. If you want something with a more natural caffeine boost, green or black tea are good options. Let me know if you'd like a specific recommendation or a recipe!\n\nThe answer is coffee."
+    },
+    {
+        "question": "Could you get me a soda that is not caffeinated?",
+        "original_answer": "The answer is 1. find a 7up, 2. pick up the 7up, 3. bring it to you, 4. put down the 7up, 5. done.",
+        "answer_text": "Certainly! You can look for sodas labeled as \"caffeine-free.\" Popular options include caffeine-free versions of well-known sodas such as Sprite, 7UP, or Fanta. These are widely available in most grocery stores and convenience stores. Just check the label to ensure it says \"caffeine-free\" before purchasing.\n\nThe answer is Sprite or 7UP (caffeine-free versions)."
+    },
+    {
+        "question": "Bring me something that is not an apple.",
+        "original_answer": "The answer is 1. find a orange, 2. pick up the orange, 3. bring it to you, 4. put down the orange, 5. done.",
+        "answer_text": "Certainly! How about a banana? It's a fruit like an apple but different in taste, texture, and appearance. Bananas are elongated, curved fruits with a soft, sweet interior and a yellow peel when ripe. They are a popular snack and used in various recipes worldwide.\n\nThe answer is banana."
+    },
+    {
+        "question": "Bring me a fruit that is not an apple.",
+        "original_answer": "The answer is 1. find a orange, 2. pick up the orange, 3. bring it to you, 4. put down the orange, 5. done.",
+        "answer_text": "Certainly! A fruit that is not an apple could be a banana, orange, mango, strawberry, or any other fruit besides an apple. For example, a banana is a popular fruit that is not an apple.\n\nThe answer is banana."
+    },
+    {
+        "question": "Bring me a soda that isn’t a coke.",
+        "original_answer": "The answer is 1. find a pepsi, 2. pick up the pepsi, 3. bring it to you, 4. put down the pepsi, 5. done.",
+        "answer_text": "Sure! If you're looking for a soda that isn't a Coke, you might consider options like Pepsi, Sprite, Fanta, 7UP, or Mountain Dew. These are popular alternatives that are widely available and offer a variety of flavors different from Coca-Cola.\n\nThe answer is Pepsi."
+    },
+    {
+        "question": "Bring me a drink that isn’t an water or a coke.",
+        "original_answer": "The answer is 1. find a tea, 2. pick up the tea, 3. bring it to you, 4. put down the tea, 5. done.",
+        "answer_text": "Sure! How about a refreshing glass of iced tea, a fruit juice like orange or apple juice, or perhaps a flavored sparkling water? If you're looking for something specific, let me know!\n\nThe answer is a fruit juice."
+    },
+    {
+        "question": "I’d like a clear soda.",
+        "original_answer": "The answer is 1. find a 7up, 2. pick up the 7up, 3. bring it to you, 4. put down the 7up, 5. done.",
+        "answer_text": "It sounds like you're looking for a type of soda that is clear in appearance. Common clear sodas include brands like Sprite, 7UP, or Sierra Mist. These sodas are lemon-lime flavored and do not contain any coloring, making them transparent or clear in color. If you're seeking a specific flavor or brand, please specify. Otherwise, a good choice for a clear soda would be Sprite or 7UP.\n\nThe answer is Sprite or 7UP."
+    }
+]

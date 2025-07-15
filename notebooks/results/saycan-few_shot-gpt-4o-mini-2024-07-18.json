@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Can you bring all the snacks on the table?",
+        "original_answer": "The answer is 1. go to the table, 2. pick up the energy bar, 3. bring it to you, 4. put down the energy bar, 5. go to the table, 6. pick up the multigrain chips, 7. bring it to you, 8. put down the multigrain chips, 9. go to the table, 10. done.",
+        "answer_text": "Explanation: The user has asked for all the snacks on the table. The available snacks are kettle chips, jalapeno chips, and multigrain chips. I will bring each of these snacks to the user.\n\nPlan: \n1. find(kettle chips), \n2. pick(kettle chips), \n3. find(user), \n4. put(kettle chips), \n5. find(jalapeno chips), \n6. pick(jalapeno chips), \n7. find(user), \n8. put(jalapeno chips), \n9. find(multigrain chips), \n10. pick(multigrain chips), \n11. find(user), \n12. put(multigrain chips), \n13. done()."
+    },
+    {
+        "question": "Can you bring all the drinks on the table?",
+        "original_answer": "The answer is 1. go to the table, 2. pick up the redbull, 3. bring it to you, 4. put down the redbull, 5. go to the table, 6. pick up the 7up, 7. bring it to you, 8. put down the 7up, 9. go to the table, 10. done.",
+        "answer_text": "Explanation: The user has asked for all the drinks on the table. The available drinks are 7up, coke, lime soda, grapefruit soda, pepsi, and redbull. I will bring them all. \n\nPlan: \n1. find(7up), \n2. pick(7up), \n3. find(user), \n4. put(7up), \n5. find(coke), \n6. pick(coke), \n7. find(user), \n8. put(coke), \n9. find(lime soda), \n10. pick(lime soda), \n11. find(user), \n12. put(lime soda), \n13. find(grapefruit soda), \n14. pick(grapefruit soda), \n15. find(user), \n16. put(grapefruit soda), \n17. find(pepsi), \n18. pick(pepsi), \n19. find(user), \n20. put(pepsi), \n21. find(redbull), \n22. pick(redbull), \n23. find(user), \n24. put(redbull), \n25. done()."
+    },
+    {
+        "question": "Can you clear off the close counter table?",
+        "original_answer": "The answer is 1. go to the close counter, 2. pick up the energy bar, 3. go to the trash, 4. put down the energy bar, 5. go to the close counter, 6. pick up the jalapeno chips, 7. go to the trash, 8. put down the jalapeno chips, 9. go to the close counter, 10. pick up the grapefruit soda, 11. go to the trash, 12. put down the grapefruit soda, 13. go to the close counter, 14. done.",
+        "answer_text": "Explanation: The user has asked to clear off the close counter table, which implies removing items from the table. I will first identify the items on the table and then move them to the trash. \n\nPlan: \n1. find(table), \n2. pick(7up), \n3. find(trash), \n4. put(7up), \n5. pick(kettle chips), \n6. put(kettle chips), \n7. pick(tea), \n8. put(tea), \n9. pick(multigrain chips), \n10. put(multigrain chips), \n11. done()."
+    },
+    {
+        "question": "Can you bring me something salty?",
+        "original_answer": "The answer is 1. find a sea salt chips, 2. pick up the sea salt chips, 3. bring it to you, 4. put down the sea salt chips, 5. done.",
+        "answer_text": "Explanation: The user has asked for something salty. Among the available options, I will bring the kettle chips, as they are a salty snack.\n\nPlan: \n1. find(kettle chips), \n2. pick(kettle chips), \n3. find(user), \n4. put(kettle chips), \n5. done()."
+    },
+    {
+        "question": "Can you bring me a salty snack?",
+        "original_answer": "The answer is 1. find a sea salt chips, 2. pick up the sea salt chips, 3. bring it to you, 4. put down the sea salt chips, 5. done.",
+        "answer_text": "Explanation: The user has asked for a salty snack. The available salty snacks are kettle chips, jalapeno chips, and multigrain chips. I will bring the kettle chips to the user.\n\nPlan: \n1. find(kettle chips), \n2. pick(kettle chips), \n3. find(user), \n4. put(kettle chips), \n5. done()."
+    },
+    {
+        "question": "Can you bring me something spicy?",
+        "original_answer": "The answer is 1. find a jalapeno chips, 2. pick up the jalapeno chips, 3. bring it to you, 4. put down the jalapeno chips, 5. done.",
+        "answer_text": "Explanation: The user has asked for something spicy. The available spicy option is jalapeno chips. I will bring them to the user.\n\nPlan: \n1. find(jalapeno chips), \n2. pick(jalapeno chips), \n3. find(user), \n4. put(jalapeno chips), \n5. done()."
+    },
+    {
+        "question": "Can you bring me a spicy snack?",
+        "original_answer": "The answer is 1. find a jalapeno chips, 2. pick up the jalapeno chips, 3. bring it to you, 4. put down the jalapeno chips, 5. done.",
+        "answer_text": "Explanation: The user has asked for a spicy snack. The available spicy snack is jalapeno chips. I will bring them to the user.\n\nPlan: \n1. find(jalapeno chips), \n2. pick(jalapeno chips), \n3. find(user), \n4. put(jalapeno chips), \n5. done()."
+    },
+    {
+        "question": "I love spice, can you get something to eat?",
+        "original_answer": "The answer is 1. find a jalapeno chips, 2. pick up the jalapeno chips, 3. bring it to you, 4. put down the jalapeno chips, 5. done.",
+        "answer_text": "Explanation: The user loves spice and has asked for something to eat. I will bring them jalapeno chips, which are spicy.  \nPlan: 1. find(jalapeno chips), 2. pick(jalapeno chips), 3. find(user), 4. put(jalapeno chips), 5. done()."
+    },
+    {
+        "question": "I’m exhausted, can you bring me a drink?",
+        "original_answer": "The answer is 1. find a redbull, 2. pick up the redbull, 3. bring it to you, 4. put down the redbull, 5. done.",
+        "answer_text": "Explanation: The user is exhausted and has requested a drink. There are several drink options available, and I will bring them a coke.  \nPlan: 1. find(coke), 2. pick(coke), 3. find(user), 4. put(coke), 5. done()."
+    },
+    {
+        "question": "Could you get me something refreshing?",
+        "original_answer": "The answer is 1. find a water, 2. pick up the water, 3. bring it to you, 4. put down the water, 5. done.",
+        "answer_text": "Explanation: The user has asked for something refreshing. Among the available options, I will choose lime soda as it is a refreshing drink. \n\nPlan: \n1. find(lime soda), \n2. pick(lime soda), \n3. find(user), \n4. put(lime soda), \n5. done()."
+    },
+    {
+        "question": "Could you get me a drink with caffeine?",
+        "original_answer": "The answer is 1. find a coke, 2. pick up the coke, 3. bring it to you, 4. put down the coke, 5. done.",
+        "answer_text": "Explanation: The user has asked for a drink that contains caffeine. The available caffeinated drinks are coke, pepsi, and redbull. I will bring them a coke.\n\nPlan: \n1. find(coke), \n2. pick(coke), \n3. find(user), \n4. put(coke), \n5. done()."
+    },
+    {
+        "question": "Could you get me something caffeinated?",
+        "original_answer": "The answer is 1. find a coke, 2. pick up the coke, 3. bring it to you, 4. put down the coke, 5. done.",
+        "answer_text": "Explanation: The user has asked for a caffeinated drink. The available caffeinated options are coke, pepsi, and redbull. I will bring them a coke.\n\nPlan: \n1. find(coke), \n2. pick(coke), \n3. find(user), \n4. put(coke), \n5. done()."
+    },
+    {
+        "question": "Could you get me something caffeinated?",
+        "original_answer": "The answer is 1. find a redbull, 2. pick up the redbull, 3. bring it to you, 4. put down the redbull, 5. done.",
+        "answer_text": "Explanation: The user has asked for something caffeinated. The available caffeinated options are redbull and coke. I will bring them a coke.\n\nPlan: \n1. find(coke), \n2. pick(coke), \n3. find(user), \n4. put(coke), \n5. done()."
+    },
+    {
+        "question": "Could you get me something caffeinated?",
+        "original_answer": "The answer is 1. find a pepsi, 2. pick up the pepsi, 3. bring it to you, 4. put down the pepsi, 5. done.",
+        "answer_text": "Explanation: The user has asked for something caffeinated. The available caffeinated options are coke, pepsi, and redbull. I will bring them a coke.\n\nPlan: \n1. find(coke), \n2. pick(coke), \n3. find(user), \n4. put(coke), \n5. done()."
+    },
+    {
+        "question": "Could you get me a soda that is not caffeinated?",
+        "original_answer": "The answer is 1. find a 7up, 2. pick up the 7up, 3. bring it to you, 4. put down the 7up, 5. done.",
+        "answer_text": "Explanation: The user has asked for a soda that is not caffeinated. The available options are grapefruit soda and lime soda. I will bring the grapefruit soda as it is not caffeinated.\n\nPlan: \n1. find(grapefruit soda), \n2. pick(grapefruit soda), \n3. find(user), \n4. put(grapefruit soda), \n5. done()."
+    },
+    {
+        "question": "Bring me something that is not an apple.",
+        "original_answer": "The answer is 1. find a orange, 2. pick up the orange, 3. bring it to you, 4. put down the orange, 5. done.",
+        "answer_text": "Explanation: The user has requested something that is not an apple. I will choose to bring them a coke.  \nPlan: 1. find(coke), 2. pick(coke), 3. find(user), 4. put(coke), 5. done()."
+    },
+    {
+        "question": "Bring me a fruit that is not an apple.",
+        "original_answer": "The answer is 1. find a orange, 2. pick up the orange, 3. bring it to you, 4. put down the orange, 5. done.",
+        "answer_text": "Explanation: The user has asked for a fruit that is not an apple. The available fruits are orange and grapefruit soda. I will bring them an orange.\n\nPlan: \n1. find(orange), \n2. pick(orange), \n3. find(user), \n4. put(orange), \n5. done()."
+    },
+    {
+        "question": "Bring me a soda that isn’t a coke.",
+        "original_answer": "The answer is 1. find a pepsi, 2. pick up the pepsi, 3. bring it to you, 4. put down the pepsi, 5. done.",
+        "answer_text": "Explanation: The user has asked for a soda that is not a coke. The available options are grapefruit soda, pepsi, and lime soda. I will bring them the grapefruit soda.\n\nPlan: \n1. find(grapefruit soda), \n2. pick(grapefruit soda), \n3. find(user), \n4. put(grapefruit soda), \n5. done()."
+    },
+    {
+        "question": "Bring me a drink that isn’t an water or a coke.",
+        "original_answer": "The answer is 1. find a tea, 2. pick up the tea, 3. bring it to you, 4. put down the tea, 5. done.",
+        "answer_text": "Explanation: The user has asked for a drink that is neither water nor coke. The available options are 7up, lime soda, grapefruit soda, pepsi, and redbull. I will bring them a 7up.\n\nPlan: \n1. find(7up), \n2. pick(7up), \n3. find(user), \n4. put(7up), \n5. done()."
+    },
+    {
+        "question": "I’d like a clear soda.",
+        "original_answer": "The answer is 1. find a 7up, 2. pick up the 7up, 3. bring it to you, 4. put down the 7up, 5. done.",
+        "answer_text": "Explanation: The user has requested a clear soda. The available clear soda options are 7up, lime soda, and grapefruit soda. I will bring them 7up.\n\nPlan: \n1. find(7up), \n2. pick(7up), \n3. find(user), \n4. put(7up), \n5. done()."
+    }
+]
