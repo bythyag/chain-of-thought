@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Is the following sentence plausible? \"Jamal Murray was perfect from the line\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Jamal Murray was perfect from the line\" is plausible in the context of basketball.  It means that Jamal Murray made all of his free throws (shots taken from the free throw line).  The sentence relies on the implied context of a basketball game, where \"the line\" refers to the free throw line. Without that context, the sentence would be ambiguous.\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Jonas Valanciunas beat the buzzer\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Jonas Valanciunas beat the buzzer\" is plausible.  It implies that Jonas Valanciunas, a basketball player, made a shot or completed an action just before the game clock reached zero, resulting in a score or victory for his team. This is a common occurrence and phrasing in basketball.\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Malcolm Brogdon banked the shot in\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Malcolm Brogdon banked the shot in\" is plausible.  \"Banking a shot\" is a common term in basketball, referring to a shot where the ball bounces off the backboard before going into the basket.  Malcolm Brogdon is a known professional basketball player, so the sentence is grammatically correct and uses basketball terminology appropriately.\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Joao Moutinho caught the screen pass in the NFC championship\"",
+    "original": "The answer is no",
+    "answer": "The sentence \"Joao Moutinho caught the screen pass in the NFC championship\" is highly implausible.  Joao Moutinho is a well-known soccer player, not an American football player.  The NFC Championship is a game in the National Football League (NFL), an American football league.  It's extremely unlikely a soccer player would be participating in, let alone catching a pass in, an NFL championship game.  While theoretically possible (e.g., a highly unusual crossover event), it's practically impossible and therefore the sentence is not plausible in a realistic context.\n\n\nThe answer is No\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Sam Darnold passed the puck\"",
+    "original": "The answer is no",
+    "answer": "The sentence \"Sam Darnold passed the puck\" is not plausible.  Sam Darnold is an American football quarterback.  American football uses a football, not a puck.  Pucks are used in sports like ice hockey.  Therefore, the sentence is illogical because it attributes an action (passing a puck) to a person (Sam Darnold) who plays a sport where pucks are not used.\n\nThe answer is No.\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Carson Wentz set the pick and roll\"",
+    "original": "The answer is no",
+    "answer": "The sentence \"Carson Wentz set the pick and roll\" is highly implausible.  Carson Wentz is a professional football quarterback, not a basketball player.  Setting a pick and roll is a basketball maneuver where a player (the screener) sets a screen (blocks a defender) for a teammate (the ball-handler) to facilitate a drive to the basket or a shot.  While it's theoretically possible for *anyone* to set a pick and roll, it's extremely unlikely and nonsensical in the context of a professional football player in a football game.  The sentence would only be plausible if it were used humorously or metaphorically, or in a fictional context where the roles were reversed.\n\nThe answer is No.\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Kyle Palmieri was called for slashing\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Kyle Palmieri was called for slashing\" is plausible.  Slashing is a penalty in ice hockey, and Kyle Palmieri is a professional ice hockey player. Therefore, it's entirely possible that he received a slashing penalty during a game.\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Liam Hendricks hit a double in the World Series\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Liam Hendricks hit a double in the World Series\" is plausible, but highly improbable.  Liam Hendricks is a well-known relief pitcher, not a hitter known for his batting prowess. While it's possible for a pitcher to get a hit, including a double, in a World Series game, it's statistically unlikely and not something that would be expected.  The sentence is grammatically correct and could technically be true, but its likelihood is extremely low.\n\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Draymond Green threw a touchdown\"",
+    "original": "The answer is no",
+    "answer": "The sentence \"Draymond Green threw a touchdown\" is highly implausible.  Draymond Green is a professional basketball player, not a quarterback or any other position that would typically throw a touchdown pass in American football. While theoretically possible in a highly unusual circumstance (e.g., a wildly improbable trick play in a charity football game), it's extremely unlikely and would be considered practically impossible within the context of his professional career.\n\n\nThe answer is No\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Sonny Gray was out at second\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Sonny Gray was out at second\" is plausible, but only under specific circumstances.  Sonny Gray is a professional baseball player, and the sentence implies he was playing in a game and was called out while attempting to reach second base.  Therefore, the sentence's plausibility hinges on the context. If the context is a baseball game, then the sentence is perfectly plausible.  If the context is something unrelated to baseball, the sentence would be nonsensical.\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Luke Voit was out at first\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Luke Voit was out at first\" is perfectly plausible.  It's a common baseball phrase indicating that a batter, Luke Voit in this case, was called out by the umpire while attempting to reach first base.  This could happen for a variety of reasons, such as a fielder catching a batted ball before it hits the ground, or the batter being tagged while running to first.  The sentence structure and vocabulary are grammatically correct and commonly used in the context of baseball reporting.\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Wayne Rooney shot from outside the eighteen\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Wayne Rooney shot from outside the eighteen\" is plausible.  It's a concise and understandable description of a common event in football (soccer).  \"The eighteen\" is a common shorthand reference to the penalty area, which is 18 yards from the goal.  Therefore, the sentence means Wayne Rooney took a shot from outside the penalty area. This is a perfectly reasonable action in a football match.\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Samir Nasri did a double stepover in the World Cup\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Samir Nasri did a double stepover in the World Cup\" is plausible, but its likelihood depends on the specific context.  Samir Nasri did play in the World Cup (the 2010 and 2014 tournaments specifically).  A double stepover is a common and relatively simple football skill.  Therefore, it's entirely possible he performed this move during a World Cup match.  However, without knowing the specific match or even the general timeframe, we can't definitively say whether he *actually* did perform a double stepover. The sentence is grammatically correct and the actions described are possible, making it plausible.\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Jorge Soler entered the attacking zone\"",
+    "original": "The answer is no",
+    "answer": "The plausibility of the sentence \"Jorge Soler entered the attacking zone\" depends heavily on the context.  If we're talking about a baseball game, it's not standard baseball terminology.  While a batter might be said to be *in* the batter's box (the area where they hit), there's no established \"attacking zone\".  The strike zone is a defined area, but that's for the umpire's judgment of pitches.  A batter's actions are described differently—they might step into the batter's box, take a swing, or hit a ball, but not \"enter the attacking zone.\"\n\nHowever, if the context is a different sport or a metaphorical situation, the sentence could be plausible.  For example, if we're talking about a video game or a fictional combat scenario where \"attacking zone\" is a defined game element, then the sentence makes perfect sense.  Alternatively, if it's a figurative expression about someone taking a proactive, offensive role in a situation, it could be interpreted metaphorically.\n\n\nThe answer is No\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Juan Soto shot from beyond the arc\"",
+    "original": "The answer is no",
+    "answer": "The sentence \"Juan Soto shot from beyond the arc\" is plausible, but its plausibility depends heavily on context.  Juan Soto is primarily known as a baseball player, specifically a hitter.  In baseball, there's no \"arc\" in the way there is in basketball.  Therefore, the sentence is implausible in a baseball context.\n\nHowever, the sentence could be plausible if the context is different.  For example, if Juan Soto were playing a game involving shooting a projectile (basketball, perhaps, or even a video game) then the sentence would be entirely plausible. The phrase \"beyond the arc\" typically refers to a three-point line in basketball. If Juan Soto were playing basketball, or a game with similar rules, the sentence makes perfect sense.\n\nTherefore, the plausibility hinges entirely on the context in which the sentence is used.  Without further context, the sentence is more likely implausible given Soto's primary public persona.\n\n\nThe answer is No\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Fernando Tatis Jr. walked on ball four\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Fernando Tatis Jr. walked on ball four\" is grammatically correct and plausible.  It's a common way to describe a baseball player receiving a base on balls (a walk) after the pitcher throws four balls outside the strike zone.\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Mike Williams got into the endzone\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Mike Williams got into the endzone\" is plausible, though it depends heavily on context.  It strongly implies that Mike Williams is a player in a sport where scoring involves reaching an endzone, most likely American football.  While grammatically correct, it lacks the detail to be completely unambiguous.  For instance, it doesn't specify whether he scored a touchdown or merely entered the endzone for another reason (e.g., a penalty, a fumble recovery).\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Juan Mata caught the screen pass\"",
+    "original": "The answer is no",
+    "answer": "The sentence \"Juan Mata caught the screen pass\" is plausible, but its plausibility depends heavily on the context.  Juan Mata is a famous soccer player.  In soccer, a \"screen pass\" isn't a standard term.  However, if we're talking about a situation where the term is used informally to describe a short, quick pass that's intended to evade defenders, then the sentence could be used in a casual or informal setting, perhaps in a commentary about a soccer game where the passing style was unique.  If the context is American football, then it's highly plausible as a screen pass is a standard play.\n\nTherefore, the plausibility of the sentence hinges on whether the context is American football (highly plausible) or a very specific, informal use of terminology within soccer (marginally plausible).\n\n\nThe answer is Yes\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Alex Pietrangelo was called for slashing in the Stanley Cup\"",
+    "original": "The answer is yes",
+    "answer": "The sentence \"Alex Pietrangelo was called for slashing in the Stanley Cup\" is not entirely plausible in the way it's written.  The Stanley Cup is a trophy, not a game or a period of play within a game.  A player is penalized for slashing *during* a Stanley Cup *game* or *playoffs*.\n\nTherefore, while the individual elements of the sentence are correct (Alex Pietrangelo is a hockey player who could be called for slashing), the sentence needs to be rephrased to accurately reflect the context. A more plausible sentence would be: \"Alex Pietrangelo was called for slashing during a Stanley Cup game.\" or \"Alex Pietrangelo was called for slashing in the Stanley Cup Playoffs.\"\n\nThe answer is No.\n"
+  },
+  {
+    "question": "Is the following sentence plausible? \"Gareth Bale launched the half court shot\"",
+    "original": "The answer is no",
+    "answer": "The plausibility of the sentence \"Gareth Bale launched the half-court shot\" depends heavily on context.  Gareth Bale is a famous soccer player, not known for his basketball skills.  While physically capable of throwing a basketball, it's highly improbable he'd be in a situation to attempt a half-court shot in a formal basketball game.  However, the sentence could be plausible in several other contexts:\n\n* **Informal setting:** If the sentence describes a casual game of basketball among friends, it becomes more plausible.  Even a soccer player might try a half-court shot for fun.\n* **Hypothetical scenario:** The sentence could be used in a hypothetical or fictional context, such as a story or a joke.\n* **Figurative language:** The phrase \"launched the half-court shot\" might be used metaphorically, not literally describing a basketball throw.  It could represent a bold or risky action in a different context entirely.\n\nTherefore, without more context, the sentence is *implausible* but not inherently impossible.  Its plausibility depends entirely on the situation it describes.\n\nThe answer is Implausible, but context-dependent.\n"
+  }
+]
