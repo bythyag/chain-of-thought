@@ -1,0 +1,370 @@
+prompt,question,model_output,extracted_answer,gold_answer,result,,
+Chain of thought,Q: A coin is heads up. rushawn flips the coin. yerania does not flip the coin. myricle does not flip the coin. jostin does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Rushawn. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. korianna does not flip the coin. lacey flips the coin. dimitricus flips the coin. selars does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Lacey and Dimitricus. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,All answers are correct
+Chain of thought,Q: A coin is heads up. prosperus flips the coin. jaileah does not flip the coin. mihalco does not flip the coin. kiaralee flips the coin.  Is the coin still heads up?,"The coin was flipped by prosperus and kiaralee. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. bollen flips the coin. ashmin flips the coin. qureshi flips the coin. maquel flips the coin.  Is the coin still heads up?,"The coin was flipped by bollen, ashmin, qureshi, and maquel. So the coin was flipped 4 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. itzamar flips the coin. clione flips the coin. alely does not flip the coin. sieghardt flips the coin.  Is the coin still heads up?,"The coin was flipped by itzamar, clione, and sieghardt. So the coin was flipped 3 times, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. motonobu does not flip the coin. nichlaus flips the coin. erissa flips the coin. marliegh does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Nichlaus and Erissa. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. jordani does not flip the coin. dishawn does not flip the coin. darriana does not flip the coin. jahlani does not flip the coin.  Is the coin still heads up?,"The coin was flipped by no one. So the coin was flipped 0 times. The coin started heads up, and it was not flipped, so it is still heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. oliveriu does not flip the coin. vidin does not flip the coin. bowen does not flip the coin. clairemarie does not flip the coin.  Is the coin still heads up?,"The coin was flipped by no one. So the coin was flipped 0 times. The coin started heads up, and it was not flipped, so it is still heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. arihaan does not flip the coin. kerk flips the coin. avenelle does not flip the coin. moustafa does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Kerk. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. vladyslav does not flip the coin. sholeh does not flip the coin. arabella flips the coin. merrial does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Arabella. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. mikelyn flips the coin. izzy-mae flips the coin. ashleyanne flips the coin. hjalmar does not flip the coin.  Is the coin still heads up?,"The coin was flipped by mikelyn, izzy-mae, and ashleyanne. So the coin was flipped 3 times, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. onye flips the coin. youl flips the coin. kendera flips the coin. fabia does not flip the coin.  Is the coin still heads up?,"The coin was flipped by onye, youl, and kendera. So the coin was flipped 3 times, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. loujean does not flip the coin. annielee flips the coin. khylar flips the coin. avanita does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Annielee and Khylar. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. milia flips the coin. elbridge flips the coin. detrell does not flip the coin. ceana does not flip the coin.  Is the coin still heads up?,"The coin was flipped by milia and elbridge. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. mayers flips the coin. floriţa flips the coin. lucil does not flip the coin. lenford does not flip the coin.  Is the coin still heads up?,"The coin was flipped by mayers and floriţa. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. levane flips the coin. makira does not flip the coin. hla does not flip the coin. ellia does not flip the coin.  Is the coin still heads up?,"The coin was flipped by levane. makira, hla, and ellia did not flip the coin. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. termain does not flip the coin. mayuka flips the coin. dymone does not flip the coin. ashiley flips the coin.  Is the coin still heads up?,"The coin was flipped by Mayuka and Ashiley. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. brittainy does not flip the coin. gracie-louise does not flip the coin. marletha flips the coin. esveidy does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Marletha. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. keyhla flips the coin. urijah does not flip the coin. conception flips the coin. puspa flips the coin.  Is the coin still heads up?,"The coin was flipped by keyhla, conception, and puspa. So the coin was flipped 3 times, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. donley does not flip the coin. mohammed-faizan does not flip the coin. maddisen does not flip the coin. reckner does not flip the coin.  Is the coin still heads up?,"The coin was flipped by no one. So the coin was flipped 0 times. The coin started heads up, and it was not flipped, so it is still heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. linkyn flips the coin. gennelle does not flip the coin. omiros flips the coin. ruah flips the coin.  Is the coin still heads up?,"The coin was flipped by linkyn, omiros, and ruah. So the coin was flipped 3 times, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. hadmuthe flips the coin. samaher does not flip the coin. marjolijn flips the coin. albiery flips the coin.  Is the coin still heads up?,"The coin was flipped by hadmuthe, marjolijn, and albiery. So the coin was flipped 3 times, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. asbjørg does not flip the coin. vilena flips the coin. ax does not flip the coin. aeiress flips the coin.  Is the coin still heads up?,"The coin was flipped by vilena and aeiress. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. fadile flips the coin. edgington does not flip the coin. tawana-nyasha flips the coin. danella flips the coin.  Is the coin still heads up?,"The coin was flipped by fadile, tawana-nyasha, and danella. So the coin was flipped 3 times, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. shalei does not flip the coin. yitzchok does not flip the coin. adriauna flips the coin. callasandra flips the coin.  Is the coin still heads up?,"The coin was flipped by Adriauna and Callasandra. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.","The coin was flipped by Adriauna and Callasandra. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes",yes,Correct,,
+Chain of thought,Q: A coin is heads up. rukshan does not flip the coin. hanneke does not flip the coin. sundga flips the coin. relly flips the coin.  Is the coin still heads up?,"The coin was flipped by Sundga and Relly. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. ivry does not flip the coin. makyah flips the coin. caorran does not flip the coin. lainez does not flip the coin.  Is the coin still heads up?,"The coin was flipped by makyah. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. allisa flips the coin. audley flips the coin. gregroy does not flip the coin. dhvip does not flip the coin.  Is the coin still heads up?,"The coin was flipped by allisa and audley. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. taylor-rae does not flip the coin. audell does not flip the coin. nisaiah flips the coin. arist does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Nisaiah. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. monya does not flip the coin. sraddha does not flip the coin. loganjames flips the coin. elessio flips the coin.  Is the coin still heads up?,"The coin was flipped by loganjames and elessio. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. jopie flips the coin. nidah flips the coin. antyon flips the coin. bona flips the coin.  Is the coin still heads up?,"The coin was flipped by jopie, nidah, antyon, and bona. So the coin was flipped 4 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. chelita does not flip the coin. wooley does not flip the coin. sonoko flips the coin. ura does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Sonoko. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.","The coin was flipped by Sonoko. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no",no,Correct,,
+Chain of thought,Q: A coin is heads up. lisel flips the coin. leyah flips the coin. vito flips the coin. rivera-cruz does not flip the coin.  Is the coin still heads up?,"The coin was flipped by lisel, leyah, and vito. So the coin was flipped 3 times, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. tamaryn flips the coin. sharal does not flip the coin. kamyrah does not flip the coin. vessie flips the coin.  Is the coin still heads up?,"The coin was flipped by Tamaryn and Vessie. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. breyanna flips the coin. garrey does not flip the coin. souraya does not flip the coin. kahira flips the coin.  Is the coin still heads up?,"The coin was flipped by Breyanna and Kahira. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. mackeyla does not flip the coin. rawson does not flip the coin. adriennie flips the coin. aroya does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Adriennie. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. yonda flips the coin. jamie-joseph does not flip the coin. hett does not flip the coin. nitzy flips the coin.  Is the coin still heads up?,"The coin was flipped by yonda and nitzy. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. gokce flips the coin. maxmillian does not flip the coin. miente flips the coin. lacrisha does not flip the coin.  Is the coin still heads up?,"The coin was flipped by gokce and miente. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. clementie does not flip the coin. nicholaas does not flip the coin. battan flips the coin. fearon does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Battan. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. oshan flips the coin. quentin flips the coin. hayaat flips the coin. polewarzyk flips the coin.  Is the coin still heads up?,"The coin was flipped by oshan, quentin, hayaat, and polewarzyk. So the coin was flipped 4 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. dorraine does not flip the coin. kirean does not flip the coin. burrs does not flip the coin. dubhgan flips the coin.  Is the coin still heads up?,"The coin was flipped by Dubhgan. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. kacelynn flips the coin. canye flips the coin. mellany flips the coin. chukwudubem flips the coin.  Is the coin still heads up?,"The coin was flipped by kacelynn, canye, mellany, and chukwudubem. So the coin was flipped 4 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. vrishin does not flip the coin. talat flips the coin. rueben-carter flips the coin. finley-jack does not flip the coin.  Is the coin still heads up?,"The coin was flipped by talat and rueben-carter. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. armyn flips the coin. pravya flips the coin. feinleib does not flip the coin. gerene does not flip the coin.  Is the coin still heads up?,"The coin was flipped by armyn and pravya. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. nelie flips the coin. louvena does not flip the coin. rajbiri does not flip the coin. mika flips the coin.  Is the coin still heads up?,"The coin was flipped by Nelie and Mika. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. jeramy flips the coin. teirney does not flip the coin. covadonga flips the coin. livvie does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Jeramy and Covadonga. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+The answer is yes.",yes,yes,Correct,,
+Chain of thought,Q: A coin is heads up. analicia does not flip the coin. aviraj flips the coin. pappano does not flip the coin. richarda does not flip the coin.  Is the coin still heads up?,"The coin was flipped by aviraj. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. havannah does not flip the coin. willease does not flip the coin. naoh flips the coin. talonda does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Naoh. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. souhail does not flip the coin. maylena does not flip the coin. arbelaez flips the coin. saroya does not flip the coin.  Is the coin still heads up?,"The coin was flipped by Arbelaez. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Chain of thought,Q: A coin is heads up. dearra does not flip the coin. reney flips the coin. dustee does not flip the coin. aniaya does not flip the coin.  Is the coin still heads up?,"The coin was flipped by reney. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. rushawn flips the coin. yerania does not flip the coin. myricle does not flip the coin. jostin does not flip the coin.  Is the coin still heads up?,The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. korianna does not flip the coin. lacey flips the coin. dimitricus flips the coin. selars does not flip the coin.  Is the coin still heads up?,"The coin starts heads up.
+korianna does not flip the coin (no change).
+lacey flips the coin (now tails up).
+dimitricus flips the coin (now heads up).
+selars does not flip the coin (no change).
+So the coin is still heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. prosperus flips the coin. jaileah does not flip the coin. mihalco does not flip the coin. kiaralee flips the coin.  Is the coin still heads up?,"Prosperus flips the coin (now tails), Jaileah does not flip (still tails), Mihalco does not flip (still tails), Kiaralee flips the coin (now heads).
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. bollen flips the coin. ashmin flips the coin. qureshi flips the coin. maquel flips the coin.  Is the coin still heads up?,"Each flip changes the state of the coin, so let's track it:
+
+- Starts heads up.
+- bollen flips: tails up.
+- ashmin flips: heads up.
+- qureshi flips: tails up.
+- maquel flips: heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. itzamar flips the coin. clione flips the coin. alely does not flip the coin. sieghardt flips the coin.  Is the coin still heads up?,"itzamar flips the coin (now tails), clione flips the coin (now heads), alely does not flip the coin (no change), sieghardt flips the coin (now tails).
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. motonobu does not flip the coin. nichlaus flips the coin. erissa flips the coin. marliegh does not flip the coin.  Is the coin still heads up?,"First, start with the coin heads up.
+
+- motonobu does not flip the coin. (no change)
+- nichlaus flips the coin. (heads → tails)
+- erissa flips the coin. (tails → heads)
+- marliegh does not flip the coin. (no change)
+
+After all these actions, the coin is heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. jordani does not flip the coin. dishawn does not flip the coin. darriana does not flip the coin. jahlani does not flip the coin.  Is the coin still heads up?,The answer is yes.,yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. oliveriu does not flip the coin. vidin does not flip the coin. bowen does not flip the coin. clairemarie does not flip the coin.  Is the coin still heads up?,The answer is yes.,yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. arihaan does not flip the coin. kerk flips the coin. avenelle does not flip the coin. moustafa does not flip the coin.  Is the coin still heads up?,The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. vladyslav does not flip the coin. sholeh does not flip the coin. arabella flips the coin. merrial does not flip the coin.  Is the coin still heads up?,The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. mikelyn flips the coin. izzy-mae flips the coin. ashleyanne flips the coin. hjalmar does not flip the coin.  Is the coin still heads up?,Mikelyn flips the coin (now tails up). Izzy-mae flips the coin (now heads up). Ashleyanne flips the coin (now tails up). Hjalmar does not flip the coin (stays tails up). The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. onye flips the coin. youl flips the coin. kendera flips the coin. fabia does not flip the coin.  Is the coin still heads up?,"Onye flips the coin (heads to tails). Youl flips the coin (tails to heads). Kendera flips the coin (heads to tails). Fabia does not flip the coin (no change). So the coin is tails up.
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. loujean does not flip the coin. annielee flips the coin. khylar flips the coin. avanita does not flip the coin.  Is the coin still heads up?,"Annielee flips the coin (1 flip) and khylar flips the coin (1 flip), for a total of 2 flips. Flipping a coin twice returns it to its original state. The other two do not flip.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. milia flips the coin. elbridge flips the coin. detrell does not flip the coin. ceana does not flip the coin.  Is the coin still heads up?,"Milia flips the coin (now tails up). Elbridge flips the coin (now heads up). Detrell does not flip the coin (no change). Ceana does not flip the coin (no change). 
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. mayers flips the coin. floriţa flips the coin. lucil does not flip the coin. lenford does not flip the coin.  Is the coin still heads up?,"Each flip changes the state of the coin, and each ""does not flip"" leaves it unchanged.
+
+- Initial state: heads up
+- mayers flips -> tails up
+- floriţa flips -> heads up
+- lucil does not flip -> remains heads up
+- lenford does not flip -> remains heads up
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. levane flips the coin. makira does not flip the coin. hla does not flip the coin. ellia does not flip the coin.  Is the coin still heads up?,The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. termain does not flip the coin. mayuka flips the coin. dymone does not flip the coin. ashiley flips the coin.  Is the coin still heads up?,"Mayuka flips the coin, which turns it to tails. Dymone does not flip it, so it remains tails. Ashiley flips it, which turns it to heads. So after all actions, the coin is heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. brittainy does not flip the coin. gracie-louise does not flip the coin. marletha flips the coin. esveidy does not flip the coin.  Is the coin still heads up?,The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. keyhla flips the coin. urijah does not flip the coin. conception flips the coin. puspa flips the coin.  Is the coin still heads up?,"keyhla flips the coin (now tails up).  
+urijah does not flip the coin (still tails up).  
+conception flips the coin (now heads up).  
+puspa flips the coin (now tails up).  
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. donley does not flip the coin. mohammed-faizan does not flip the coin. maddisen does not flip the coin. reckner does not flip the coin.  Is the coin still heads up?,The answer is yes.,yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. linkyn flips the coin. gennelle does not flip the coin. omiros flips the coin. ruah flips the coin.  Is the coin still heads up?,"linkyn flips the coin (now tails up).  
+gennelle does not flip the coin (remains tails up).  
+omiros flips the coin (now heads up).  
+ruah flips the coin (now tails up).  
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. hadmuthe flips the coin. samaher does not flip the coin. marjolijn flips the coin. albiery flips the coin.  Is the coin still heads up?,"First, the coin starts heads up.
+
+- hadmuthe flips the coin (heads → tails)
+- samaher does not flip the coin (no change, still tails)
+- marjolijn flips the coin (tails → heads)
+- albiery flips the coin (heads → tails)
+
+After all the actions, the coin is tails up.
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. asbjørg does not flip the coin. vilena flips the coin. ax does not flip the coin. aeiress flips the coin.  Is the coin still heads up?,"First, let's follow each action:
+- asbjørg does not flip: coin remains heads up.
+- vilena flips: coin changes to tails up.
+- ax does not flip: coin remains tails up.
+- aeiress flips: coin changes to heads up.
+
+So after all actions, the coin is heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. fadile flips the coin. edgington does not flip the coin. tawana-nyasha flips the coin. danella flips the coin.  Is the coin still heads up?,"Fadile flips the coin (now tails up). Edgington does not flip the coin (still tails up). Tawana-nyasha flips the coin (now heads up). Danella flips the coin (now tails up). 
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. shalei does not flip the coin. yitzchok does not flip the coin. adriauna flips the coin. callasandra flips the coin.  Is the coin still heads up?,"Let's follow the pattern:
+
+- Every time the coin is flipped, its state changes (heads to tails or tails to heads).
+- If the coin is not flipped, its state does not change.
+
+Starting state: heads up.
+
+Steps:
+1. shalei does not flip the coin. (still heads up)
+2. yitzchok does not flip the coin. (still heads up)
+3. adriauna flips the coin. (now tails up)
+4. callasandra flips the coin. (now heads up)
+
+So the coin ends up heads up again.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. rukshan does not flip the coin. hanneke does not flip the coin. sundga flips the coin. relly flips the coin.  Is the coin still heads up?,"Rukshan does not flip the coin, so it remains heads up. Hanneke does not flip the coin, so it is still heads up. Sundga flips the coin, so it becomes tails up. Relly flips the coin, so it becomes heads up again.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. ivry does not flip the coin. makyah flips the coin. caorran does not flip the coin. lainez does not flip the coin.  Is the coin still heads up?,"Ivry does not flip the coin, so it stays heads up. Makyah flips the coin, so it becomes tails up. Caorran does not flip the coin, so it stays tails up. Lainez does not flip the coin, so it stays tails up.
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. allisa flips the coin. audley flips the coin. gregroy does not flip the coin. dhvip does not flip the coin.  Is the coin still heads up?,"allisa flips the coin (changes to tails), audley flips the coin (changes back to heads), gregroy does not flip the coin, dhvip does not flip the coin, so the coin is still heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. taylor-rae does not flip the coin. audell does not flip the coin. nisaiah flips the coin. arist does not flip the coin.  Is the coin still heads up?,The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. monya does not flip the coin. sraddha does not flip the coin. loganjames flips the coin. elessio flips the coin.  Is the coin still heads up?,"loganjames flips the coin (changes to tails). elessio flips the coin (changes back to heads). Two flips total, which is an even number, so the coin returns to heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. jopie flips the coin. nidah flips the coin. antyon flips the coin. bona flips the coin.  Is the coin still heads up?,The answer is yes.,yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. chelita does not flip the coin. wooley does not flip the coin. sonoko flips the coin. ura does not flip the coin.  Is the coin still heads up?,The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. lisel flips the coin. leyah flips the coin. vito flips the coin. rivera-cruz does not flip the coin.  Is the coin still heads up?,"Lisel flips the coin (now tails), Leyah flips the coin (now heads), Vito flips the coin (now tails), Rivera-Cruz does not flip the coin (still tails).
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. tamaryn flips the coin. sharal does not flip the coin. kamyrah does not flip the coin. vessie flips the coin.  Is the coin still heads up?,"Tamaryn flips the coin (coin is now tails up). Sharal does not flip the coin (no change). Kamyrah does not flip the coin (no change). Vessie flips the coin (coin is now heads up).
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. breyanna flips the coin. garrey does not flip the coin. souraya does not flip the coin. kahira flips the coin.  Is the coin still heads up?,"Breyanna flips the coin (now tails). Garrey does not flip the coin (still tails). Souraya does not flip the coin (still tails). Kahira flips the coin (now heads).
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. mackeyla does not flip the coin. rawson does not flip the coin. adriennie flips the coin. aroya does not flip the coin.  Is the coin still heads up?,"First, the coin is heads up.
+mackeyla does not flip the coin, so no change.
+rawson does not flip the coin, so no change.
+adriennie flips the coin, so the coin is now tails up.
+aroya does not flip the coin, so no change.
+
+The coin is tails up.
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. yonda flips the coin. jamie-joseph does not flip the coin. hett does not flip the coin. nitzy flips the coin.  Is the coin still heads up?,"Yonda flips the coin (now tails), jamie-joseph does not flip (still tails), hett does not flip (still tails), nitzy flips the coin (now heads).
+
+There are two flips in total, so the coin goes from heads to tails (first flip), then back to heads (second flip).
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. gokce flips the coin. maxmillian does not flip the coin. miente flips the coin. lacrisha does not flip the coin.  Is the coin still heads up?,"Gokce flips the coin (heads to tails), maxmillian does not flip (stays tails), miente flips the coin (tails to heads), lacrisha does not flip (stays heads). After an even number of flips, the coin returns to its original position.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. clementie does not flip the coin. nicholaas does not flip the coin. battan flips the coin. fearon does not flip the coin.  Is the coin still heads up?,The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. oshan flips the coin. quentin flips the coin. hayaat flips the coin. polewarzyk flips the coin.  Is the coin still heads up?,"Flipping the coin an even number of times returns it to its original state. Four people flip the coin, so it is flipped four times, which is an even number. The coin starts heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. dorraine does not flip the coin. kirean does not flip the coin. burrs does not flip the coin. dubhgan flips the coin.  Is the coin still heads up?,The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. kacelynn flips the coin. canye flips the coin. mellany flips the coin. chukwudubem flips the coin.  Is the coin still heads up?,"Each flip turns the coin to the opposite side. Starting heads up:
+
+1st flip (kacelynn): tails up  
+2nd flip (canye): heads up  
+3rd flip (mellany): tails up  
+4th flip (chukwudubem): heads up  
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. vrishin does not flip the coin. talat flips the coin. rueben-carter flips the coin. finley-jack does not flip the coin.  Is the coin still heads up?,"First, the coin starts heads up.
+
+vrishin does not flip the coin (no change).
+talat flips the coin (changes to tails up).
+rueben-carter flips the coin (changes to heads up).
+finley-jack does not flip the coin (no change).
+
+After all actions, the coin is heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. armyn flips the coin. pravya flips the coin. feinleib does not flip the coin. gerene does not flip the coin.  Is the coin still heads up?,"If a coin is heads up and someone flips it, it turns to tails. If it is flipped again, it turns back to heads. According to the pattern in the reference examples, only the act of flipping changes the coin.
+
+First, armyn flips: heads -> tails  
+Second, pravya flips: tails -> heads  
+Third, feinleib does not flip  
+Fourth, gerene does not flip  
+
+No more flips, so the coin is heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. nelie flips the coin. louvena does not flip the coin. rajbiri does not flip the coin. mika flips the coin.  Is the coin still heads up?,"Nelie flips the coin (now tails). Louvena does not flip the coin (still tails). Rajbiri does not flip the coin (still tails). Mika flips the coin (now heads).
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. jeramy flips the coin. teirney does not flip the coin. covadonga flips the coin. livvie does not flip the coin.  Is the coin still heads up?,"Jeramy flips the coin (now tails). Teirney does not flip the coin (still tails). Covadonga flips the coin (now heads). Livvie does not flip the coin (still heads). The number of flips is even (2), so the coin is heads up.
+
+The answer is yes.",yes,yes,Correct,,
+Standard Prompt,Q: A coin is heads up. analicia does not flip the coin. aviraj flips the coin. pappano does not flip the coin. richarda does not flip the coin.  Is the coin still heads up?,The answer is no.,no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. havannah does not flip the coin. willease does not flip the coin. naoh flips the coin. talonda does not flip the coin.  Is the coin still heads up?,"Following the pattern in the examples, the coin starts heads up. Each flip changes the state (from heads to tails or tails to heads). Only the people who flip the coin change its state.
+
+havannah does not flip (no change)
+willease does not flip (no change)
+naoh flips (changes the state)
+talonda does not flip (no change)
+
+The coin, heads up, is flipped once (by naoh). One flip changes heads to tails.
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. souhail does not flip the coin. maylena does not flip the coin. arbelaez flips the coin. saroya does not flip the coin.  Is the coin still heads up?,"First, let's track each action:
+- souhail does not flip the coin (coin stays heads up)
+- maylena does not flip the coin (coin stays heads up)
+- arbelaez flips the coin (coin turns to tails up)
+- saroya does not flip the coin (coin stays tails up)
+
+After all actions, the coin is tails up.
+
+The answer is no.",no,no,Correct,,
+Standard Prompt,Q: A coin is heads up. dearra does not flip the coin. reney flips the coin. dustee does not flip the coin. aniaya does not flip the coin.  Is the coin still heads up?,"To solve this, let's see how many times the coin is flipped:
+
+- dearra does not flip the coin (0 flips)
+- reney flips the coin (1 flip)
+- dustee does not flip the coin (0 flips)
+- aniaya does not flip the coin (0 flips)
+
+So the coin is flipped only once. Flipping once changes heads to tails.
+
+The answer is no.",no,no,Correct,,

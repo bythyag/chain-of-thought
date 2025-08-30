@@ -1,0 +1,18 @@
+
+Q: A coin is heads up. Ka flips the coin. Sherrie flips the coin. Is the coin still heads up?
+A: The answer is yes.
+
+Q: A coin is heads up. Jamey flips the coin. Teressa flips the coin. Is the coin still heads up?
+A: The answer is yes.
+
+Q: A coin is heads up. Maybelle flips the coin. Shalonda does not flip the coin. Is the coin still heads up?
+A: The answer is no.
+
+Q: A coin is heads up. Millicent does not flip the coin. Conception flips the coin. Is the coin still heads up?
+A: The answer is no.
+
+Q: A coin is heads up. Sal flips the coin. Raymond does not flip the coin. Is the coin still heads up?
+A: The answer is no.
+
+Q: {Question}
+A:

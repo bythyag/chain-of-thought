@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Take the last letters of the words in \"Greta Frantz Heaven\" and concatenate them.",
+    "prompt_used": "Please answer the following question concisely:\nTake the last letters of the words in \"Greta Frantz Heaven\" and concatenate them.\nThe answer is",
+    "model_output": "The last letters of the words in \"Greta Frantz Heaven\" are a, t, z, n. Concatenating them gives us \"atzn\". \n\nThe answer is atzn.",
+    "extracted_answer": "atzn",
+    "gold_answer": "azn",
+    "result": "Incorrect",
+    "@ pass": 1
+  },
+  {
+    "question": "Take the last letters of the words in \"Jesse Rey Jacky\" and concatenate them.",
+    "prompt_used": "Please answer the following question concisely:\nTake the last letters of the words in \"Jesse Rey Jacky\" and concatenate them.\nThe answer is",
+    "model_output": "The last letters of the words are e, y, y. When concatenated, they form \"eyy\". \n\nThe answer is eyy.",
+    "extracted_answer": "eyy",
+    "gold_answer": "eyy",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Take the last letters of the words in \"Abdulaziz Roy Candi Nereida\" and concatenate them.",
+    "prompt_used": "Please answer the following question concisely:\nTake the last letters of the words in \"Abdulaziz Roy Candi Nereida\" and concatenate them.\nThe answer is",
+    "model_output": "To find the last letters of each word:\n- Abdulaziz: z\n- Roy: y\n- Candi: i\n- Nereida: a\n\nConcatenating these letters gives us: zyi a.\n\nThe answer is zyi a.",
+    "extracted_answer": "zyi a",
+    "gold_answer": "zyia",
+    "result": "Incorrect",
+    "@ pass": 1
+  },
+  {
+    "question": "Take the last letters of the words in \"Paloma Randi Rosalia Caro\" and concatenate them.",
+    "prompt_used": "Please answer the following question concisely:\nTake the last letters of the words in \"Paloma Randi Rosalia Caro\" and concatenate them.\nThe answer is",
+    "model_output": "The last letters of the words in \"Paloma Randi Rosalia Caro\" are a, i, i, a, o. Concatenating them gives us \"aiiao\". \n\nThe answer is aiiao.",
+    "extracted_answer": "aiiao",
+    "gold_answer": "aiao",
+    "result": "Incorrect",
+    "@ pass": 1
+  },
+  {
+    "question": "Take the last letters of the words in \"Angeline Corina Jeannette Adela\" and concatenate them.",
+    "prompt_used": "Please answer the following question concisely:\nTake the last letters of the words in \"Angeline Corina Jeannette Adela\" and concatenate them.\nThe answer is",
+    "model_output": "The last letters of the words are e, a, a, e, a. Concatenating these gives us: eaaea.\n\nThe answer is eaaea.",
+    "extracted_answer": "eaaea",
+    "gold_answer": "eaea",
+    "result": "Incorrect",
+    "@ pass": 1
+  }
+]

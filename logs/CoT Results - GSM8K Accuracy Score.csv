@@ -1,0 +1,25 @@
+Model Iteration,total,correct,percentage,,model name,cot,standard prompting
+gpt-4.1-mini-2025-04-14_gsm8k_cot @ pass1.json,200,192,96,,gpt-4.1-mini-2025-04-14_gsm8k @ pass1.json,96,96
+gpt-4.1-mini-2025-04-14_gsm8k_cot @ pass2.json,200,196,98,,gpt-4.1-mini-2025-04-14_gsm8k @ pass2.json,98,95.5
+gpt-4.1-mini-2025-04-14_gsm8k_cot @ pass3.json,200,195,97.5,,gpt-4.1-mini-2025-04-14_gsm8k @ pass3.json,97.5,97
+gpt-4.1-mini-2025-04-14_gsm8k_standard @ pass1.json,200,192,96,,gpt-4.1-nano-2025-04-14_gsm8k @ pass1.json,88.5,90.5
+gpt-4.1-mini-2025-04-14_gsm8k_standard @ pass2.json,200,191,95.5,,gpt-4.1-nano-2025-04-14_gsm8k @ pass2.json,90,87.5
+gpt-4.1-mini-2025-04-14_gsm8k_standard @ pass3.json,200,194,97,,gpt-4.1-nano-2025-04-14_gsm8k @ pass3.json,89,89.5
+gpt-4.1-nano-2025-04-14_gsm8k_cot @ pass1.json,200,177,88.5,,gpt-4o-2024-08-06_gsm8k @ pass1.json,97,95.5
+gpt-4.1-nano-2025-04-14_gsm8k_cot @ pass2.json,200,180,90,,gpt-4o-2024-08-06_gsm8k@ pass2.json,95.5,94.5
+gpt-4.1-nano-2025-04-14_gsm8k_cot @ pass3.json,200,178,89,,gpt-4o-mini-2024-07-18_gsm8k @ pass1.json,92,93.5
+gpt-4.1-nano-2025-04-14_gsm8k_standard @ pass1.json,200,181,90.5,,gpt-4o-mini-2024-07-18_gsm8k @ pass2.json,93.5,93
+gpt-4.1-nano-2025-04-14_gsm8k_standard @ pass2.json,200,175,87.5,,gpt-4o-mini-2024-07-18_gsm8k @ pass3.json,93.5,92.5
+gpt-4.1-nano-2025-04-14_gsm8k_standard @ pass3.json,200,179,89.5,,gpt-4.1_gsm8k .json,98,95
+gpt-4.1_gsm8k_cot.json,200,196,98,,,,
+gpt-4.1_gsm8k_standard.json,200,190,95,,,,
+gpt-4o-2024-08-06_gsm8k_cot @ pass1.json,200,194,97,,,,
+gpt-4o-2024-08-06_gsm8k_cot @ pass2.json,200,191,95.5,,,,
+gpt-4o-2024-08-06_gsm8k_standard @ pass1.json,200,191,95.5,,,,
+gpt-4o-2024-08-06_gsm8k_standard @ pass2.json,200,189,94.5,,,,
+gpt-4o-mini-2024-07-18_gsm8k_cot @ pass1.json,200,184,92,,,,
+gpt-4o-mini-2024-07-18_gsm8k_cot @ pass2.json,200,187,93.5,,,,
+gpt-4o-mini-2024-07-18_gsm8k_cot @ pass3.json,200,187,93.5,,,,
+gpt-4o-mini-2024-07-18_gsm8k_standard @ pass1.json,200,187,93.5,,,,
+gpt-4o-mini-2024-07-18_gsm8k_standard @ pass2.json,400,372,93,,,,
+gpt-4o-mini-2024-07-18_gsm8k_standard @ pass3.json,200,185,92.5,,,,

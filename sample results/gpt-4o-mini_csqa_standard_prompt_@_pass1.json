@@ -1,0 +1,1154 @@
+[
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid",
+    "prompt_used": "Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket (b)\ncalligrapher’s hand (c) inkwell (d) desk drawer (e) blotter\nA: The answer is e.\n\nQ: What home entertainment equipment requires cable?\nAnswer Choices: (a) radio shack (b) substation (c) television (d) cabinet\nA: The answer must require cable. Of the above choices, only television requires cable. So the answer is (c).\n\nQ: The fox walked from the city into the forest, what was it looking for?\nAnswer Choices: (a) pretty flowers (b)hen house (c) natural habitat (d) storybook\nA: The answer is b.\n\nQ: Sammy wanted to go to where the people were. Where might he go? Answer Choices: (a) populated areas\n(b) race track (c) desert (d) apartment (e) roadblock\nA: The answer is a.\n\nQ: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change? Answer Choices: (a) ignore (b) enforce (c) authoritarian (d) yell at (e) avoid\nA:",
+    "model_output": "The answer is a.",
+    "extracted_answer": "a",
+    "gold_answer": "a",
+    "result": "Correct",
+    "@ pass": 1
+  }
+]

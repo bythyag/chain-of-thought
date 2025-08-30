@@ -1,0 +1,1154 @@
+[
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "prompt_used": "Q: Do hamsters provide food for any animals?\nA: The answer is yes.\n\nQ: Could Brooke Shields succeed at University of Pennsylvania?\nA: The answer is yes.\n\nQ: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?\nA: The answer is no.\n\nQ: Yes or no: Is it common to see frost during some college commencements?\nA: The answer is yes.\n\nQ: Are more people today related to Genghis Khan than Julius Caesar?\nA:",
+    "model_output": "The answer is yes.",
+    "extracted_answer": "yes",
+    "gold_answer": "yes",
+    "result": "Correct",
+    "@ pass": 1
+  }
+]

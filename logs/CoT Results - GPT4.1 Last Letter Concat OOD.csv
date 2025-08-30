@@ -1,0 +1,424 @@
+,question,model_output,extracted_answer,gold_answer,result,,,
+Chain Of Thought,"Take the last letters of the words in ""Greta Frantz Heaven"" and concatenate them.","The last letter of ""Greta"" is ""a"". The last letter of ""Frantz"" is ""z"". The last letter of ""Heaven"" is ""n"". Concatenating them is ""azn"". The answer is azn.",azn,azn,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Jesse Rey Jacky"" and concatenate them.","The last letter of ""Jesse"" is ""e"". The last letter of ""Rey"" is ""y"". The last letter of ""Jacky"" is ""y"". Concatenating them is ""eyy"". The answer is eyy.",eyy,eyy,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Alexa Issa Sammie"" and concatenate them.","The last letter of ""Alexa"" is ""a"". The last letter of ""Issa"" is ""a"". The last letter of ""Sammie"" is ""e"". Concatenating them is ""aae"". The answer is aae.",aae,aae,Correct,Prompt Type,Accuracy,Sample Size
+Chain Of Thought,"Take the last letters of the words in ""Kristi Maria Isa"" and concatenate them.","The last letter of ""Kristi"" is ""i"". The last letter of ""Maria"" is ""a"". The last letter of ""Isa"" is ""a"". Concatenating them is ""iaa"". The answer is iaa.",iaa,iaa,Correct,Chain Of Thought,100%,100
+Chain Of Thought,"Take the last letters of the words in ""Viridiana Nitin Cody"" and concatenate them.","The last letter of ""Viridiana"" is ""a"". The last letter of ""Nitin"" is ""n"". The last letter of ""Cody"" is ""y"". Concatenating them is ""any"". The answer is any.",any,any,Correct,Standard Prompting,98%,100
+Chain Of Thought,"Take the last letters of the words in ""Trish Camilo Cristal"" and concatenate them.","The last letter of ""Trish"" is ""h"". The last letter of ""Camilo"" is ""o"". The last letter of ""Cristal"" is ""l"". Concatenating them is ""hol"". The answer is hol.",hol,hol,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Landon Matthew Baltazar"" and concatenate them.","The last letter of ""Landon"" is ""n"". The last letter of ""Matthew"" is ""w"". The last letter of ""Baltazar"" is ""r"". Concatenating them is ""nwr"". The answer is nwr.",nwr,nwr,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Vera Consuelo Michaela"" and concatenate them.","The last letter of ""Vera"" is ""a"". The last letter of ""Consuelo"" is ""o"". The last letter of ""Michaela"" is ""a"". Concatenating them is ""aoa"". The answer is aoa.",aoa,aoa,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Cesar Lj Hipolito"" and concatenate them.","The last letter of ""Cesar"" is ""r"". The last letter of ""Lj"" is ""j"". The last letter of ""Hipolito"" is ""o"". Concatenating them is ""rjo"". The answer is rjo.",rjo,rjo,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Paige Rosaura Geo"" and concatenate them.","The last letter of ""Paige"" is ""e"". The last letter of ""Rosaura"" is ""a"". The last letter of ""Geo"" is ""o"". Concatenating them is ""eao"". The answer is eao.",eao,eao,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Arnaldo Sheldon Luis Alberto"" and concatenate them.","The last letter of ""Arnaldo"" is ""o"". The last letter of ""Sheldon"" is ""n"". The last letter of ""Luis"" is ""s"". The last letter of ""Alberto"" is ""o"". Concatenating them is ""onso"". The answer is onso.",onso,onso,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Narciso Pinky Sydney"" and concatenate them.","The last letter of ""Narciso"" is ""o"". The last letter of ""Pinky"" is ""y"". The last letter of ""Sydney"" is ""y"". Concatenating them is ""oyy"". The answer is oyy.",oyy,oyy,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Jonah Natalia Ginny"" and concatenate them.","The last letter of ""Jonah"" is ""h"". The last letter of ""Natalia"" is ""a"". The last letter of ""Ginny"" is ""y"". Concatenating them is ""hay"". The answer is hay.",hay,hay,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Solo Shannon Fer"" and concatenate them.","The last letter of ""Solo"" is ""o"". The last letter of ""Shannon"" is ""n"". The last letter of ""Fer"" is ""r"". Concatenating them is ""onr"". The answer is onr.",onr,onr,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Ayesha Blake Ervin"" and concatenate them.","The last letter of ""Ayesha"" is ""a"". The last letter of ""Blake"" is ""e"". The last letter of ""Ervin"" is ""n"". Concatenating them is ""aen"". The answer is aen.",aen,aen,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Lena Robyn Shayna"" and concatenate them.","The last letter of ""Lena"" is ""a"". The last letter of ""Robyn"" is ""n"". The last letter of ""Shayna"" is ""a"". Concatenating them is ""ana"". The answer is ana.",ana,ana,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Gabby Jb Jai"" and concatenate them.","The last letter of ""Gabby"" is ""y"". The last letter of ""Jb"" is ""b"". The last letter of ""Jai"" is ""i"". Concatenating them is ""ybi"". The answer is ybi.",ybi,ybi,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Luz Maria Lisa Ever"" and concatenate them.","The last letter of ""Luz"" is ""z"". The last letter of ""Maria"" is ""a"". The last letter of ""Lisa"" is ""a"". The last letter of ""Ever"" is ""r"". Concatenating them is ""zaar"". The answer is zaar.",zaar,zaar,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Trevor Macy Hari"" and concatenate them.","The last letter of ""Trevor"" is ""r"". The last letter of ""Macy"" is ""y"". The last letter of ""Hari"" is ""i"". Concatenating them is ""ryi"". The answer is ryi.",ryi,ryi,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Amie Justo Lloyd"" and concatenate them.","The last letter of ""Amie"" is ""e"". The last letter of ""Justo"" is ""o"". The last letter of ""Lloyd"" is ""d"". Concatenating them is ""eod"". The answer is eod.",eod,eod,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Flor Georgina Barbara"" and concatenate them.","The last letter of ""Flor"" is ""r"". The last letter of ""Georgina"" is ""a"". The last letter of ""Barbara"" is ""a"". Concatenating them is ""raa"". The answer is raa.",raa,raa,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Jacques Scarlett Genaro"" and concatenate them.","The last letter of ""Jacques"" is ""s"". The last letter of ""Scarlett"" is ""t"". The last letter of ""Genaro"" is ""o"". Concatenating them is ""sto"". The answer is sto.",sto,sto,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Eric Darien Morgan"" and concatenate them.","The last letter of ""Eric"" is ""c"". The last letter of ""Darien"" is ""n"". The last letter of ""Morgan"" is ""n"". Concatenating them is ""cnn"". The answer is cnn.",cnn,cnn,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Reinaldo Tomas Kc"" and concatenate them.","The last letter of ""Reinaldo"" is ""o"". The last letter of ""Tomas"" is ""s"". The last letter of ""Kc"" is ""c"". Concatenating them is ""osc"". The answer is osc.",osc,osc,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Eliana Shawna Tyrone"" and concatenate them.","The last letter of ""Eliana"" is ""a"". The last letter of ""Shawna"" is ""a"". The last letter of ""Tyrone"" is ""e"". Concatenating them is ""aae"". The answer is aae.",aae,aae,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Kip Conner Tj"" and concatenate them.","The last letter of ""Kip"" is ""p"". The last letter of ""Conner"" is ""r"". The last letter of ""Tj"" is ""j"". Concatenating them is ""prj"". The answer is prj.",prj,prj,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Ovidio Anil Irene"" and concatenate them.","The last letter of ""Ovidio"" is ""o"". The last letter of ""Anil"" is ""l"". The last letter of ""Irene"" is ""e"". Concatenating them is ""ole"". The answer is ole.",ole,ole,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Ethel Francisca Eli"" and concatenate them.","The last letter of ""Ethel"" is ""l"". The last letter of ""Francisca"" is ""a"". The last letter of ""Eli"" is ""i"". Concatenating them is ""lai"". The answer is lai.",lai,lai,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Kirk Sonny Oscar"" and concatenate them.","The last letter of ""Kirk"" is ""k"". The last letter of ""Sonny"" is ""y"". The last letter of ""Oscar"" is ""r"". Concatenating them is ""kyr"". The answer is kyr.",kyr,kyr,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Vic Eduard Zoey"" and concatenate them.","The last letter of ""Vic"" is ""c"". The last letter of ""Eduard"" is ""d"". The last letter of ""Zoey"" is ""y"". Concatenating them is ""cdy"". The answer is cdy.",cdy,cdy,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Dakota Phoenix Tiana"" and concatenate them.","The last letter of ""Dakota"" is ""a"". The last letter of ""Phoenix"" is ""x"". The last letter of ""Tiana"" is ""a"". Concatenating them is ""axa"". The answer is axa.",axa,axa,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Rosi Chet Chaz"" and concatenate them.","The last letter of ""Rosi"" is ""i"". The last letter of ""Chet"" is ""t"". The last letter of ""Chaz"" is ""z"". Concatenating them is ""itz"". The answer is itz.",itz,itz,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Efren Cindi De"" and concatenate them.","The last letter of ""Efren"" is ""n"". The last letter of ""Cindi"" is ""i"". The last letter of ""De"" is ""e"". Concatenating them is ""nie"". The answer is nie.",nie,nie,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Inna Ari Tabitha"" and concatenate them.","The last letter of ""Inna"" is ""a"". The last letter of ""Ari"" is ""i"". The last letter of ""Tabitha"" is ""a"". Concatenating them is ""aia"". The answer is aia.",aia,aia,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Steve Hiram Elda"" and concatenate them.","The last letter of ""Steve"" is ""e"". The last letter of ""Hiram"" is ""m"". The last letter of ""Elda"" is ""a"". Concatenating them is ""ema"". The answer is ema.",ema,ema,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Derek Yenny Howard"" and concatenate them.","The last letter of ""Derek"" is ""k"". The last letter of ""Yenny"" is ""y"". The last letter of ""Howard"" is ""d"". Concatenating them is ""kyd"". The answer is kyd.",kyd,kyd,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Benito Alba Faye"" and concatenate them.","The last letter of ""Benito"" is ""o"". The last letter of ""Alba"" is ""a"". The last letter of ""Faye"" is ""e"". Concatenating them is ""oae"". The answer is oae.",oae,oae,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Itzel Jose Kristian"" and concatenate them.","The last letter of ""Itzel"" is ""l"". The last letter of ""Jose"" is ""e"". The last letter of ""Kristian"" is ""n"". Concatenating them is ""len"". The answer is len.",len,len,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Patricia Vickie Gera"" and concatenate them.","The last letter of ""Patricia"" is ""a"". The last letter of ""Vickie"" is ""e"". The last letter of ""Gera"" is ""a"". Concatenating them is ""aea"". The answer is aea.",aea,aea,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Dolly Estrella Wilma"" and concatenate them.","The last letter of ""Dolly"" is ""y"". The last letter of ""Estrella"" is ""a"". The last letter of ""Wilma"" is ""a"". Concatenating them is ""yaa"". The answer is yaa.",yaa,yaa,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Billie Cirilo Thalia"" and concatenate them.","The last letter of ""Billie"" is ""e"". The last letter of ""Cirilo"" is ""o"". The last letter of ""Thalia"" is ""a"". Concatenating them is ""eoa"". The answer is eoa.",eoa,eoa,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Colin Jair Roberto"" and concatenate them.","The last letter of ""Colin"" is ""n"". The last letter of ""Jair"" is ""r"". The last letter of ""Roberto"" is ""o"". Concatenating them is ""nro"". The answer is nro.",nro,nro,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Yusuf Deena Jennifer"" and concatenate them.","The last letter of ""Yusuf"" is ""f"". The last letter of ""Deena"" is ""a"". The last letter of ""Jennifer"" is ""r"". Concatenating them is ""far"". The answer is far.",far,far,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Amparo Lynne Elias"" and concatenate them.","The last letter of ""Amparo"" is ""o"". The last letter of ""Lynne"" is ""e"". The last letter of ""Elias"" is ""s"". Concatenating them is ""oes"". The answer is oes.",oes,oes,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Jarred Vane Raman"" and concatenate them.","The last letter of ""Jarred"" is ""d"". The last letter of ""Vane"" is ""e"". The last letter of ""Raman"" is ""n"". Concatenating them is ""den"". The answer is den.",den,den,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Meghan Teresita Ginger"" and concatenate them.","The last letter of ""Meghan"" is ""n"". The last letter of ""Teresita"" is ""a"". The last letter of ""Ginger"" is ""r"". Concatenating them is ""nar"". The answer is nar.",nar,nar,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Cee Li Hallie"" and concatenate them.","The last letter of ""Cee"" is ""e"". The last letter of ""Li"" is ""i"". The last letter of ""Hallie"" is ""e"". Concatenating them is ""eie"". The answer is eie.",eie,eie,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Jose Angel Lou Rashid"" and concatenate them.","The last letter of ""Jose"" is ""e"". The last letter of ""Angel"" is ""l"". The last letter of ""Lou"" is ""u"". The last letter of ""Rashid"" is ""d"". Concatenating them is ""elud"". The answer is elud.",elud,lud,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Estefania Madhu Joyce"" and concatenate them.","The last letter of ""Estefania"" is ""a"". The last letter of ""Madhu"" is ""u"". The last letter of ""Joyce"" is ""e"". Concatenating them is ""aue"". The answer is aue.",aue,aue,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Dolores Kira Ivette"" and concatenate them.","The last letter of ""Dolores"" is ""s"". The last letter of ""Kira"" is ""a"". The last letter of ""Ivette"" is ""e"". Concatenating them is ""sae"". The answer is sae.",sae,sae,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Abdulaziz Roy Candi Nereida"" and concatenate them.","The last letter of ""Abdulaziz"" is ""z"". The last letter of ""Roy"" is ""y"". The last letter of ""Candi"" is ""i"". The last letter of ""Nereida"" is ""a"". Concatenating them is ""zyia"". The answer is zyia.",zyia,zyia,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Paloma Randi Rosalia Caro"" and concatenate them.","The last letter of ""Paloma"" is ""a"". The last letter of ""Randi"" is ""i"". The last letter of ""Rosalia"" is ""a"". The last letter of ""Caro"" is ""o"". Concatenating them is ""aiao"". The answer is aiao.",aiao,aiao,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Angeline Corina Jeannette Adela"" and concatenate them.","The last letter of ""Angeline"" is ""e"". The last letter of ""Corina"" is ""a"". The last letter of ""Jeannette"" is ""e"". The last letter of ""Adela"" is ""a"". Concatenating them is ""eaea"". The answer is eaea.",eaea,eaea,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Eri Mai Monty Virgilio"" and concatenate them.","The last letter of ""Eri"" is ""i"". The last letter of ""Mai"" is ""i"". The last letter of ""Monty"" is ""y"". The last letter of ""Virgilio"" is ""o"". Concatenating them is ""iiyo"". The answer is iiyo.",iiyo,iiyo,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Jerson Layne Marilu Cathy"" and concatenate them.","The last letter of ""Jerson"" is ""n"". The last letter of ""Layne"" is ""e"". The last letter of ""Marilu"" is ""u"". The last letter of ""Cathy"" is ""y"". Concatenating them is ""neuy"". The answer is neuy.",neuy,neuy,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Kaleb Hussein Didier Brie"" and concatenate them.","The last letter of ""Kaleb"" is ""b"". The last letter of ""Hussein"" is ""n"". The last letter of ""Didier"" is ""r"". The last letter of ""Brie"" is ""e"". Concatenating them is ""bnre"". The answer is bnre.",bnre,bnre,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Yi Mirza Mónica Ross"" and concatenate them.","The last letter of ""Yi"" is ""i"". The last letter of ""Mirza"" is ""a"". The last letter of ""Mónica"" is ""a"". The last letter of ""Ross"" is ""s"". Concatenating them is ""iaas"". The answer is iaas.",iaas,iaas,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Saira Phil Zoraida Deep"" and concatenate them.","The last letter of ""Saira"" is ""a"". The last letter of ""Phil"" is ""l"". The last letter of ""Zoraida"" is ""a"". The last letter of ""Deep"" is ""p"". Concatenating them is ""alap"". The answer is alap.",alap,alap,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Rikki Barbie Jony Franchesca"" and concatenate them.","The last letter of ""Rikki"" is ""i"". The last letter of ""Barbie"" is ""e"". The last letter of ""Jony"" is ""y"". The last letter of ""Franchesca"" is ""a"". Concatenating them is ""ieya"". The answer is ieya.",ieya,ieya,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Nicol Jaclyn Griselda Aparna"" and concatenate them.","The last letter of ""Nicol"" is ""l"". The last letter of ""Jaclyn"" is ""n"". The last letter of ""Griselda"" is ""a"". The last letter of ""Aparna"" is ""a"". Concatenating them is ""lnaa"". The answer is lnaa.",lnaa,lnaa,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Elvis Ralph Rosalie Cj"" and concatenate them.","The last letter of ""Elvis"" is ""s"". The last letter of ""Ralph"" is ""h"". The last letter of ""Rosalie"" is ""e"". The last letter of ""Cj"" is ""j"". Concatenating them is ""shej"". The answer is shej",shej,shej,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Jon Tiffanie Jacquie Kierra"" and concatenate them.","The last letter of ""Jon"" is ""n"". The last letter of ""Tiffanie"" is ""e"". The last letter of ""Jacquie"" is ""e"". The last letter of ""Kierra"" is ""a"". Concatenating them is ""neea"". The answer is neea.",neea,neea,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Gordon Mirian Samia Carol"" and concatenate them.","The last letter of ""Gordon"" is ""n"". The last letter of ""Mirian"" is ""n"". The last letter of ""Samia"" is ""a"". The last letter of ""Carol"" is ""l"". Concatenating them is ""nnal"". The answer is nnal.",nnal,nnal,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Brant Samara Nader Constance"" and concatenate them.","The last letter of ""Brant"" is ""t"". The last letter of ""Samara"" is ""a"". The last letter of ""Nader"" is ""r"". The last letter of ""Constance"" is ""e"". Concatenating them is ""tare"". The answer is tare.",tare,tare,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Clara Cooper Anibal Chaparro"" and concatenate them.","The last letter of ""Clara"" is ""a"". The last letter of ""Cooper"" is ""r"". The last letter of ""Anibal"" is ""l"". The last letter of ""Chaparro"" is ""o"". Concatenating them is ""arlo"". The answer is arlo.",arlo,arlo,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Alena Luiz Fredy Della"" and concatenate them.","The last letter of ""Alena"" is ""a"". The last letter of ""Luiz"" is ""z"". The last letter of ""Fredy"" is ""y"". The last letter of ""Della"" is ""a"". Concatenating them is ""azya"". The answer is azya.",azya,azya,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Angy Rosalyn Norman Fanny"" and concatenate them.","The last letter of ""Angy"" is ""y"". The last letter of ""Rosalyn"" is ""n"". The last letter of ""Norman"" is ""n"". The last letter of ""Fanny"" is ""y"". Concatenating them is ""ynn y"". The answer is ynny",ynny,ynny,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Osmar Debbi May Rosie"" and concatenate them.","The last letter of ""Osmar"" is ""r"". The last letter of ""Debbi"" is ""i"". The last letter of ""May"" is ""y"". The last letter of ""Rosie"" is ""e"". Concatenating them is ""riye"". The answer is riye.",riye,riye,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Na Diamond Kirk Maricela"" and concatenate them.","The last letter of ""Na"" is ""a"". The last letter of ""Diamond"" is ""d"". The last letter of ""Kirk"" is ""k"". The last letter of ""Maricela"" is ""a"". Concatenating them is ""adka"". The answer is adka.",adka,adka,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Neha Archie Tanya Aliya"" and concatenate them.","The last letter of ""Neha"" is ""a"". The last letter of ""Archie"" is ""e"". The last letter of ""Tanya"" is ""a"". The last letter of ""Aliya"" is ""a"". Concatenating them is ""aeaa"". The answer is aeaa.",aeaa,aeaa,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Tisha Grecia Brandi Rocky"" and concatenate them.","The last letter of ""Tisha"" is ""a"". The last letter of ""Grecia"" is ""a"". The last letter of ""Brandi"" is ""i"". The last letter of ""Rocky"" is ""y"". Concatenating them is ""aaiy"". The answer is aaiy.",aaiy,aaiy,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Marta Rina Deshawn Christi"" and concatenate them.","The last letter of ""Marta"" is ""a"". The last letter of ""Rina"" is ""a"". The last letter of ""Deshawn"" is ""n"". The last letter of ""Christi"" is ""i"". Concatenating them is ""aani"". The answer is aani.",aani,aani,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Cindi Genaro Katarina Tim"" and concatenate them.","The last letter of ""Cindi"" is ""i"". The last letter of ""Genaro"" is ""o"". The last letter of ""Katarina"" is ""a"". The last letter of ""Tim"" is ""m"". Concatenating them is ""ioam"". The answer is ioam",ioam,ioam,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Yonatan Richy Ruthie Yaritza"" and concatenate them.","The last letter of ""Yonatan"" is ""n"". The last letter of ""Richy"" is ""y"". The last letter of ""Ruthie"" is ""e"". The last letter of ""Yaritza"" is ""a"". Concatenating them is ""nyea"". The answer is nyea.",nyea,nyea,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Magaly Dirk Mandy Emanuel"" and concatenate them.","The last letter of ""Magaly"" is ""y"". The last letter of ""Dirk"" is ""k"". The last letter of ""Mandy"" is ""y"". The last letter of ""Emanuel"" is ""l"". Concatenating them is ""ykyl"". The answer is ykyl.",ykyl,ykyl,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Ciera Consuelo Jimenez Harley"" and concatenate them.","The last letter of ""Ciera"" is ""a"". The last letter of ""Consuelo"" is ""o"". The last letter of ""Jimenez"" is ""z"". The last letter of ""Harley"" is ""y"". Concatenating them is ""aozy"". The answer is aozy.",aozy,aozy,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Lauro Phyllis Raymond Melina"" and concatenate them.","The last letter of ""Lauro"" is ""o"". The last letter of ""Phyllis"" is ""s"". The last letter of ""Raymond"" is ""d"". The last letter of ""Melina"" is ""a"". Concatenating them is ""osda"". The answer is osda.",osda,osda,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Jamie Lenin Hi Yuli"" and concatenate them.","The last letter of ""Jamie"" is ""e"". The last letter of ""Lenin"" is ""n"". The last letter of ""Hi"" is ""i"". The last letter of ""Yuli"" is ""i"". Concatenating them is ""enii"". The answer is enii.",enii,enii,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Bear Guillermo Yessenia Silas"" and concatenate them.","The last letter of ""Bear"" is ""r"". The last letter of ""Guillermo"" is ""o"". The last letter of ""Yessenia"" is ""a"". The last letter of ""Silas"" is ""s"". Concatenating them is ""roas"". The answer is roas.",roas,roas,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Maru Giovani Billie Dc"" and concatenate them.","The last letter of ""Maru"" is ""u"". The last letter of ""Giovani"" is ""i"". The last letter of ""Billie"" is ""e"". The last letter of ""Dc"" is ""c"". Concatenating them is ""uiec"". The answer is uiec.",uiec,uiec,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Janell Andre Jean Linh"" and concatenate them.","The last letter of ""Janell"" is ""l"". The last letter of ""Andre"" is ""e"". The last letter of ""Jean"" is ""n"". The last letter of ""Linh"" is ""h"". Concatenating them is ""lenh"". The answer is lenh.",lenh,lenh,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Lala Juancarlos Robby Paige"" and concatenate them.","The last letter of ""Lala"" is ""a"". The last letter of ""Juancarlos"" is ""s"". The last letter of ""Robby"" is ""y"". The last letter of ""Paige"" is ""e"". Concatenating them is ""asye"". The answer is asye",asye,asye,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Vida Violet Viridiana Cece"" and concatenate them.","The last letter of ""Vida"" is ""a"". The last letter of ""Violet"" is ""t"". The last letter of ""Viridiana"" is ""a"". The last letter of ""Cece"" is ""e"". Concatenating them is ""atae"". The answer is atae.",atae,atae,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Janel Isela Serafin Arash"" and concatenate them.","The last letter of ""Janel"" is ""l"". The last letter of ""Isela"" is ""a"". The last letter of ""Serafin"" is ""n"". The last letter of ""Arash"" is ""h"". Concatenating them is ""lanh"". The answer is lanh.",lanh,lanh,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Isha Matthew Jaime Aracelis"" and concatenate them.","The last letter of ""Isha"" is ""a"". The last letter of ""Matthew"" is ""w"". The last letter of ""Jaime"" is ""e"". The last letter of ""Aracelis"" is ""s"". Concatenating them is ""awes"". The answer is awes.",awes,awes,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Sarah Daniele Pati Vale"" and concatenate them.","The last letter of ""Sarah"" is ""h"". The last letter of ""Daniele"" is ""e"". The last letter of ""Pati"" is ""i"". The last letter of ""Vale"" is ""e"". Concatenating them is ""heie"". The answer is heie.",heie,heie,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Jasmine Rodriguez Joe Kellie"" and concatenate them.","The last letter of ""Jasmine"" is ""e"". The last letter of ""Rodriguez"" is ""z"". The last letter of ""Joe"" is ""e"". The last letter of ""Kellie"" is ""e"". Concatenating them is ""ezee"". The answer is ezee.",ezee,ezee,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Leobardo Chandra Rubi Anamaria"" and concatenate them.","The last letter of ""Leobardo"" is ""o"". The last letter of ""Chandra"" is ""a"". The last letter of ""Rubi"" is ""i"". The last letter of ""Anamaria"" is ""a"". Concatenating them is ""oaia"". The answer is oaia.",oaia,oaia,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Kelley Valentino Butch Alondra"" and concatenate them.","The last letter of ""Kelley"" is ""y"". The last letter of ""Valentino"" is ""o"". The last letter of ""Butch"" is ""h"". The last letter of ""Alondra"" is ""a"". Concatenating them is ""yoha"". The answer is yoha.",yoha,yoha,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Belen Stephan Brittney Karin"" and concatenate them.","The last letter of ""Belen"" is ""n"". The last letter of ""Stephan"" is ""n"". The last letter of ""Brittney"" is ""y"". The last letter of ""Karin"" is ""n"". Concatenating them is ""nnyn"". The answer is nnyn.",nnyn,nnyn,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Meño Precious Joel Yazmin"" and concatenate them.","The last letter of ""Meño"" is ""o"". The last letter of ""Precious"" is ""s"". The last letter of ""Joel"" is ""l"". The last letter of ""Yazmin"" is ""n"". Concatenating them is ""osln"". The answer is osln.",osln,osln,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Rober Yareli Ema Alexia"" and concatenate them.","The last letter of ""Rober"" is ""r"". The last letter of ""Yareli"" is ""i"". The last letter of ""Ema"" is ""a"". The last letter of ""Alexia"" is ""a"". Concatenating them is ""riaa"". The answer is riaa.",riaa,riaa,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Antoine Cleo Paresh Gurpreet"" and concatenate them.","The last letter of ""Antoine"" is ""e"". The last letter of ""Cleo"" is ""o"". The last letter of ""Paresh"" is ""h"". The last letter of ""Gurpreet"" is ""t"". Concatenating them is ""eoht"". The answer is eoht",eoht,eoht,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Anisha Nina Max Jacquelyn"" and concatenate them.","The last letter of ""Anisha"" is ""a"". The last letter of ""Nina"" is ""a"". The last letter of ""Max"" is ""x"". The last letter of ""Jacquelyn"" is ""n"". Concatenating them is ""aaxn"". The answer is aaxn.",aaxn,aaxn,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Santa Cal Minnie Milagro"" and concatenate them.","The last letter of ""Santa"" is ""a"". The last letter of ""Cal"" is ""l"". The last letter of ""Minnie"" is ""e"". The last letter of ""Milagro"" is ""o"". Concatenating them is ""aleo"". The answer is aleo.",aleo,aleo,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Nichole Suzi Dianna Kerry"" and concatenate them.","The last letter of ""Nichole"" is ""e"". The last letter of ""Suzi"" is ""i"". The last letter of ""Dianna"" is ""a"". The last letter of ""Kerry"" is ""y"". Concatenating them is ""eiay"". The answer is eiay.",eiay,eiay,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Ramona Antwan Gerry Reinaldo"" and concatenate them.","The last letter of ""Ramona"" is ""a"". The last letter of ""Antwan"" is ""n"". The last letter of ""Gerry"" is ""y"". The last letter of ""Reinaldo"" is ""o"". Concatenating them is ""anyo"". The answer is anyo.",anyo,anyo,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Tan Laura Nicole Rojelio"" and concatenate them.","The last letter of ""Tan"" is ""n"". The last letter of ""Laura"" is ""a"". The last letter of ""Nicole"" is ""e"". The last letter of ""Rojelio"" is ""o"". Concatenating them is ""naeo"". The answer is naeo.",naeo,naeo,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Ervin Vivi Mckenna Tammy"" and concatenate them.","The last letter of ""Ervin"" is ""n"". The last letter of ""Vivi"" is ""i"". The last letter of ""Mckenna"" is ""a"". The last letter of ""Tammy"" is ""y"". Concatenating them is ""niay"". The answer is niay.",niay,niay,Correct,,,
+Chain Of Thought,"Take the last letters of the words in ""Vin Harpreet Miguel Surinder"" and concatenate them.","The last letter of ""Vin"" is ""n"". The last letter of ""Harpreet"" is ""t"". The last letter of ""Miguel"" is ""l"". The last letter of ""Surinder"" is ""r"". Concatenating them is ""ntlr"". The answer is ntlr.",ntlr,ntlr,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Greta Frantz Heaven"" and concatenate them.","The last letters of the words ""Greta Frantz Heaven"" are a, z, n.  
+The answer is azn.",azn,azn,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Jesse Rey Jacky"" and concatenate them.","The last letters of the words in ""Jesse Rey Jacky"" are e, y, and y.  
+The answer is eyy.",eyy,eyy,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Alexa Issa Sammie"" and concatenate them.","The last letters of ""Alexa Issa Sammie"" are a, a, and e. Concatenating them gives aae.
+
+The answer is aae.",aae,aae,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Kristi Maria Isa"" and concatenate them.","The last letters of the words in ""Kristi Maria Isa"" are i, a, and a. Concatenating them gives iaa.
+
+The answer is iaa.",iaa,iaa,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Viridiana Nitin Cody"" and concatenate them.","The last letters of the words are: a (Viridiana), n (Nitin), y (Cody).
+The answer is any.",any,any,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Trish Camilo Cristal"" and concatenate them.","The last letters of ""Trish Camilo Cristal"" are h, o, and l. 
+
+The answer is hol.",hol,hol,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Landon Matthew Baltazar"" and concatenate them.","The last letters of each word are: n (Landon), w (Matthew), r (Baltazar).  
+The answer is nwr.",nwr,nwr,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Vera Consuelo Michaela"" and concatenate them.",The answer is aal.,aal,aoa,Incorrect,,,
+Standard Prompting,"Take the last letters of the words in ""Cesar Lj Hipolito"" and concatenate them.","The last letter of ""Cesar"" is r, the last letter of ""Lj"" is j, and the last letter of ""Hipolito"" is o. Concatenating them gives rjo.
+
+The answer is rjo.",rjo,rjo,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Paige Rosaura Geo"" and concatenate them.","The last letters of each word are: e (Paige), a (Rosaura), o (Geo). Concatenating them gives ""eao"".  
+The answer is eao.",eao,eao,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Arnaldo Sheldon Luis Alberto"" and concatenate them.","The last letters of ""Arnaldo Sheldon Luis Alberto"" are o, n, s, o.
+
+The answer is onso.",onso,onso,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Narciso Pinky Sydney"" and concatenate them.","The last letter of ""Narciso"" is o.  
+The last letter of ""Pinky"" is y.  
+The last letter of ""Sydney"" is y.  
+Concatenating them gives oyy.
+
+The answer is oyy.",oyy,oyy,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Jonah Natalia Ginny"" and concatenate them.","The last letters of the words are h, a, and y. Concatenating them gives hay.
+
+The answer is hay.",hay,hay,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Solo Shannon Fer"" and concatenate them.","The last letters of the words in ""Solo Shannon Fer"" are o, n, and r. When concatenated, they form onr.
+
+The answer is onr.",onr,onr,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Ayesha Blake Ervin"" and concatenate them.","The last letters of ""Ayesha Blake Ervin"" are a, e, and n. Concatenating them gives ""aen"".
+
+The answer is aen.",aen,aen,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Lena Robyn Shayna"" and concatenate them.","The last letters of the words are: a (Lena), n (Robyn), a (Shayna).  
+Concatenate them: ana  
+The answer is ana.",ana,ana,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Gabby Jb Jai"" and concatenate them.","The last letters of the words are y, b, and i. Concatenated, they form ybi.
+The answer is ybi.",ybi,ybi,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Luz Maria Lisa Ever"" and concatenate them.","The last letters of the words are z a a r.  
+The answer is zaar.",zaar,zaar,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Trevor Macy Hari"" and concatenate them.","The last letters of ""Trevor"", ""Macy"", and ""Hari"" are r, y, and i.
+
+The answer is ryi.",ryi,ryi,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Amie Justo Lloyd"" and concatenate them.","The last letter of ""Amie"" is e, the last letter of ""Justo"" is o, and the last letter of ""Lloyd"" is d. Concatenating them gives eod.
+
+The answer is eod.",eod,eod,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Flor Georgina Barbara"" and concatenate them.","The last letters of the words in ""Flor Georgina Barbara"" are r, a, and a. Concatenating them gives ""raa"".
+
+The answer is raa.",raa,raa,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Jacques Scarlett Genaro"" and concatenate them.","The last letters of the words are: ""s"" (Jacques), ""t"" (Scarlett), ""o"" (Genaro).  
+Concatenated, this is ""sto"".  
+The answer is sto.",sto,sto,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Eric Darien Morgan"" and concatenate them.","The last letters of ""Eric Darien Morgan"" are:
+
+- Eric → c
+- Darien → n
+- Morgan → n
+
+Concatenate them: cnn
+
+The answer is cnn.",cnn,cnn,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Reinaldo Tomas Kc"" and concatenate them.","The last letters of the words are: o (Reinaldo), s (Tomas), c (Kc).
+
+Concatenating them gives: osc.
+
+The answer is osc.",osc,osc,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Eliana Shawna Tyrone"" and concatenate them.","The last letters of the words are a, a, and e. Concatenating them gives aae.
+
+The answer is aae.",aae,aae,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Kip Conner Tj"" and concatenate them.","The last letter of ""Kip"" is p.  
+The last letter of ""Conner"" is r.  
+The last letter of ""Tj"" is j.  
+Concatenating them gives prj.  
+The answer is prj.",prj,prj,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Ovidio Anil Irene"" and concatenate them.","The last letters are o, l, and e. Concatenated, this is ole.
+
+The answer is ole.",ole,ole,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Ethel Francisca Eli"" and concatenate them.","The last letter of ""Ethel"" is l.  
+The last letter of ""Francisca"" is a.  
+The last letter of ""Eli"" is i.  
+Concatenate them: lai.  
+The answer is lai.",lai,lai,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Kirk Sonny Oscar"" and concatenate them.","The last letters of ""Kirk Sonny Oscar"" are k (from Kirk), y (from Sonny), and r (from Oscar). Concatenating them gives kyr.  
+The answer is kyr.",kyr,kyr,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Vic Eduard Zoey"" and concatenate them.","The last letters are c, d, y.  
+The answer is cdy.",cdy,cdy,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Dakota Phoenix Tiana"" and concatenate them.","The last letters of the words are a, x, and a. Concatenating them gives ""axa"".
+
+The answer is axa.",axa,axa,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Rosi Chet Chaz"" and concatenate them.","The last letters of the words are: i (from Rosi), t (from Chet), z (from Chaz).  
+Concatenating them gives: itz  
+The answer is itz.",itz,itz,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Efren Cindi De"" and concatenate them.","The last letters of the words are n, i, and e. When concatenated, they form nie.  
+The answer is nie.",nie,nie,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Inna Ari Tabitha"" and concatenate them.","The last letters of ""Inna Ari Tabitha"" are a, i, a.  
+The answer is aia.",aia,aia,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Steve Hiram Elda"" and concatenate them.","The last letters of the words in ""Steve Hiram Elda"" are e (from Steve), m (from Hiram), and a (from Elda). Concatenating them gives ema.
+
+The answer is ema.",ema,ema,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Derek Yenny Howard"" and concatenate them.","The last letters are k, y, and d. Concatenating them gives kyd.  
+The answer is kyd.",kyd,kyd,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Benito Alba Faye"" and concatenate them.","The last letter of ""Benito"" is o.  
+The last letter of ""Alba"" is a.  
+The last letter of ""Faye"" is e.  
+Concatenating them gives oae.
+
+The answer is oae.",oae,oae,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Itzel Jose Kristian"" and concatenate them.","The last letters of each word are:
+Itzel -> l  
+Jose -> e  
+Kristian -> n  
+
+So, concatenating them gives: len
+
+The answer is len.",len,len,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Patricia Vickie Gera"" and concatenate them.","The last letters of ""Patricia,"" ""Vickie,"" and ""Gera"" are ""a,"" ""e,"" and ""a"" respectively. Concatenating them gives ""aea"".  
+The answer is aea.",aea,aea,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Dolly Estrella Wilma"" and concatenate them.","The last letters of ""Dolly Estrella Wilma"" are y, a, and a. Concatenating them gives yaa.
+
+The answer is yaa.",yaa,yaa,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Billie Cirilo Thalia"" and concatenate them.","The last letters are e, o, and a. Concatenating them gives eoa.  
+The answer is eoa.",eoa,eoa,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Colin Jair Roberto"" and concatenate them.","The last letter of ""Colin"" is n.  
+The last letter of ""Jair"" is r.  
+The last letter of ""Roberto"" is o.  
+Putting them together: nro
+
+The answer is nro.",nro,nro,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Yusuf Deena Jennifer"" and concatenate them.",The answer is fr.,fr,far,Incorrect,,,
+Standard Prompting,"Take the last letters of the words in ""Amparo Lynne Elias"" and concatenate them.","The last letters of ""Amparo"", ""Lynne"", and ""Elias"" are o, e, and s.
+
+The answer is oes.",oes,oes,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Jarred Vane Raman"" and concatenate them.","The last letters of ""Jarred"", ""Vane"", and ""Raman"" are d, e, and n, respectively. Concatenating them gives den.
+
+The answer is den.",den,den,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Meghan Teresita Ginger"" and concatenate them.","The last letter of ""Meghan"" is n.  
+The last letter of ""Teresita"" is a.  
+The last letter of ""Ginger"" is r.  
+Concatenating them gives nar.
+
+The answer is nar.",nar,nar,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Cee Li Hallie"" and concatenate them.","The last letters of the words are: Cee (e), Li (i), Hallie (e).  
+Concatenate them: e i e  
+
+The answer is eie.",eie,eie,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Jose Angel Lou Rashid"" and concatenate them.","The last letters of the words are: e (Jose), l (Angel), u (Lou), d (Rashid).  
+The answer is elud.",elud,elud,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Estefania Madhu Joyce"" and concatenate them.","The last letters of the words are a (Estefania), u (Madhu), and e (Joyce). Concatenating them gives aue.
+
+The answer is aue.",aue,aue,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Dolores Kira Ivette"" and concatenate them.","The last letters of the words are: s, a, e. 
+
+The answer is sae.",sae,sae,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Abdulaziz Roy Candi Nereida"" and concatenate them.","The last letters of ""Abdulaziz Roy Candi Nereida"" are z, y, i, a. Concatenating them gives ""zyia"".  
+The answer is zyia.",zyia,zyia,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Paloma Randi Rosalia Caro"" and concatenate them.","The last letters of the words are: a (Paloma), i (Randi), a (Rosalia), o (Caro).  
+Concatenating them gives: aiao  
+The answer is aiao.",aiao,aiao,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Angeline Corina Jeannette Adela"" and concatenate them.","The last letters of ""Angeline"" is e, ""Corina"" is a, ""Jeannette"" is e, and ""Adela"" is a. When concatenated, they form eaea.
+
+The answer is eaea.",eaea,eaea,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Eri Mai Monty Virgilio"" and concatenate them.","The last letters of the words are: Eri (i), Mai (i), Monty (y), Virgilio (o). Concatenating them gives iiyo.
+
+The answer is iiyo.",iiyo,iiyo,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Jerson Layne Marilu Cathy"" and concatenate them.","The last letters of each word are:
+Jerson - n  
+Layne - e  
+Marilu - u  
+Cathy - y
+
+Concatenating them gives: neuy
+
+The answer is neuy.",neuy,neuy,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Kaleb Hussein Didier Brie"" and concatenate them.","The last letters of the words in ""Kaleb Hussein Didier Brie"" are b, n, r, e.
+
+Concatenate them: b n r e.
+
+Remove the spaces: bnre.
+
+The answer is bnre.",bnre,bnre,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Yi Mirza Mónica Ross"" and concatenate them.","The last letters are: i (Yi), a (Mirza), a (Mónica), s (Ross).
+The answer is iaas.",iaas,iaas,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Saira Phil Zoraida Deep"" and concatenate them.","The last letters of the words are: a (Saira), l (Phil), a (Zoraida), p (Deep). Concatenating them gives alap.
+
+The answer is alap.",alap,alap,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Rikki Barbie Jony Franchesca"" and concatenate them.","The last letters of the words are: i, e, y, a.  
+Concatenate them: ieya  
+The answer is ieya.",ieya,ieya,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Nicol Jaclyn Griselda Aparna"" and concatenate them.","The last letters of the words are: l (Nicol), n (Jaclyn), a (Griselda), a (Aparna).  
+Concatenating them gives: lnaa  
+The answer is lnaa.",lnaa,lnaa,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Elvis Ralph Rosalie Cj"" and concatenate them.","The last letters of each word are: s (Elvis), h (Ralph), e (Rosalie), j (Cj).  
+Concatenating them gives: shej  
+The answer is shej.",shej,shej,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Jon Tiffanie Jacquie Kierra"" and concatenate them.","The last letters of Jon, Tiffanie, Jacquie, and Kierra are n, e, e, and a. Concatenating them gives neea.
+
+The answer is neea.",neea,neea,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Gordon Mirian Samia Carol"" and concatenate them.","The last letters of the words are: n (Gordon), n (Mirian), a (Samia), l (Carol). Concatenating them gives: nnal.
+
+The answer is nnal.",nnal,nnal,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Brant Samara Nader Constance"" and concatenate them.","The last letters of the words are: t (Brant), a (Samara), r (Nader), e (Constance).  
+Concatenating them gives: tare  
+The answer is tare.",tare,tare,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Clara Cooper Anibal Chaparro"" and concatenate them.","The last letters of ""Clara"", ""Cooper"", ""Anibal"", and ""Chaparro"" are a, r, l, and o. Concatenating them gives arlo.
+
+The answer is arlo.",arlo,arlo,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Alena Luiz Fredy Della"" and concatenate them.","The last letters of ""Alena Luiz Fredy Della"" are a, z, y, a.
+
+The answer is azya.",azya,azya,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Angy Rosalyn Norman Fanny"" and concatenate them.","The last letters of the words are: y (Angy), n (Rosalyn), n (Norman), y (Fanny).  
+Concatenating them gives: ynny  
+The answer is ynny.",ynny,ynny,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Osmar Debbi May Rosie"" and concatenate them.","The last letters of each word are: r (Osmar), i (Debbi), y (May), e (Rosie). Concatenating them gives: riye.  
+The answer is riye.",riye,riye,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Na Diamond Kirk Maricela"" and concatenate them.","The last letters of the words are: a (Na), d (Diamond), k (Kirk), a (Maricela).  
+Concatenating them gives: adka  
+The answer is adka.",adka,adka,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Neha Archie Tanya Aliya"" and concatenate them.","The last letters are a e a a.  
+Concatenated, this is aeaa.  
+The answer is aeaa.",aeaa,aeaa,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Tisha Grecia Brandi Rocky"" and concatenate them.","The last letters of the words are: a (Tisha), a (Grecia), i (Brandi), y (Rocky).  
+Concatenating them gives: aaiy  
+The answer is aaiy.",aaiy,aaiy,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Marta Rina Deshawn Christi"" and concatenate them.","The last letters of the words are: a (Marta), a (Rina), n (Deshawn), i (Christi).  
+The answer is aani.",aani,aani,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Cindi Genaro Katarina Tim"" and concatenate them.","The last letters of the words are: i (Cindi), o (Genaro), a (Katarina), and m (Tim). Concatenating them gives ioam.
+
+The answer is ioam.",ioam,ioam,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Yonatan Richy Ruthie Yaritza"" and concatenate them.","The last letters of the words are n, y, e, a. Concatenating them gives ""nyea"".
+
+The answer is nyea.",nyea,nyea,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Magaly Dirk Mandy Emanuel"" and concatenate them.","The last letters of each word are:
+Magaly - y  
+Dirk - k  
+Mandy - y  
+Emanuel - l  
+
+When concatenated, the result is: ykyl
+
+The answer is ykyl.",ykyl,ykyl,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Ciera Consuelo Jimenez Harley"" and concatenate them.","The last letters of the words are: a (Ciera), o (Consuelo), z (Jimenez), y (Harley).  
+The answer is aozy.",aozy,aozy,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Lauro Phyllis Raymond Melina"" and concatenate them.","The last letter of ""Lauro"" is o  
+The last letter of ""Phyllis"" is s  
+The last letter of ""Raymond"" is d  
+The last letter of ""Melina"" is a  
+
+Concatenating these gives: osda
+
+The answer is osda.",osda,osda,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Jamie Lenin Hi Yuli"" and concatenate them.","The last letters of each word are: e (Jamie), n (Lenin), i (Hi), i (Yuli).  
+Concatenating them gives: enii  
+The answer is enii.",enii,enii,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Bear Guillermo Yessenia Silas"" and concatenate them.","The last letters of each word are: r (Bear), o (Guillermo), a (Yessenia), s (Silas).
+Concatenating them gives: roas
+
+The answer is roas.",roas,roas,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Maru Giovani Billie Dc"" and concatenate them.","The last letters of ""Maru"", ""Giovani"", ""Billie"", and ""Dc"" are u, i, e, and c. Concatenating them gives uiec.  
+The answer is uiec.",uiec,uiec,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Janell Andre Jean Linh"" and concatenate them.","The last letter of ""Janell"" is l.  
+The last letter of ""Andre"" is e.  
+The last letter of ""Jean"" is n.  
+The last letter of ""Linh"" is h.  
+Concatenating these gives lenh.  
+The answer is lenh.",lenh,lenh,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Lala Juancarlos Robby Paige"" and concatenate them.","The last letters of ""Lala Juancarlos Robby Paige"" are a, s, y, e.  
+The answer is asye.",asye,asye,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Vida Violet Viridiana Cece"" and concatenate them.","The last letters of the words are a, t, a, e. Concatenating them gives atae. The answer is atae.",atae,atae,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Janel Isela Serafin Arash"" and concatenate them.","The last letters of the words are: l (Janel), a (Isela), n (Serafin), h (Arash).
+
+Concatenating them gives: lanh
+
+The answer is lanh.",lanh,lanh,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Isha Matthew Jaime Aracelis"" and concatenate them.","The last letters of ""Isha Matthew Jaime Aracelis"" are a, w, e, s.
+
+The answer is awes.",awes,awes,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Sarah Daniele Pati Vale"" and concatenate them.","The last letters of each word are: h (Sarah), e (Daniele), i (Pati), e (Vale). Concatenating them gives ""heie"".
+
+The answer is heie.",heie,heie,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Jasmine Rodriguez Joe Kellie"" and concatenate them.",The last letters are e z e e. The answer is ezee.,ezee,ezee,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Leobardo Chandra Rubi Anamaria"" and concatenate them.","The last letters of the words in ""Leobardo Chandra Rubi Anamaria"" are o, a, i, and a. Concatenating them gives ""oaia"".
+
+The answer is oaia.",oaia,oaia,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Kelley Valentino Butch Alondra"" and concatenate them.","The last letter of ""Kelley"" is y, the last letter of ""Valentino"" is o, the last letter of ""Butch"" is h, and the last letter of ""Alondra"" is a. Concatenating them gives ""yoha"".
+
+The answer is yoha.",yoha,yoha,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Belen Stephan Brittney Karin"" and concatenate them.","The last letters are n (Belen), n (Stephan), y (Brittney), n (Karin).
+
+The answer is nnyn.",nnyn,nnyn,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Meño Precious Joel Yazmin"" and concatenate them.","The last letters of the words are: o (Meño), s (Precious), l (Joel), n (Yazmin). Concatenating them gives: osln  
+The answer is osln.",osln,osln,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Rober Yareli Ema Alexia"" and concatenate them.","The last letters of ""Rober"", ""Yareli"", ""Ema"", and ""Alexia"" are r, i, a, and a.
+
+The answer is riaa.",riaa,riaa,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Antoine Cleo Paresh Gurpreet"" and concatenate them.","The last letters of the words in ""Antoine Cleo Paresh Gurpreet"" are e, o, h, t. Concatenating them gives eoht.
+
+The answer is eoht.",eoht,eoht,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Anisha Nina Max Jacquelyn"" and concatenate them.","The last letters are a (Anisha), a (Nina), x (Max), n (Jacquelyn).
+
+The answer is aaxn.",aaxn,aaxn,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Santa Cal Minnie Milagro"" and concatenate them.","The last letters of the words are: a (Sant**a**), l (Ca**l**), e (Minni**e**), o (Milagr**o**).
+
+The answer is aleo.",aleo,aleo,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Nichole Suzi Dianna Kerry"" and concatenate them.","The last letters of the words are e, i, a, y.  
+The answer is eiay.",eiay,eiay,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Ramona Antwan Gerry Reinaldo"" and concatenate them.","The last letters of the words are a, n, y, o. Concatenating them gives anyo.
+
+The answer is anyo.",anyo,anyo,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Tan Laura Nicole Rojelio"" and concatenate them.","The last letters are n a e o.  
+The answer is naeo.",naeo,naeo,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Ervin Vivi Mckenna Tammy"" and concatenate them.","The last letters are n, i, a, y.  
+The answer is niay.",niay,niay,Correct,,,
+Standard Prompting,"Take the last letters of the words in ""Vin Harpreet Miguel Surinder"" and concatenate them.","The last letters of ""Vin"" is n, ""Harpreet"" is t, ""Miguel"" is l, and ""Surinder"" is r. Concatenating them gives ntlr.
+
+The answer is ntlr.",ntlr,ntlr,Correct,,,

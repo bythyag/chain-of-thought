@@ -1,0 +1,1154 @@
+[
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  },
+  {
+    "question": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?",
+    "prompt_used": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA: The answer is 6.\n\nQ: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA: The answer is 5.\n\nQ: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA: The answer is 39.\n\nQ: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA: The answer is 8.\n\nQ: There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\nA:",
+    "model_output": "To find the size of each group of bananas, we need to divide the total number of bananas by the number of groups.\n\nTotal bananas = 290\nNumber of groups = 2\n\nSize of each group of bananas = Total bananas / Number of groups = 290 / 2 = 145\n\nThe answer is 145.",
+    "extracted_answer": "145",
+    "gold_answer": "145",
+    "result": "Correct",
+    "@ pass": 1
+  }
+]
