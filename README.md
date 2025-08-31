@@ -41,3 +41,6 @@ This codebase implements experiments to test and validate claims about Chain of 
 
 ### References
 You can read more about reasoning in LLMs in orginal [Chain-of-Thought paper](https://arxiv.org/abs/2201.11903).
+
+### Acknowledgements
+Thanks to [Telt](https://x.com/twofifteenam) for guiding across different stages of the project and sponsoring the API Keys.
