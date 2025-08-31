@@ -32,9 +32,10 @@ class Ablation:
         self.coin_flip = None
         self.lastletter = None
 
-        # prompts - load from files (these are the system prompts for the three ablation studies)
+        # prompts - load from files (these are the system prompts and templates for the three ablation studies)
         self.prompt_equation_only = self.load_prompt_template("prompts/ablation/equation_only.txt")
         self.prompt_variable_compute = self.load_prompt_template("prompts/ablation/variable_compute.txt")
+        self.prompt_variable_compute_template = self.load_prompt_template("prompts/ablation/variable_compute_template.txt")
         self.prompt_post_answer_cot = self.load_prompt_template("prompts/ablation/reasoning_post_answer.txt")
 
         # concurrency limits - initialize lazily to avoid event loop issues
@@ -276,7 +277,9 @@ class Ablation:
     async def handle_question(self, question, original_answer, eq_prompt, var_prompt, cot_prompt, semaphore):
         # run all three prompts concurrently with their respective system prompts
         eq_task = asyncio.create_task(self.model_runner(self.model_name, self.prompt_equation_only, eq_prompt, semaphore))
-        var_task = asyncio.create_task(self.model_runner(self.model_name, self.prompt_variable_compute, var_prompt, semaphore))
+        # Format variable compute prompt using the template
+        var_templated_prompt = self.prompt_variable_compute_template.format(Question=var_prompt)
+        var_task = asyncio.create_task(self.model_runner(self.model_name, self.prompt_variable_compute, var_templated_prompt, semaphore))
         cot_task = asyncio.create_task(self.model_runner(self.model_name, self.prompt_post_answer_cot, cot_prompt, semaphore))
         
         eq_output, var_output, cot_output = await asyncio.gather(eq_task, var_task, cot_task)

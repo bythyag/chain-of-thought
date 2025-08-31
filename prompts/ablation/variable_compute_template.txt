@@ -1,0 +1,14 @@
+Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?
+A: . . . . .. . . . . . . . . . .. . . . . . . . . . .. The answer is 6.
+
+Q: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?
+A: . . . . .. . . . .. . . . . .. The answer is 5.
+
+Q: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?
+A: . . . . .. . . . .. . . . . . . . . . .. . . . . . . . . . . .. The answer is 39.
+
+Q: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?
+A: . . . . .. . . . . . . . . .. . . . . . . . . .. The answer is 8.
+
+Q: {Question}
+A:
