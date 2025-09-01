@@ -52,7 +52,7 @@ class Ablation:
     def semaphore(self):
         """Lazy initialization of semaphore to avoid event loop issues"""
         if self._semaphore is None:
-            self._semaphore = asyncio.Semaphore(2)
+            self._semaphore = asyncio.Semaphore(1)
         return self._semaphore
 
     def load_prompt_template(self, file_path: str) -> str:

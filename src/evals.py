@@ -54,7 +54,7 @@ class Benchmark():
         self.lastletter_standard_prompt = self.load_prompt_template("prompts/evals/sp/sp_lastletter.txt")
 
         # concurrency limits
-        self.semaphore = asyncio.Semaphore(2)
+        self.semaphore = asyncio.Semaphore(10)
 
         # Centralized file naming convention
         self.results_dir = "results"
@@ -336,21 +336,44 @@ class Benchmark():
         if getattr(self, dataset_name) is None:
             self.load_dataset(dataset_name)
 
+        dataset = getattr(self, dataset_name)
+
+        # 🔹 Select the right split robustly
+        if isinstance(dataset, dict):  
+            if "test" in dataset:
+                split = dataset["test"]
+            elif "train" in dataset:
+                split = dataset["train"]
+            elif "examples" in dataset:   # BIG-bench JSON style
+                split = dataset["examples"]
+            else:
+                raise ValueError(f"Could not determine split for dataset {dataset_name}")
+        else:
+            split = dataset
+
+        max_size = len(split)
+        actual_size = max_size if self.sample_size == -1 else min(self.sample_size, max_size)
 
         # filenames / processed tracking
-        cot_filename = self.cot_prompt_filename_template.format(model_name=self.model_name, dataset_name=dataset_name, at_pass=self.at_pass)
-        sp_filename = self.sp_prompt_filename_template.format(model_name=self.model_name, dataset_name=dataset_name, at_pass=self.at_pass)
+        cot_filename = self.cot_prompt_filename_template.format(
+            model_name=self.model_name, dataset_name=dataset_name, at_pass=self.at_pass
+        )
+        sp_filename = self.sp_prompt_filename_template.format(
+            model_name=self.model_name, dataset_name=dataset_name, at_pass=self.at_pass
+        )
 
-        # Ensure files exist and are initialized as empty lists if not
+        # Ensure files exist
         for filename in [cot_filename, sp_filename]:
             if not os.path.exists(filename):
                 with open(filename, "w", encoding="utf-8") as f:
                     json.dump([], f)
 
-        processed_questions = self.load_processed_questions(cot_filename).union(self.load_processed_questions(sp_filename))
+        processed_questions = self.load_processed_questions(cot_filename).union(
+            self.load_processed_questions(sp_filename)
+        )
         semaphore = self.semaphore
 
-        for i in range(self.sample_size):
+        for i in range(actual_size):
             try:
                 question, original_answer, cot_prompt, sp_prompt = question_factory(i)
             except Exception as e:
@@ -362,23 +385,22 @@ class Benchmark():
                 continue
 
             # process question and immediately append results to file
-            cot_results, sp_results, cot_result, sp_result = await self.handle_question(question, original_answer, cot_prompt, sp_prompt, semaphore)
+            cot_results, sp_results, cot_result, sp_result = await self.handle_question(
+                question, original_answer, cot_prompt, sp_prompt, semaphore
+            )
 
-            # Append results to JSON files as we go
             self.save_results_to_json(cot_results, cot_filename)
             self.save_results_to_json(sp_results, sp_filename)
-
-            # Update processed_questions set
             processed_questions.add(question)
 
         print(f"Finished processing {dataset_name}. Results saved to {cot_filename} and {sp_filename}.")
+
         # Aggregate and print final scores
         all_results = []
         try:
             with open(cot_filename, "r", encoding="utf-8") as f_cot, open(sp_filename, "r", encoding="utf-8") as f_sp:
                 cot_data = json.load(f_cot)
                 sp_data = json.load(f_sp)
-                # Pair results by question (assuming same order)
                 for cot_item, sp_item in zip(cot_data, sp_data):
                     cot_status = cot_item.get("result", "NA")
                     sp_status = sp_item.get("result", "NA")
@@ -386,6 +408,7 @@ class Benchmark():
         except Exception as e:
             print(f"Error aggregating results for final score: {e}")
             return
+
         self.aggregate_results(all_results, dataset_name)
 
     async def run_gsm8k(self):
@@ -588,7 +611,7 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(description="Run benchmarks on various datasets.")
     parser.add_argument('--model_name', type=str, required=True, help='Model name (e.g., gpt-4o)')
-    parser.add_argument('--sample_size', type=int, default=5, help='Number of samples per dataset')
+    parser.add_argument('--sample_size', type=int, default=5, help='Number of samples per dataset. Use -1 for full dataset.')
     parser.add_argument('--at_pass', type=int, default=1, help='Pass number')
     parser.add_argument('--run', type=str, default='all', choices=[
         'all', 'gsm8k', 'svamp', 'mawps', 'asdiv', 'aqua', 'csqa', 'strategyqa', 'date_bench', 'sports_bench', 'saycan', 'lastletter', 'coin_flip'
