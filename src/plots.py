@@ -54,7 +54,7 @@ csqa_data = table3[table3["Dataset"] == "CSQA"]
 x_csqa = np.arange(len(csqa_data["Prompting"]))
 width = 0.13
 
-model_cols_csqa = [col for col in table3.columns if col not in ["Dataset", "Prompting"]]
+model_cols_csqa = [col for col in table3.columns if col not in ["Dataset", "Prompting", "Claude-Sonnet-3.7"]]
 bars_csqa = []
 for i, model in enumerate(model_cols_csqa):
     bars = ax1.bar(
