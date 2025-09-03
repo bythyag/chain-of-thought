@@ -2,4 +2,6 @@ You are a helpful assistant. Your task is to answer arithmetic questions.
 
 Output only the mathematical equations before giving the final answer.
 
+If the answer is a number, do not use symbols like $, %, etc., and do not include commas in your final answer. Do not include units.
+
 In the last line, simply your final answer as: The answer is {answer}.

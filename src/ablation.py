@@ -5,6 +5,7 @@ import asyncio
 import requests
 from datasets import load_dataset
 from openai import AsyncOpenAI
+import anthropic
 from dotenv import load_dotenv
 from pathlib import Path
 
@@ -15,7 +16,9 @@ class Ablation:
         self.model_name = model_name
         self.sample_size = sample_size
         self.OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+        self.ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
         self.openai_client = AsyncOpenAI(api_key=self.OPENAI_API_KEY)
+        self.anthropic_client = anthropic.AsyncAnthropic(api_key=self.ANTHROPIC_API_KEY)
         self.at_pass = at_pass
 
         # datasets
@@ -38,22 +41,15 @@ class Ablation:
         self.prompt_variable_compute_template = self.load_prompt_template("prompts/ablation/variable_compute_template.txt")
         self.prompt_post_answer_cot = self.load_prompt_template("prompts/ablation/reasoning_post_answer.txt")
 
-        # concurrency limits - initialize lazily to avoid event loop issues
-        self._semaphore = None
+        # concurrency limits
+        self.semaphore = asyncio.Semaphore(10)
 
         # Centralized file naming convention
         self.results_dir = "results"
         os.makedirs(self.results_dir, exist_ok=True)
-        self.eq_filename_template = os.path.join(self.results_dir, "{model_name}_{dataset_name}_equation_only_@_pass{at_pass}.json")
-        self.var_filename_template = os.path.join(self.results_dir, "{model_name}_{dataset_name}_variable_compute_@_pass{at_pass}.json")
-        self.cot_filename_template = os.path.join(self.results_dir, "{model_name}_{dataset_name}_post_answer_cot_@_pass{at_pass}.json")
-
-    @property
-    def semaphore(self):
-        """Lazy initialization of semaphore to avoid event loop issues"""
-        if self._semaphore is None:
-            self._semaphore = asyncio.Semaphore(1)
-        return self._semaphore
+        self.eq_filename_template = os.path.join(self.results_dir, "{model_name}_{dataset_name}_ablation_equation_only_@_pass{at_pass}.json")
+        self.var_filename_template = os.path.join(self.results_dir, "{model_name}_{dataset_name}_ablation_variable_compute_@_pass{at_pass}.json")
+        self.cot_filename_template = os.path.join(self.results_dir, "{model_name}_{dataset_name}_ablation_post_answer_cot_@_pass{at_pass}.json")
 
     def load_prompt_template(self, file_path: str) -> str:
         """
@@ -143,7 +139,24 @@ class Ablation:
                     temperature=0
                 )
                 return response.choices[0].message.content
-            if "test" in model_name:
+            elif "claude" in model_name:
+                # Claude supports system messages properly
+                response = await self.anthropic_client.messages.create(
+                    model=model_name,
+                    max_tokens=1024,
+                    system=system_message,
+                    messages=[
+                        {"role": "user", "content": prompt}
+                    ]
+                )
+                # Extract text content from the response
+                if response.content and len(response.content) > 0:
+                    try:
+                        return response.content[0].text  # type: ignore
+                    except AttributeError:
+                        return str(response.content[0])
+                return ""
+            elif "test" in model_name:
                 return "The answer is test"
             return None
 
@@ -249,7 +262,7 @@ class Ablation:
         print(f"  Correct   : {eq_correct}")
         eq_denom = eq_correct + eq_incorrect + eq_na
         if eq_denom == 0:
-            eq_denom = self.sample_size
+            eq_denom = self.sample_size if self.sample_size != -1 else 0
         eq_accuracy = (eq_correct / eq_denom) if eq_denom else 0
         print(f"  Accuracy  : {eq_correct}/{eq_denom} = {eq_accuracy:.2%}")
         print("-"*60)
@@ -258,7 +271,7 @@ class Ablation:
         print(f"  Correct   : {var_correct}")
         var_denom = var_correct + var_incorrect + var_na
         if var_denom == 0:
-            var_denom = self.sample_size
+            var_denom = self.sample_size if self.sample_size != -1 else 0
         var_accuracy = (var_correct / var_denom) if var_denom else 0
         print(f"  Accuracy  : {var_correct}/{var_denom} = {var_accuracy:.2%}")
         print("-"*60)
@@ -267,7 +280,7 @@ class Ablation:
         print(f"  Correct   : {cot_correct}")
         cot_denom = cot_correct + cot_incorrect + cot_na
         if cot_denom == 0:
-            cot_denom = self.sample_size
+            cot_denom = self.sample_size if self.sample_size != -1 else 0
         cot_accuracy = (cot_correct / cot_denom) if cot_denom else 0
         print(f"  Accuracy  : {cot_correct}/{cot_denom} = {cot_accuracy:.2%}")
         
@@ -366,6 +379,24 @@ class Ablation:
         if getattr(self, dataset_name) is None:
             self.load_dataset(dataset_name)
 
+        dataset = getattr(self, dataset_name)
+
+        # 🔹 Select the right split robustly
+        if isinstance(dataset, dict):  
+            if "test" in dataset:
+                split = dataset["test"]
+            elif "train" in dataset:
+                split = dataset["train"]
+            elif "examples" in dataset:   # BIG-bench JSON style
+                split = dataset["examples"]
+            else:
+                raise ValueError(f"Could not determine split for dataset {dataset_name}")
+        else:
+            split = dataset
+
+        max_size = len(split)
+        actual_size = max_size if self.sample_size == -1 else min(self.sample_size, max_size)
+
         # filenames / processed tracking
         eq_filename = self.eq_filename_template.format(model_name=self.model_name, dataset_name=dataset_name, at_pass=self.at_pass)
         var_filename = self.var_filename_template.format(model_name=self.model_name, dataset_name=dataset_name, at_pass=self.at_pass)
@@ -382,7 +413,7 @@ class Ablation:
                              .union(self.load_processed_questions(cot_filename)))
         semaphore = self.semaphore
 
-        for i in range(self.sample_size):
+        for i in range(actual_size):
             try:
                 question, original_answer, eq_prompt, var_prompt, cot_prompt = question_factory(i)
             except Exception as e:
@@ -639,7 +670,7 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(description="Run ablation experiments on various datasets.")
     parser.add_argument('--model_name', type=str, required=True, help='Model name (e.g., gpt-4o-mini)')
-    parser.add_argument('--sample_size', type=int, default=5, help='Number of samples per dataset')
+    parser.add_argument('--sample_size', type=int, default=5, help='Number of samples per dataset. Use -1 for full dataset.')
     parser.add_argument('--at_pass', type=int, default=1, help='Pass number')
     parser.add_argument('--run', type=str, default='all', choices=[
         'all', 'gsm8k', 'svamp', 'mawps', 'asdiv', 'aqua', 'csqa', 'strategyqa', 
@@ -667,3 +698,4 @@ if __name__ == "__main__":
 
 # Example usage:
 # python src/ablation.py --model_name gpt-4o-mini --at_pass 1 --sample_size 5 --run gsm8k
+# python src/ablation.py --model_name claude-3-7-sonnet-20250219 --at_pass 1 --sample_size -1 --run gsm8k

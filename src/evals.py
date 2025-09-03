@@ -5,6 +5,7 @@ import asyncio
 from dotenv import load_dotenv
 from datasets import load_dataset
 from openai import AsyncOpenAI
+import anthropic
 import requests
 from pathlib import Path
 load_dotenv()
@@ -15,7 +16,9 @@ class Benchmark():
         self.model_name = model_name
         self.sample_size = sample_size
         self.OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+        self.ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
         self.openai_client = AsyncOpenAI(api_key=self.OPENAI_API_KEY)
+        self.anthropic_client = anthropic.AsyncAnthropic(api_key=self.ANTHROPIC_API_KEY)
         self.at_pass = at_pass
 
         # datasets
@@ -149,7 +152,24 @@ class Benchmark():
                     ]
                 )
                 return response.choices[0].message.content
-            if "test" in model_name:
+            elif "claude" in model_name:
+                # Claude supports system messages properly
+                response = await self.anthropic_client.messages.create(
+                    model=model_name,
+                    max_tokens=1024,
+                    system=system_message,
+                    messages=[
+                        {"role": "user", "content": prompt}
+                    ]
+                )
+                # Extract text content from the response
+                if response.content and len(response.content) > 0:
+                    try:
+                        return response.content[0].text  # type: ignore
+                    except AttributeError:
+                        return str(response.content[0])
+                return ""
+            elif "test" in model_name:
                 return "The answer is test"
             return None
 

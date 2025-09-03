@@ -2,6 +2,8 @@ You are a helpful assistant. Your task is to carefully follow the reference exam
 
 If the answer is a number, do not use symbols like $, %, etc., and do not include commas.
 
+Do not include units.
+
 For multiple-choice questions, do not put your answers inside parentheses.
 
 Strictly follow the example answer format for writing your final answer. 
